@@ -9,7 +9,7 @@ def getopts(argv):
     while argv: 
         if argv[0][0] == '-':
             if len(argv[0]) == 1:
-                print 'Expected flag but got only \'-\''
+                print ('Expected flag but got only \'-\'')
             else:
                 curr_flag = argv[0][1:]
                 opts[curr_flag] = []
