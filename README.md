@@ -1,4 +1,4 @@
-This project utilizes Satellite imagaes and Machine Learning algorithms to build models and predict corp yiled. It is originally based on https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction, the project is current based on https://github.com/min-yin-sri/deep-transfer-learning-crop-prediction. 
+This project utilizes Satellite images and Machine Learning algorithms to build models and predict corp yileds. It is originally based on https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction, the project is current based on https://github.com/min-yin-sri/deep-transfer-learning-crop-prediction. 
 
 The paper associated with the work can be found [here] (https://www.dropbox.com/s/ei49eck573yxi6f/deep-transfer-learning.pdf?dl=0)
 
