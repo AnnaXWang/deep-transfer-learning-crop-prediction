@@ -1,11 +1,11 @@
-This project is based on https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction.
+This project utilizes Satellite imagaes and Machine Learning algorithms to build models and predict corp yiled. It is originally based on https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction, the project is current based on https://github.com/min-yin-sri/deep-transfer-learning-crop-prediction. 
 
 The paper associated with the work can be found [here] (https://www.dropbox.com/s/ei49eck573yxi6f/deep-transfer-learning.pdf?dl=0)
 
 Follow the steps below to install and run the system:
 
 1. Check out code
-  * Note the code in the [original github site] (https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction) has a few syntax errors, which can be easily fixed. After we fork out a branch and fixed all syntax errors we'll update the code repository link.
+  * Note the code in the [original github site] (https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction) has a few syntax errors, we have fixed them in our forked repository https://github.com/min-yin-sri/deep-transfer-learning-crop-prediction.
 2. Set up Google Bucket
   * Create a new Google Bucket (see this [link] (https://cloud.google.com/storage/docs/creating-buckets))
   * Or use an existing Google Bucket, one has been created for this project [here] (https://console.cloud.google.com/storage/browser/wm-crop-yield-sri-2018?project=wm-crop-yield-sri-2018&folder=true&organizationId=true)
