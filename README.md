@@ -45,6 +45,10 @@ Follow the steps below to install and run the system:
   conda install gdal
   ```
 6. Run the code
+  * Pull the imagery, need Google Earth Engine Client and Google Earth Engine Account
+  ```
+  python pull_modi.py
+  ```
   * First generate histogram:
   ```
   python histograms.py
@@ -59,7 +63,17 @@ Follow the steps below to install and run the system:
   python make_datasets.py data data soy_bean argentina 11 15
   ```
   It generates the training dataset for soy bean producton in Argentina using harvest data from 2011 to 2015
-  * The function to normalize yield data is this:
+  * Run training
+  ```
+  python train_NN.py train_data_location LSTM 
+  ```
+  LSTM can also be CNN, they are training architetures.
+  nnet_data contains the trained models and logs.
+  Training reuslts are also being saved in a google doc spread sheet, see "experiment_doc_name"
+  * Test (transfer learning)
+  ```
+  python test_NN.py
+  ```
   ```
   python make_yields.py
   ```
