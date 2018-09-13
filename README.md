@@ -25,13 +25,12 @@ Follow the steps below to install and run the system:
   $ gcsfuse <bucket_name> <local_directory>
   ```
   * Verify the mounting by creating a temp directory inside the \<local_directory>, check Google Bucket web console to verify the temp direct is there
-4. Download satellite images 
-  * Download staellite images from [here] (https://lpdaac.usgs.gov/node/804), see [project paper] (https://www.dropbox.com/s/ei49eck573yxi6f/deep-transfer-learning.pdf?dl=0) for more details.
-  * Store the downloaded images to Google Bucket \<bucket_name>
-5. Install GDAL package
+4. Install GDAL package
   * This two links [link1] (https://gis.stackexchange.com/questions/9553/installing-gdal-and-ogr-for-python) and [link2] (https://hackernoon.com/install-python-gdal-using-conda-on-mac-8f320ca36d90) have some details of how to install GDAL
   * For MacOS, first install anaconda from [here] (https://conda.io/docs/user-guide/install/macos.html)
+  * For Linux, first install anaconda from here: https://conda.io/docs/user-guide/install/linux.html
   * Then set conda in system PATH: ```export PATH=~/anaconda2/bin:$PATH```
+  * To verify the installation of anacode: ```conda list```
   * Create a new python environment with conda:
   ```
   conda create -n py27 python=2.7 anaconda
@@ -44,6 +43,13 @@ Follow the steps below to install and run the system:
   ```
   conda install gdal
   ```
+5. Download satellite images 
+  * The staellite images are from [here] (https://lpdaac.usgs.gov/node/804), see [project paper] (https://www.dropbox.com/s/ei49eck573yxi6f/deep-transfer-learning.pdf?dl=0) for more details.
+  * Run
+  ```
+  python pull_modi.py
+  ```
+  Store the downloaded images to Google Bucket \<bucket_name>
 6. Run the code
   * Pull the imagery, need Google Earth Engine Client and Google Earth Engine Account
   ```
