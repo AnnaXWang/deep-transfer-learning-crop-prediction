@@ -50,17 +50,16 @@ Follow the steps below to install and run the system:
   python pull_modi.py
   ```
   Store the downloaded images to Google Bucket \<bucket_name>
-6. Run the code
-  * Pull the imagery, need Google Earth Engine Client and Google Earth Engine Account
+6. Generate histogram:
   ```
-  python pull_modi.py
+  python histograms.py --help
   ```
-  * First generate histogram:
+  Shows the argument requirements, the following sample command will generate Brazil histograms with given Brazil satellite, temperatory, and cover images:
   ```
-  python histograms.py
+  python histograms.py -d brazil_histograms_09142018 -s brazil_sat_s000224_e161231_scl750 -c brazil_cover_s010101_e131231_scl750 -t brazil_temp_s020731_e161231_scl750
   ```
-  Use option '--help' to see argument requirements
-  * Then generate data set:
+  Note all directories are relative to the local mounted bucket.
+7. Then generate data set:
   ```
   python make_datasets.py
   ```
@@ -69,7 +68,7 @@ Follow the steps below to install and run the system:
   python make_datasets.py data data soy_bean argentina 11 15
   ```
   It generates the training dataset for soy bean producton in Argentina using harvest data from 2011 to 2015
-  * Run training
+8. Run training
   ```
   python train_NN.py train_data_location LSTM 
   ```
