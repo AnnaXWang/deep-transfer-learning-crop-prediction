@@ -97,12 +97,14 @@ def sort_harvest_year_strings(years):
 def calculate_offset(crop, country):
     #assuming that all histograms start 2002-07-31
     #we're going to assume 3 images (~24 days) for every month we cut out, and 4 images (~32 days) for every month we leave in
-    elif crop == 'soybeans' and country.lower() == 'argentina':
+    if crop == 'soybeans' and country.lower() == 'argentina':
         #Soy is October to June, but forced to be length of 32
         return 6, 32
     elif crop == 'soybeans' and country.lower() == 'brazil':
         #soybeans is September to April http://www.soybeansandcorn.com/Brazil-Crop-Cycles
         return 3, 32
+    else:
+        return 6, 32
 
 def make_files_set_test(hist_dir, crop, country, harv_begin, harv_end, season_frac, test_region_1s, test_years, test_pool_frac, filter_regions, filter_years, exclude, use_skip_file, verbose, train_fraction_keep, dev_frac, scale_factor):
     harvest_years = [(2000+i) for i in range(harv_begin, harv_end + 1)]
