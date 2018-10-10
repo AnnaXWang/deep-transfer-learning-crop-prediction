@@ -88,8 +88,8 @@ def remove_months_outside_harvest(f_data, beginning_offset, season_len, harv_beg
     dataset_year_end = 16
     beginning_year = harv_begin - dataset_year_begin
     assert(len(trimmed_to_season_end) == 14) #fourteen years from 2003 to 2016
-    total_number_of_years = min(harv_end, dataset_year_end) - beginning_year 
-    return trimmed_to_season_end[ beginning_year : total_number_of_years + 1]
+    total_number_of_years = min(harv_end, dataset_year_end) - harv_begin + 1
+    return trimmed_to_season_end[ beginning_year : beginning_year + total_number_of_years]
 
 def sort_harvest_year_strings(years):
     return sorted(years, key=lambda year_str : int(year_str)) #chronological order
