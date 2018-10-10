@@ -407,7 +407,7 @@ def main():
         print 'Test provinces =', args.test_provinces
         print 'Test years =', args.test_years
 
-    run(args.histogram_directory, args.target_directory, args.crop_of_interest, args.country, args.harvest_year_begin, args.harvest_year_end, args.season_frac, args.test_provinces, args.test_years, args.test_pool_frac, args.filter_provinces, args.filter_years, args.dev_frac_of_train, args.exclude, args.remake, args.use_skip_file, args.verbose, args.train_fraction_keep, args.scale)
+    run(args.histogram_directory, args.target_directory, args.crop_of_interest, args.country, args.harvest_year_begin, args.harvest_year_end, args.season_frac, args.test_provinces, args.test_years, args.test_pool_frac, args.filter_provinces, args.filter_years, args.dev_frac_of_train, args.exclude, args.remake, args.use_skip_file, args.verbose, args.train_fraction_keep, 1)
 
 if __name__ == '__main__':
    main() 
