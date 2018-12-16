@@ -158,8 +158,8 @@ def process_ethiopia():
     ethiopia = pd.read_csv('./static_data_files/ethiopia_yields_raw.csv', encoding='utf-8')
     ethiopia = ethiopia[['Admin 1', 'Admin2_mod', 'Year', 'Season', 'Crop',
                            'AreaPlanted_ha', 'QuantityProduced_mt', 'Yield_mt_ha']].copy()
+    ethiopia = ethiopia.dropna(axis=0)
     ethiopia["Admin 1"] = ethiopia["Admin 1"].map(CLEAN_NAME)
-    ethiopia = ethiopia[~ethiopia["Admin2_mod"].isna()].copy()
     ethiopia["Admin2_mod"] = ethiopia["Admin2_mod"].map(CLEAN_NAME)
     ethiopia['Crop'] = ethiopia['Crop'].map(lambda s: CROP_TRANSLATIONS[s])
 
