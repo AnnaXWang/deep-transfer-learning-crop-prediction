@@ -1,0 +1,680 @@
+"","Data Source Organization","Data Source Document","Country","FNID_mod","Admin 1","Admin2_mod","Pop_group","Year","Season","Crop","DNL Name of Crop in FDW","DNL Name of Crop in source","DNL Original harvest year","AreaPlanted_ha","QuantityProduced_mt","DNLQuantityProduced","Yield_mt_ha"
+"1","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2002,"Meher","01122","Maize","Maize","2001/2002",39929.09,65062.371,NA,1.62944787872701
+"2","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2002,"Meher","01122","Maize","Maize","2001/2002",19652.22,38698.123,NA,1.96914765863602
+"3","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2002,"Meher","01122","Maize","Maize","2001/2002",23712.84,46653.097,NA,1.96741921254476
+"4","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2002,"Meher","01122","Maize","Maize","2001/2002",27669.85,44483.551,NA,1.60765421568964
+"5","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2002,"Meher","01122","Maize","Maize","2001/2002",72474.91,204138.874,NA,2.81668337359784
+"6","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2002,"Meher","01122","Maize","Maize","2001/2002",2858.2,1724.2,NA,0.603246798684487
+"7","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2002,"Meher","01122","Maize","Maize","2001/2002",37906.6,67603.559,NA,1.78342449599806
+"8","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2002,"Meher","01122","Maize","Maize","2001/2002",22749.54,40381.21,NA,1.77503413255828
+"9","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2002,"Meher","01122","Maize","Maize","2001/2002",5369.69,11338.406,NA,2.11155690551969
+"10","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2002,"Meher","01122","Maize","Maize","2001/2002",76187.3,214625.889,NA,2.81708223024047
+"11","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2002,"Meher","01122","Maize","Maize","2001/2002",83607.16,185795.03,NA,2.22223826284734
+"12","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2002,"Meher","01122","Maize","Maize","2001/2002",226620.35,495055.361,NA,2.1845141488838
+"13","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2002,"Meher","01122","Maize","Maize","2001/2002",15319.8,28365.08,NA,1.85153069883419
+"14","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2002,"Meher","01122","Maize","Maize","2001/2002",13352.55,21488.044,NA,1.60928391955095
+"15","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2002,"Meher","01122","Maize","Maize","2001/2002",5831.95,13678.419,NA,2.3454280300757
+"16","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2007A21410","Addis Ababa","Region 14",NA,2002,"Meher","01122","Maize","Maize","2001/2002",64.95,19.041,NA,0.293163972286374
+"17","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2002,"Meher","01122","Maize","Maize","2001/2002",19377.67,27767.966,NA,1.43298786696233
+"18","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2002,"Meher","01122","Maize","Maize","2001/2002",3113.69,4811.875,NA,1.54539308665924
+"19","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2002,"Meher","01122","Maize","Maize","2001/2002",7107.67,10620.147,NA,1.49418121550381
+"20","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2002,"Meher","01122","Maize","Maize","2001/2002",5654.95,4972.389,NA,0.879298490702836
+"21","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2002,"Meher","01122","Maize","Maize","2001/2002",953.91,1171.485,NA,1.22808755542976
+"22","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2002,"Meher","01122","Maize","Maize","2001/2002",35568.7,59423.426,NA,1.67066623182742
+"23","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2002,"Meher","01122","Maize","Maize","2001/2002",33941.09,54746.797,NA,1.6129946622221
+"24","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2002,"Meher","01122","Maize","Maize","2001/2002",6523.4,7027.602,NA,1.07729128981819
+"25","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2002,"Meher","01122","Maize","Maize","2001/2002",8024.93,7872.498,NA,0.981005192568658
+"26","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2002,"Meher","01122","Maize","Maize","2001/2002",46930.47,95556.569,NA,2.0361306630852
+"27","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2002,"Meher","01122","Maize","Maize","2001/2002",111417.75,289770.597,NA,2.6007579312991
+"28","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2002,"Meher","01122","Maize","Maize","2001/2002",1296.14,854.32,NA,0.659126328945947
+"29","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2002,"Meher","01122","Maize","Maize","2001/2002",34085.13,106725.979,NA,3.13115951149372
+"30","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2002,"Meher","01122","Maize","Maize","2001/2002",7138.02,7977.885,NA,1.11766077988013
+"31","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2002,"Meher","01122","Maize","Maize","2001/2002",71933.55,141925.832,NA,1.97301303772718
+"32","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2002,"Meher","01122","Maize","Maize","2001/2002",103963.08,249287.542,NA,2.39784683177913
+"33","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2002,"Meher","01122","Maize","Maize","2001/2002",5340.7,8004.559,NA,1.49878461624881
+"34","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2002,"Meher","01122","Maize","Maize","2001/2002",42379.9,70429.017,NA,1.66184953244345
+"35","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2002,"Meher","01122","Maize","Maize","2001/2002",36497.87,71454.631,NA,1.95777537154908
+"36","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2002,"Meher","01122","Maize","Maize","2001/2002",63.6,78.8,NA,1.23899371069182
+"37","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2002,"Meher","01122","Maize","Maize","2001/2002",18552,25173,NA,1.35688874514877
+"38","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2002,"Meher","01122","Maize","Maize","2001/2002",21872.69,33749.05,NA,1.54297665262023
+"39","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2002,"Meher","01122","Maize","Maize","2001/2002",25348.82,44760.93,NA,1.76579935476286
+"40","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2002,"Meher","01122","Maize","Maize","2001/2002",4857.81,10085.261,NA,2.07609210734879
+"41","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2002,"Meher","01122","Maize","Maize","2001/2002",5394.58,7846.71,NA,1.45455438606898
+"42","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2002,"Meher","01122","Maize","Maize","2001/2002",9570.78,15477.33,NA,1.61714405722418
+"43","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2002,"Meher","01122","Maize","Maize","2001/2002",1704.55,2239.046,NA,1.3135701504796
+"44","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2002,"Meher","01122","Maize","Maize","2001/2002",7723.66,6393.565,NA,0.827789545370977
+"45","CSA, Ethiopia","Agricultural Sample Enumeration, 2001-2002, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2002,"Meher","01122","Maize","Maize","2001/2002",765,918.6,NA,1.20078431372549
+"46","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2001,"Meher","01122","Maize","Maize","2000/2001",8790,24420,NA,2.77815699658703
+"47","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2001,"Meher","01122","Maize","Maize","2000/2001",1080,960,NA,0.888888888888889
+"48","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2004,"Meher","01122","Maize","Maize","2003/2004",925,1205.3,NA,1.30302702702703
+"49","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2005,"Meher","01122","Maize","Maize","2004/2005",1149,1014.8,NA,0.883202785030461
+"50","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2006,"Meher","01122","Maize","Maize","2005/2006",933.06,1214.117,NA,1.30122071463786
+"51","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2007,"Meher","01122","Maize","Maize","2006/2007",1366.38,2212.699,NA,1.61938772523017
+"52","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2001,"Meher","01122","Maize","Maize","2000/2001",370,410,NA,1.10810810810811
+"53","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2002,"Meher","01122","Maize","Maize","2001/2002",465,539.3,NA,1.15978494623656
+"54","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2004,"Meher","01122","Maize","Maize","2003/2004",184,234.9,NA,1.27663043478261
+"55","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2005,"Meher","01122","Maize","Maize","2004/2005",281,307.1,NA,1.09288256227758
+"56","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2006,"Meher","01122","Maize","Maize","2005/2006",106.41,129.51,NA,1.21708486044545
+"57","CSA, Ethiopia","Agricultural Sample Survey, 1995-1996/2014-2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2007,"Meher","01122","Maize","Maize","2006/2007",335.48,374.977,NA,1.11773280076309
+"58","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2001,"Meher","01122","Maize","Maize","2000/2001",116020,173284,NA,1.49357007412515
+"59","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2001,"Meher","01122","Maize","Maize","2000/2001",22030,41475,NA,1.88266000907853
+"60","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2001,"Meher","01122","Maize","Maize","2000/2001",26550,46066,NA,1.735065913371
+"61","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2001,"Meher","01122","Maize","Maize","2000/2001",45340,67177,NA,1.48162770180856
+"62","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2001,"Meher","01122","Maize","Maize","2000/2001",54090,117242,NA,2.16753558883343
+"63","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2001,"Meher","01122","Maize","Maize","2000/2001",4320,NA,NA,NA
+"64","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2001,"Meher","01122","Maize","Maize","2000/2001",47810,98235,NA,2.05469567036185
+"65","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2001,"Meher","01122","Maize","Maize","2000/2001",33180,65205,NA,1.96518987341772
+"66","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2001,"Meher","01122","Maize","Maize","2000/2001",113080,264730,NA,2.34108595684471
+"67","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2001,"Meher","01122","Maize","Maize","2000/2001",106230,212111,NA,1.99671467570366
+"68","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2001,"Meher","01122","Maize","Maize","2000/2001",211970,374236,NA,1.76551398782847
+"69","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2001,"Meher","01122","Maize","Maize","2000/2001",15950,24705,NA,1.54890282131661
+"70","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2001,"Meher","01122","Maize","Maize","2000/2001",16170,16632,NA,1.02857142857143
+"71","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2001,"Meher","01122","Maize","Maize","2000/2001",10710,22674,NA,2.11708683473389
+"72","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2007A21410","Addis Ababa","Region 14",NA,2001,"Meher","01122","Maize","Maize","2000/2001",30,NA,NA,NA
+"73","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2001,"Meher","01122","Maize","Maize","2000/2001",17980,25537,NA,1.42030033370412
+"74","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2001,"Meher","01122","Maize","Maize","2000/2001",1700,2743,NA,1.61352941176471
+"75","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2001,"Meher","01122","Maize","Maize","2000/2001",9450,11713,NA,1.2394708994709
+"76","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2001,"Meher","01122","Maize","Maize","2000/2001",3650,6886,NA,1.88657534246575
+"77","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2001,"Meher","01122","Maize","Maize","2000/2001",3100,409,NA,0.131935483870968
+"78","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2001,"Meher","01122","Maize","Maize","2000/2001",44770,60726,NA,1.35639937458119
+"79","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2001,"Meher","01122","Maize","Maize","2000/2001",40580,39345,NA,0.969566288812223
+"80","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2001,"Meher","01122","Maize","Maize","2000/2001",8080,12124,NA,1.50049504950495
+"81","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2001,"Meher","01122","Maize","Maize","2000/2001",11540,15294,NA,1.32530329289428
+"82","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2001,"Meher","01122","Maize","Maize","2000/2001",54600,91907,NA,1.68327838827839
+"83","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2001,"Meher","01122","Maize","Maize","2000/2001",146470,315523,NA,2.15418174370178
+"84","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2001,"Meher","01122","Maize","Maize","2000/2001",1530,789,NA,0.515686274509804
+"85","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2001,"Meher","01122","Maize","Maize","2000/2001",39070,74909,NA,1.91730227796263
+"86","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2001,"Meher","01122","Maize","Maize","2000/2001",14940,21635,NA,1.44812583668005
+"87","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2001,"Meher","01122","Maize","Maize","2000/2001",75090,154901,NA,2.06287122120123
+"88","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2001,"Meher","01122","Maize","Maize","2000/2001",119050,286202,NA,2.40404871902562
+"89","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2001,"Meher","01122","Maize","Maize","2000/2001",3410,4043,NA,1.18563049853372
+"90","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2001,"Meher","01122","Maize","Maize","2000/2001",80450,124384,NA,1.5461031696706
+"91","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2001,"Meher","01122","Maize","Maize","2000/2001",62540,119698,NA,1.91394307643108
+"92","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2001,"Meher","01122","Maize","Maize","2000/2001",110,90,NA,0.818181818181818
+"93","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2001,"Meher","01122","Maize","Maize","2000/2001",22140,17307,NA,0.781707317073171
+"94","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2001,"Meher","01122","Maize","Maize","2000/2001",28550,47418,NA,1.66087565674256
+"95","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2001,"Meher","01122","Maize","Maize","2000/2001",48130,77703,NA,1.61444005817577
+"96","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2001,"Meher","01122","Maize","Maize","2000/2001",9220,16487,NA,1.78817787418655
+"97","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2001,"Meher","01122","Maize","Maize","2000/2001",14890,18383,NA,1.23458697112156
+"98","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2001,"Meher","01122","Maize","Maize","2000/2001",12960,27643,NA,2.1329475308642
+"99","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2001,"Meher","01122","Maize","Maize","2000/2001",2060,3816,NA,1.85242718446602
+"100","CSA, Ethiopia","Agricultural Sample Survey, 2000-2001, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2001,"Meher","01122","Maize","Maize","2000/2001",6490,NA,NA,NA
+"101","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2004,"Meher","01122","Maize","Maize","2003/2004",44625,NA,NA,NA
+"102","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2004,"Meher","01122","Maize","Maize","2003/2004",13768,25401.2,NA,1.84494479953515
+"103","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2004,"Meher","01122","Maize","Maize","2003/2004",22348,38302.9,NA,1.71392965813496
+"104","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2004,"Meher","01122","Maize","Maize","2003/2004",40560,72152.2,NA,1.77890039447732
+"105","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2004,"Meher","01122","Maize","Maize","2003/2004",68298,134362.2,NA,1.967293332162
+"106","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2004,"Meher","01122","Maize","Maize","2003/2004",4610,536,NA,0.116268980477223
+"107","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2004,"Meher","01122","Maize","Maize","2003/2004",44327,102249.5,NA,2.306709229138
+"108","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2004,"Meher","01122","Maize","Maize","2003/2004",15547,NA,NA,NA
+"109","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2004,"Meher","01122","Maize","Maize","2003/2004",5967,NA,NA,NA
+"110","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2004,"Meher","01122","Maize","Maize","2003/2004",87690,179095.3,NA,2.04236857110275
+"111","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2004,"Meher","01122","Maize","Maize","2003/2004",92029,179523.9,NA,1.95073183453042
+"112","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2004,"Meher","01122","Maize","Maize","2003/2004",214188,478215.2,NA,2.23268903953536
+"113","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2004,"Meher","01122","Maize","Maize","2003/2004",18910,27565.5,NA,1.45772078265468
+"114","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2004,"Meher","01122","Maize","Maize","2003/2004",10164,14163,NA,1.39344746162928
+"115","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2004,"Meher","01122","Maize","Maize","2003/2004",6768,16445.9,NA,2.42994976359338
+"116","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2007A21410","Addis Ababa","Region 14",NA,2004,"Meher","01122","Maize","Maize","2003/2004",66,20.3,NA,0.307575757575758
+"117","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2004,"Meher","01122","Maize","Maize","2003/2004",12763,15683.5,NA,1.22882551124344
+"118","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2004,"Meher","01122","Maize","Maize","2003/2004",2575,3683.4,NA,1.43044660194175
+"119","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2004,"Meher","01122","Maize","Maize","2003/2004",5936,6114.4,NA,1.0300539083558
+"120","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2004,"Meher","01122","Maize","Maize","2003/2004",7029,20474.1,NA,2.91280409731114
+"121","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2005,"Meher","01122","Maize","Maize",NA,6144,12737,NA,2.07307942708333
+"122","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2004,"Meher","01122","Maize","Maize","2003/2004",798,808.1,NA,1.01265664160401
+"123","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2004,"Meher","01122","Maize","Maize","2003/2004",35328,46533.7,NA,1.31719033061594
+"124","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2004,"Meher","01122","Maize","Maize","2003/2004",25262,29807.2,NA,1.1799224131106
+"125","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2004,"Meher","01122","Maize","Maize","2003/2004",5635,5971.7,NA,1.05975155279503
+"126","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2004,"Meher","01122","Maize","Maize","2003/2004",5643,6811.8,NA,1.20712387028177
+"127","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2004,"Meher","01122","Maize","Maize","2003/2004",27081,39619.6,NA,1.46300358184705
+"128","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2004,"Meher","01122","Maize","Maize","2003/2004",107384,237416.8,NA,2.21091410265961
+"129","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2004,"Meher","01122","Maize","Maize","2003/2004",1810,1591.6,NA,0.879337016574586
+"130","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2004,"Meher","01122","Maize","Maize","2003/2004",33646,72094.7,NA,2.1427420792962
+"131","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2004,"Meher","01122","Maize","Maize","2003/2004",6243,10401.3,NA,1.66607400288323
+"132","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2004,"Meher","01122","Maize","Maize","2003/2004",67865,117124.4,NA,1.72584395491048
+"133","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2004,"Meher","01122","Maize","Maize","2003/2004",113665,212861.9,NA,1.87271279637531
+"134","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2004,"Meher","01122","Maize","Maize","2003/2004",5305,5626.5,NA,1.06060320452403
+"135","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2004,"Meher","01122","Maize","Maize","2003/2004",54259,88581.8,NA,1.63257339796163
+"136","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2004,"Meher","01122","Maize","Maize","2003/2004",42505,84014.6,NA,1.97658157863781
+"137","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2004,"Meher","01122","Maize","Maize","2003/2004",86,73.5,NA,0.854651162790698
+"138","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2004,"Meher","01122","Maize","Maize","2003/2004",17350,11005,NA,0.634293948126801
+"139","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2004,"Meher","01122","Maize","Maize","2003/2004",26943,41768.3,NA,1.55024681735516
+"140","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2004,"Meher","01122","Maize","Maize","2003/2004",37562,74549.4,NA,1.98470262499334
+"141","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2004,"Meher","01122","Maize","Maize","2003/2004",6235,10792.2,NA,1.73090617481957
+"142","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2004,"Meher","01122","Maize","Maize","2003/2004",8591,9701.7,NA,1.12928646257712
+"143","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2004,"Meher","01122","Maize","Maize","2003/2004",8746,9004.5,NA,1.02955636862566
+"144","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2004,"Meher","01122","Maize","Maize","2003/2004",1969,2406.1,NA,1.22199085830371
+"145","CSA, Ethiopia","Agricultural Sample Survey, 2003-2004, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2004,"Meher","01122","Maize","Maize","2003/2004",NA,3779.6,NA,NA
+"146","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2005,"Meher","01122","Maize","Maize","2004/2005",20419,NA,NA,NA
+"147","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2005,"Meher","01122","Maize","Maize","2004/2005",13719,31947.6,NA,2.3287120052482
+"148","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2005,"Meher","01122","Maize","Maize","2004/2005",24212,34209.8,NA,1.41292747397984
+"149","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2005,"Meher","01122","Maize","Maize","2004/2005",41380,62386.2,NA,1.50764137264379
+"150","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2005,"Meher","01122","Maize","Maize","2004/2005",66619,122645.3,NA,1.84099581200558
+"151","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2005,"Meher","01122","Maize","Maize","2004/2005",5532,1841.7,NA,0.332917570498915
+"152","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2005,"Meher","01122","Maize","Maize","2004/2005",40331,58452.9,NA,1.44932930004215
+"153","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2005,"Meher","01122","Maize","Maize","2004/2005",12804,20493.4,NA,1.60054670415495
+"154","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2005,"Meher","01122","Maize","Maize","2004/2005",6144,12737.9,NA,2.07322591145833
+"155","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2005,"Meher","01122","Maize","Maize","2004/2005",79683,183284.6,NA,2.30017193127769
+"156","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2005,"Meher","01122","Maize","Maize","2004/2005",105698,223147.4,NA,2.11117901947057
+"157","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2005,"Meher","01122","Maize","Maize","2004/2005",226211,390291.1,NA,1.72534094274814
+"158","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2005,"Meher","01122","Maize","Maize","2004/2005",19353,32333.9,NA,1.67074355397096
+"159","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2005,"Meher","01122","Maize","Maize","2004/2005",8723,8538.6,NA,0.978860483778517
+"160","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2005,"Meher","01122","Maize","Maize","2004/2005",8059,17685,NA,2.19444099764239
+"161","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2007A21410","Addis Ababa","Region 14",NA,2005,"Meher","01122","Maize","Maize","2004/2005",13,10.4,NA,0.8
+"162","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2005,"Meher","01122","Maize","Maize","2004/2005",14647,13420.2,NA,0.916242233904554
+"163","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2005,"Meher","01122","Maize","Maize","2004/2005",3069,2544,NA,0.828934506353861
+"164","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2005,"Meher","01122","Maize","Maize","2004/2005",5271,3744.2,NA,0.710339594004933
+"165","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2005,"Meher","01122","Maize","Maize","2004/2005",719,393.2,NA,0.546870653685675
+"166","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2005,"Meher","01122","Maize","Maize","2004/2005",40593,78372.3,NA,1.93068509348903
+"167","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2005,"Meher","01122","Maize","Maize","2004/2005",30963,33021.2,NA,1.06647288699415
+"168","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2005,"Meher","01122","Maize","Maize","2004/2005",5404,3596.3,NA,0.665488527017024
+"169","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2005,"Meher","01122","Maize","Maize","2004/2005",5650,6946.4,NA,1.22945132743363
+"170","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2005,"Meher","01122","Maize","Maize","2004/2005",27242,49176.7,NA,1.80517950223919
+"171","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2005,"Meher","01122","Maize","Maize","2004/2005",116698,225835,NA,1.93520882962861
+"172","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2005,"Meher","01122","Maize","Maize","2004/2005",2658,1153.3,NA,0.433897667419112
+"173","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2005,"Meher","01122","Maize","Maize","2004/2005",40035,82091.9,NA,2.0505033096041
+"174","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2005,"Meher","01122","Maize","Maize","2004/2005",7276,8449.9,NA,1.16133864760858
+"175","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2005,"Meher","01122","Maize","Maize","2004/2005",72572,114347.3,NA,1.57563936504437
+"176","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2005,"Meher","01122","Maize","Maize","2004/2005",101712,232536.8,NA,2.28622778039956
+"177","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2005,"Meher","01122","Maize","Maize","2004/2005",5638,6684.6,NA,1.18563320326357
+"178","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2005,"Meher","01122","Maize","Maize","2004/2005",47415,57950,NA,1.22218707160181
+"179","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2005,"Meher","01122","Maize","Maize","2004/2005",44758,59374.5,NA,1.32656731757451
+"180","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2005,"Meher","01122","Maize","Maize","2004/2005",129,18.9,NA,0.146511627906977
+"181","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2005,"Meher","01122","Maize","Maize","2004/2005",19999,8500.5,NA,0.425046252312616
+"182","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2005,"Meher","01122","Maize","Maize","2004/2005",23474,40876.1,NA,1.74133509414672
+"183","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2005,"Meher","01122","Maize","Maize","2004/2005",31316,60972.5,NA,1.94700791927449
+"184","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2005,"Meher","01122","Maize","Maize","2004/2005",9731,17361.5,NA,1.7841434590484
+"185","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2005,"Meher","01122","Maize","Maize","2004/2005",10262,19343.7,NA,1.88498343402845
+"186","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2005,"Meher","01122","Maize","Maize","2004/2005",8198,6990.2,NA,0.852671383264211
+"187","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2005,"Meher","01122","Maize","Maize","2004/2005",1601,2228.8,NA,1.39212991880075
+"188","CSA, Ethiopia","Agricultural Sample Survey, 2004-2005, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2005,"Meher","01122","Maize","Maize","2004/2005",10422,11311.4,NA,1.08533870658223
+"189","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2006,"Meher","01122","Maize","Maize","2005/2006",33493.54,52012.691,NA,1.55291709983477
+"190","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2006,"Meher","01122","Maize","Maize","2005/2006",14900.61,34768.603,NA,2.33336776145406
+"191","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2006,"Meher","01122","Maize","Maize","2005/2006",19997.17,36291.703,NA,1.81484195013594
+"192","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2006,"Meher","01122","Maize","Maize","2005/2006",34053.47,58870.504,NA,1.72876667194268
+"193","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2006,"Meher","01122","Maize","Maize","2005/2006",79929.36,208181.243,NA,2.60456536872058
+"194","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2006,"Meher","01122","Maize","Maize","2005/2006",2885.6,NA,NA,NA
+"195","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2006,"Meher","01122","Maize","Maize","2005/2006",43295.07,85881.885,NA,1.98364120903373
+"196","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2006,"Meher","01122","Maize","Maize","2005/2006",14367.73,25784.083,NA,1.79458292994092
+"197","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2006,"Meher","01122","Maize","Maize","2005/2006",5842,12558.4,NA,2.14967476891476
+"198","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2006,"Meher","01122","Maize","Maize","2005/2006",109482.61,290644.811,NA,2.6547121136407
+"199","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2006,"Meher","01122","Maize","Maize","2005/2006",111729.01,279272.52,NA,2.49955244389975
+"200","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2006,"Meher","01122","Maize","Maize","2005/2006",235743.95,602531.493,NA,2.55587256003813
+"201","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2006,"Meher","01122","Maize","Maize","2005/2006",20114.57,37139.093,NA,1.84637767548598
+"202","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2006,"Meher","01122","Maize","Maize","2005/2006",10579.45,17037.318,NA,1.61041623146761
+"203","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2006,"Meher","01122","Maize","Maize","2005/2006",11606.19,25523.725,NA,2.19914761002534
+"204","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2007A21410","Addis Ababa","Region 14",NA,2006,"Meher","01122","Maize","Maize","2005/2006",11.72,5.347,NA,0.456228668941979
+"205","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2006,"Meher","01122","Maize","Maize","2005/2006",14939.73,25228.845,NA,1.6887082296668
+"206","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2006,"Meher","01122","Maize","Maize","2005/2006",5524.27,8903.316,NA,1.6116728545129
+"207","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2006,"Meher","01122","Maize","Maize","2005/2006",5730.85,9909.018,NA,1.72906601987489
+"208","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2006,"Meher","01122","Maize","Maize","2005/2006",11985.14,33634.744,NA,2.80637055553794
+"209","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2006,"Meher","01122","Maize","Maize","2005/2006",791.23,1093.012,NA,1.38140869279476
+"210","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2006,"Meher","01122","Maize","Maize","2005/2006",48214.61,96498.429,NA,2.00143543627129
+"211","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2006,"Meher","01122","Maize","Maize","2005/2006",39053.03,59083.949,NA,1.51291587362107
+"212","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2006,"Meher","01122","Maize","Maize","2005/2006",6268.33,8266.498,NA,1.31877198552086
+"213","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2006,"Meher","01122","Maize","Maize","2005/2006",5652.36,10562.706,NA,1.86872492197949
+"214","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2006,"Meher","01122","Maize","Maize","2005/2006",37760.48,67690.874,NA,1.79263807027877
+"215","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2006,"Meher","01122","Maize","Maize","2005/2006",133775.5,323513.079,NA,2.41832831123786
+"216","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2006,"Meher","01122","Maize","Maize","2005/2006",2172.96,2449.002,NA,1.12703501214933
+"217","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2006,"Meher","01122","Maize","Maize","2005/2006",52687.55,132286.762,NA,2.51077839072039
+"218","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2006,"Meher","01122","Maize","Maize","2005/2006",4919.24,8291.533,NA,1.68553130158317
+"219","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2006,"Meher","01122","Maize","Maize","2005/2006",70124.19,145532.037,NA,2.07534713769956
+"220","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2006,"Meher","01122","Maize","Maize","2005/2006",110206.2,258677.768,NA,2.34721610943849
+"221","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2006,"Meher","01122","Maize","Maize","2005/2006",5870.05,6196.231,NA,1.05556698835615
+"222","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2006,"Meher","01122","Maize","Maize","2005/2006",44046.47,74317.864,NA,1.68726038658717
+"223","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2006,"Meher","01122","Maize","Maize","2005/2006",56910.85,107523.957,NA,1.88934020489942
+"224","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2006,"Meher","01122","Maize","Maize","2005/2006",67.83,79.362,NA,1.17001326846528
+"225","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2006,"Meher","01122","Maize","Maize","2005/2006",20011.91,13640.53,NA,0.681620594935716
+"226","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2006,"Meher","01122","Maize","Maize","2005/2006",20713.95,37547.492,NA,1.81266692253288
+"227","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2006,"Meher","01122","Maize","Maize","2005/2006",40046.62,84651.306,NA,2.11381899396254
+"228","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2006,"Meher","01122","Maize","Maize","2005/2006",6361.65,12306.924,NA,1.93454905566952
+"229","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2006,"Meher","01122","Maize","Maize","2005/2006",9578.11,9427.903,NA,0.984317678539921
+"230","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2006,"Meher","01122","Maize","Maize","2005/2006",9789.35,18878.852,NA,1.92850924729425
+"231","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2006,"Meher","01122","Maize","Maize","2005/2006",2025.4,3939.071,NA,1.94483608176163
+"232","CSA, Ethiopia","Agricultural Sample Survey, 2005-2006, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2006,"Meher","01122","Maize","Maize","2005/2006",11825.36,8817.08,NA,0.745607744711366
+"233","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2007,"Meher","01122","Maize","Maize","2006/2007",45139.21,71768.805,NA,1.58994375400013
+"234","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2007,"Meher","01122","Maize","Maize","2006/2007",19743.77,48113.718,NA,2.4369063253877
+"235","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2007,"Meher","01122","Maize","Maize","2006/2007",25828.68,52297.871,NA,2.02479844111275
+"236","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2007,"Meher","01122","Maize","Maize","2006/2007",38755.47,80967.33,NA,2.08918457188108
+"237","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2007,"Meher","01122","Maize","Maize","2006/2007",78245.12,182684.703,NA,2.33477439871011
+"238","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2007,"Meher","01122","Maize","Maize","2006/2007",6867.47,NA,NA,NA
+"239","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2007,"Meher","01122","Maize","Maize","2006/2007",42880.3,99330.718,NA,2.31646509002969
+"240","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2007,"Meher","01122","Maize","Maize","2006/2007",12894.5,28057.937,NA,2.1759616115398
+"241","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2007,"Meher","01122","Maize","Maize","2006/2007",5842,12558.4,NA,2.14967476891476
+"242","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2007,"Meher","01122","Maize","Maize","2006/2007",117730.49,318516.271,NA,2.70546967909502
+"243","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2007,"Meher","01122","Maize","Maize","2006/2007",108534.94,263997.929,NA,2.43237734318552
+"244","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2007,"Meher","01122","Maize","Maize","2006/2007",261454.2,638694.123,NA,2.44285279410314
+"245","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2007,"Meher","01122","Maize","Maize","2006/2007",19691.6,36280.93,NA,1.84245718986776
+"246","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2007,"Meher","01122","Maize","Maize","2006/2007",11673.24,19024.963,NA,1.62979284243278
+"247","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2007,"Meher","01122","Maize","Maize","2006/2007",11743.67,29080.376,NA,2.47625963604223
+"248","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2007A21410","Addis Ababa","Region 14",NA,2007,"Meher","01122","Maize","Maize","2006/2007",26.3,5.081,NA,0.19319391634981
+"249","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2007,"Meher","01122","Maize","Maize","2006/2007",17438.57,24398.466,NA,1.39910933063892
+"250","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2007,"Meher","01122","Maize","Maize","2006/2007",5295.57,7947.504,NA,1.50078348506393
+"251","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2007,"Meher","01122","Maize","Maize","2006/2007",10050.39,18024.131,NA,1.7933762769405
+"252","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2007,"Meher","01122","Maize","Maize","2006/2007",12385.65,48164.605,NA,3.88874261746457
+"253","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2007,"Meher","01122","Maize","Maize","2006/2007",835.35,896.417,NA,1.07310348955528
+"254","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2007,"Meher","01122","Maize","Maize","2006/2007",50291.5,111856.612,NA,2.22416535597467
+"255","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2007,"Meher","01122","Maize","Maize","2006/2007",45529,72790.13,NA,1.5987640844297
+"256","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2007,"Meher","01122","Maize","Maize","2006/2007",6826.49,9153.961,NA,1.34094695809999
+"257","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2007,"Meher","01122","Maize","Maize","2006/2007",6857.74,14143.797,NA,2.0624574568298
+"258","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2007,"Meher","01122","Maize","Maize","2006/2007",48367.78,110832.197,NA,2.29144684746747
+"259","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2007,"Meher","01122","Maize","Maize","2006/2007",143282.41,380398.438,NA,2.65488581606074
+"260","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2007,"Meher","01122","Maize","Maize","2006/2007",2684.1,3368.64,NA,1.25503520733207
+"261","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2007,"Meher","01122","Maize","Maize","2006/2007",55706.2,138670.573,NA,2.48932027314733
+"262","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2007,"Meher","01122","Maize","Maize","2006/2007",5718.62,8530.821,NA,1.49176217339148
+"263","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2007,"Meher","01122","Maize","Maize","2006/2007",77351.67,163976.769,NA,2.11988660361179
+"264","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2007,"Meher","01122","Maize","Maize","2006/2007",133855.69,313698.092,NA,2.34355440549445
+"265","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2007,"Meher","01122","Maize","Maize","2006/2007",4681.5,5199.356,NA,1.11061753711417
+"266","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2007,"Meher","01122","Maize","Maize","2006/2007",65754.52,115481.692,NA,1.7562548095553
+"267","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2007,"Meher","01122","Maize","Maize","2006/2007",62368.59,132588.556,NA,2.12588670034067
+"268","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2007,"Meher","01122","Maize","Maize","2006/2007",201.62,192.107,NA,0.952817180835235
+"269","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2007,"Meher","01122","Maize","Maize","2006/2007",29950.11,23435.257,NA,0.782476491739096
+"270","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2007,"Meher","01122","Maize","Maize","2006/2007",21210.01,43839.832,NA,2.06694065679366
+"271","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2007,"Meher","01122","Maize","Maize","2006/2007",34929.91,73254.112,NA,2.09717437004561
+"272","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2007,"Meher","01122","Maize","Maize","2006/2007",6693.73,14921.282,NA,2.22914309361148
+"273","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2007,"Meher","01122","Maize","Maize","2006/2007",10262.49,12233.478,NA,1.19205748312544
+"274","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2007,"Meher","01122","Maize","Maize","2006/2007",11693.41,28288.108,NA,2.41914958938411
+"275","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2007,"Meher","01122","Maize","Maize","2006/2007",1967.45,3628.045,NA,1.84403415588706
+"276","CSA, Ethiopia","Agricultural Sample Survey, 2006-2007, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2007,"Meher","01122","Maize","Maize","2006/2007",10816.1,8305.599,NA,0.767892216233208
+"277","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2008,"Meher","01122","Maize","Maize","2007/2008",30306.26,NA,NA,NA
+"278","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2009,"Meher","01122","Maize","Maize","2008/2009",61471.36,104018.022,1040180.22,1.69213796473675
+"279","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2011,"Meher","01122","Maize","Maize","2010/2011",46133.65,93772.196,937721.96,2.03262035412329
+"280","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2012,"Meher","01122","Maize","Maize","2011/2012",72843.24,185007.649,1850076.49,2.53980532716557
+"281","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2013,"Meher","01122","Maize","Maize","2012/2013",65611,186565.133,1865651.33,2.84350387892274
+"282","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2015,"Meher","01122","Maize","Maize","2014/2015",76432.19,249286.526,2492865.26,3.26153844342286
+"283","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2008,"Meher","01122","Maize","Maize","2007/2008",11171.22,18968.421,189684.21,1.69797219999248
+"284","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2009,"Meher","01122","Maize","Maize","2008/2009",21220.36,42731.665,427316.65,2.01371065335367
+"285","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2011,"Meher","01122","Maize","Maize","2010/2011",24524.22,61727.743,617277.43,2.51701146866241
+"286","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2012,"Meher","01122","Maize","Maize","2011/2012",29125.31,65534.691,655346.91,2.25009419642229
+"287","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2013,"Meher","01122","Maize","Maize","2012/2013",37751.88,98220.6,982206,2.60174062854618
+"288","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2015,"Meher","01122","Maize","Maize","2014/2015",25181.68,75378.478,753784.78,2.99338558825305
+"289","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2008,"Meher","01122","Maize","Maize","2007/2008",30064.91,45741.804,457418.04,1.52143492197382
+"290","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2009,"Meher","01122","Maize","Maize","2008/2009",29207.08,58504.093,585040.93,2.00307915067169
+"291","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2011,"Meher","01122","Maize","Maize","2010/2011",28799.95,74104.57,741045.7,2.57307981437468
+"292","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2012,"Meher","01122","Maize","Maize","2011/2012",31419.26,92183.748,921837.48,2.93398851532468
+"293","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2013,"Meher","01122","Maize","Maize","2012/2013",35215.26,102072.525,1020725.25,2.89853106295396
+"294","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2015,"Meher","01122","Maize","Maize","2014/2015",33608.11,100772.197,1007721.97,2.99844879703143
+"295","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2008,"Meher","01122","Maize","Maize","2007/2008",50181.09,105180.994,1051809.94,2.09602848403652
+"296","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2009,"Meher","01122","Maize","Maize","2008/2009",42970.69,95032.53,950325.3,2.21156630251923
+"297","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2011,"Meher","01122","Maize","Maize","2010/2011",43255.93,88364.983,883649.83,2.04284090065801
+"298","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2012,"Meher","01122","Maize","Maize","2011/2012",64356.3,216795.389,2167953.89,3.3686739138204
+"299","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2013,"Meher","01122","Maize","Maize","2012/2013",62205.26,202035.493,2020354.93,3.24788439112705
+"300","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2015,"Meher","01122","Maize","Maize","2014/2015",60288.99,181759.117,1817591.17,3.01479784285655
+"301","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2008,"Meher","01122","Maize","Maize","2007/2008",92486.39,187549.198,1875491.98,2.02785726635022
+"302","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2009,"Meher","01122","Maize","Maize","2008/2009",80869.95,184955.142,1849551.42,2.28706883088218
+"303","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2011,"Meher","01122","Maize","Maize","2010/2011",139325.63,412162.322,4121623.22,2.95826634338564
+"304","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2012,"Meher","01122","Maize","Maize","2011/2012",116031.28,359161.516,3591615.16,3.09538527886618
+"305","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2013,"Meher","01122","Maize","Maize","2012/2013",126219.56,410000.011,4100000.11,3.24830803561667
+"306","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2015,"Meher","01122","Maize","Maize","2014/2015",128276.98,424662.147,4246621.47,3.3105093914746
+"307","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2008,"Meher","01122","Maize","Maize","2007/2008",4949.38,9359.215,93592.15,1.89098735599206
+"308","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2009,"Meher","01122","Maize","Maize","2008/2009",4804.01,9797.265,97972.65,2.03939313198765
+"309","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2011,"Meher","01122","Maize","Maize","2010/2011",4009.47,9361.664,93616.64,2.33488815229943
+"310","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2012,"Meher","01122","Maize","Maize","2011/2012",3627.48,8297.96,82979.6,2.28752742951029
+"311","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2013,"Meher","01122","Maize","Maize","2012/2013",5564.39,12016.085,120160.85,2.15946132460162
+"312","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2015,"Meher","01122","Maize","Maize","2014/2015",5826.67,12944.953,129449.53,2.2216725848555
+"313","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2008,"Meher","01122","Maize","Maize","2007/2008",55917.73,117726.038,1177260.38,2.10534365397165
+"314","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2009,"Meher","01122","Maize","Maize","2008/2009",57697.61,111601.589,1116015.89,1.9342497722176
+"315","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2011,"Meher","01122","Maize","Maize","2010/2011",55082.38,153075.5,1530755,2.77902842978099
+"316","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2012,"Meher","01122","Maize","Maize","2011/2012",67301.75,238335.444,2383354.44,3.54129638530945
+"317","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2013,"Meher","01122","Maize","Maize","2012/2013",66032.94,222025.866,2220258.66,3.36235015433207
+"318","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2015,"Meher","01122","Maize","Maize","2014/2015",67089.83,256620.891,2566208.91,3.82503415197206
+"319","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2008,"Meher","01122","Maize","Maize","2007/2008",16632.63,33250.029,332500.29,1.99908426989598
+"320","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2009,"Meher","01122","Maize","Maize","2008/2009",23037.09,46119.996,461199.96,2.00198879285535
+"321","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2011,"Meher","01122","Maize","Maize","2010/2011",18492.39,46974.919,469749.19,2.54022973774618
+"322","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2012,"Meher","01122","Maize","Maize","2011/2012",24137.28,64454.645,644546.45,2.67033588705935
+"323","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2013,"Meher","01122","Maize","Maize","2012/2013",22541.22,61361.036,613610.36,2.72217013985933
+"324","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2015,"Meher","01122","Maize","Maize","2014/2015",19534.41,68247.266,682472.66,3.4936947673362
+"325","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2008,"Meher","01122","Maize","Maize","2007/2008",6823.83,13746.677,137466.77,2.01451047285762
+"326","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2009,"Meher","01122","Maize","Maize","2008/2009",6001.7,13841.782,138417.82,2.30631021210657
+"327","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2011,"Meher","01122","Maize","Maize","2010/2011",6051.1,10245.941,102459.41,1.693236105832
+"328","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2012,"Meher","01122","Maize","Maize","2011/2012",4518.4,NA,NA,NA
+"329","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2013,"Meher","01122","Maize","Maize","2012/2013",5070.81,11972.488,119724.88,2.36106026453367
+"330","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2008,"Meher","01122","Maize","Maize","2007/2008",139001.65,358459.588,3584595.88,2.5788153449977
+"331","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2009,"Meher","01122","Maize","Maize","2008/2009",120104.44,314290.67,3142906.7,2.61681141846213
+"332","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2011,"Meher","01122","Maize","Maize","2010/2011",172171.04,492395.005,4923950.05,2.8599177016065
+"333","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2012,"Meher","01122","Maize","Maize","2011/2012",158952.54,593858.965,5938589.65,3.73607722783165
+"334","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2013,"Meher","01122","Maize","Maize","2012/2013",165811.67,625317.646,6253176.46,3.77125232500221
+"335","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2015,"Meher","01122","Maize","Maize","2014/2015",187210.94,780915.896,7809158.96,4.17131550111334
+"336","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2008,"Meher","01122","Maize","Maize","2007/2008",105188.7,229840.445,2298404.45,2.18502980833493
+"337","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2009,"Meher","01122","Maize","Maize","2008/2009",99837.4,237801.67,2378016.7,2.38188965257509
+"338","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2011,"Meher","01122","Maize","Maize","2010/2011",127945.33,341817.095,3418170.95,2.67158711459027
+"339","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2012,"Meher","01122","Maize","Maize","2011/2012",116552.17,391596.674,3915966.74,3.35984026723827
+"340","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2013,"Meher","01122","Maize","Maize","2012/2013",130016.95,459157.31,4591573.1,3.53151885196507
+"341","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2015,"Meher","01122","Maize","Maize","2014/2015",130726.33,524815.884,5248158.84,4.0146149899565
+"342","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2008,"Meher","01122","Maize","Maize","2007/2008",243715.43,560087.558,5600875.58,2.29812104223356
+"343","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2009,"Meher","01122","Maize","Maize","2008/2009",263983.59,647379.933,6473799.33,2.45234915170295
+"344","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2011,"Meher","01122","Maize","Maize","2010/2011",262128.04,650549.445,6505494.45,2.48180028737101
+"345","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2012,"Meher","01122","Maize","Maize","2011/2012",285268.56,858739.823,8587398.23,3.01028554636375
+"346","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2013,"Meher","01122","Maize","Maize","2012/2013",268133.21,808775.176,8087751.76,3.0163185530058
+"347","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2015,"Meher","01122","Maize","Maize","2014/2015",252414.15,825484.903,8254849.03,3.27035906267537
+"348","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2008,"Meher","01122","Maize","Maize","2007/2008",18177.64,34689.277,346892.77,1.90834877354816
+"349","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2009,"Meher","01122","Maize","Maize","2008/2009",16515.28,32053.197,320531.97,1.94082068242258
+"350","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2011,"Meher","01122","Maize","Maize","2010/2011",23640.99,62119.63,621196.3,2.62762388546334
+"351","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2012,"Meher","01122","Maize","Maize","2011/2012",24663.95,67651.932,676519.32,2.74294798683909
+"352","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2013,"Meher","01122","Maize","Maize","2012/2013",27228.86,80500.479,805004.79,2.9564395644915
+"353","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2015,"Meher","01122","Maize","Maize","2014/2015",23591.09,73940.357,739403.57,3.13424928648909
+"354","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2008,"Meher","01122","Maize","Maize","2007/2008",17287.87,34522.544,345225.44,1.99692292919833
+"355","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2009,"Meher","01122","Maize","Maize","2008/2009",14847.59,22263.515,222635.15,1.49946994764807
+"356","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2011,"Meher","01122","Maize","Maize","2010/2011",15332.38,34077.064,340770.64,2.22255540235763
+"357","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2012,"Meher","01122","Maize","Maize","2011/2012",18319.36,44195.726,441957.26,2.41251473850615
+"358","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2013,"Meher","01122","Maize","Maize","2012/2013",16086.91,37970.69,379706.9,2.36034701505758
+"359","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2015,"Meher","01122","Maize","Maize","2014/2015",11424.49,27956.669,279566.69,2.44708245182061
+"360","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2008,"Meher","01122","Maize","Maize","2007/2008",12868.12,27748.673,277486.73,2.15638904517521
+"361","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2009,"Meher","01122","Maize","Maize","2008/2009",15494.57,45283.663,452836.63,2.92255048058772
+"362","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2011,"Meher","01122","Maize","Maize","2010/2011",20214.15,55172.831,551728.31,2.72941632470324
+"363","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2012,"Meher","01122","Maize","Maize","2011/2012",21870.54,75535.098,755350.98,3.45373721910844
+"364","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2013,"Meher","01122","Maize","Maize","2012/2013",22247.51,64954.01,649540.1,2.91960808198311
+"365","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2015,"Meher","01122","Maize","Maize","2014/2015",21687.83,82568.72,825687.2,3.80714529761622
+"366","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2008A101","Tigray",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",4208.03,2571.953,25719.53,0.611201203413474
+"367","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2008A101","Tigray",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",3165.98,2184.009,21840.09,0.689836638260507
+"368","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2008A101","Tigray",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",NA,1688.015,16880.15,NA
+"369","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A102","Afar",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",4024.28,7045.659,70456.59,1.75078747005676
+"370","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A102","Afar",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",17560.19,59910.735,599107.35,3.41173614864076
+"371","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A102","Afar",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",24637.91,69471.419,694714.19,2.8196961105873
+"372","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A102","Afar",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",18557.55,46517.803,465178.03,2.50667803670204
+"373","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A102","Afar",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",24727.71,63145.602,631456.02,2.55363727575259
+"374","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A102","Afar",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",25250.3,58967.842,589678.42,2.33533233268516
+"375","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",19640.91,15939.016,159390.16,0.811521258434563
+"376","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",17544.38,12417.065,124170.65,0.70775171308419
+"377","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",17255.56,20262.443,202624.43,1.17425589201394
+"378","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2011,"Belg","01122","Maize","Maize","2010/2011",8667.4,6899.934,68999.34,0.79607887024944
+"379","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",8135.63,5124.796,51247.96,0.629919993903361
+"380","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",8872.8,7691.985,76919.85,0.866917433053828
+"381","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",9907.69,7787.762,77877.62,0.78603206196399
+"382","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",11139.15,6625.473,66254.73,0.594791613363677
+"383","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",228168.18,243295.079,2432950.79,1.06629714537759
+"384","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",269230.58,233304.413,2333044.13,0.8665598573535
+"385","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",270812.62,417400.24,4174002.4,1.54128799462891
+"386","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2010,"Meher","01122","Maize","Maize","2009/2010",1000055.87,2325533.029,23255330.29,2.32540310872832
+"387","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2011,"Belg","01122","Maize","Maize","2010/2011",272440.53,273328.748,2733287.48,1.00326022710351
+"388","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",266466.09,171956.679,1719566.79,0.645322933961316
+"389","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",276824.11,282325.39,2823253.9,1.01987283549832
+"390","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",267460.66,284271.733,2842717.33,1.06285437641558
+"391","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",239438.79,251700.159,2517001.59,1.05120878283757
+"392","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",2915.9,NA,NA,NA
+"393","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",2529.57,4606.923,46069.23,1.82122771854505
+"394","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",4146.78,8426.038,84260.38,2.03194719758463
+"395","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2011,"Belg","01122","Maize","Maize","2010/2011",13902.35,3223.167,32231.67,0.231843321452848
+"396","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",4058.4,NA,NA,NA
+"397","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",4544.05,9413.837,94138.37,2.07168429044575
+"398","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",4986.71,5669.635,56696.35,1.13694901046983
+"399","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A105","Somali",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",5107.97,5028.804,50288.04,0.984501475145704
+"400","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",1262.27,1995.899,19958.99,1.58119815887251
+"401","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",1331.2,1657.285,16572.85,1.24495567908654
+"402","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",1272.2,1123.6,11236,0.883194466278887
+"403","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2011,"Belg","01122","Maize","Maize","2010/2011",1670.53,1307.365,13073.65,0.782604921791288
+"404","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",2254.64,1389.196,13891.96,0.616149806621013
+"405","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",1535.58,827.691,8276.91,0.539008713320049
+"406","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",1758.22,926.254,9262.54,0.526813481816838
+"407","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",1648.21,783.183,7831.83,0.475171853101243
+"408","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",251105.66,135523.075,1355230.75,0.539705377409653
+"409","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",236357.57,135911.296,1359112.96,0.575024087445137
+"410","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",255287.93,240188.75,2401887.5,0.940854313010411
+"411","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2011,"Belg","01122","Maize","Maize","2010/2011",235564.88,206568.633,2065686.33,0.876907597601136
+"412","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",213297.91,119529.8,1195298,0.560388988340298
+"413","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",253104.5,189579.516,1895795.16,0.749016773704142
+"414","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",280439.2,241141.248,2411412.48,0.859869975381473
+"415","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",223489.04,175257.214,1752572.14,0.784187063490899
+"416","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",4916.45,7135.682,71356.82,1.45138911206257
+"417","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",3012.41,2729.116,27291.16,0.905957688362474
+"418","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",6639.82,9702.382,97023.82,1.46124172040808
+"419","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2011,"Belg","01122","Maize","Maize","2010/2011",6658.42,9093.627,90936.27,1.36573346229286
+"420","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",6639.64,4793.305,47933.05,0.721922423504889
+"421","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",7243.63,6126.88,61268.8,0.845830060342673
+"422","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",8411.12,10820.377,108203.77,1.28643712133461
+"423","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",8298.78,6228.334,62283.34,0.750512002969111
+"424","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2008,"Belg","01122","Maize","Maize","2007/2008",154.64,176.182,1761.82,1.13930419037765
+"425","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",289.49,308.478,3084.78,1.06559121213168
+"426","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",356.34,542.841,5428.41,1.52337935679407
+"427","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2011,"Belg","01122","Maize","Maize","2010/2011",197.93,255.195,2551.95,1.28931945637347
+"428","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2012,"Belg","01122","Maize","Maize","2011/2012",264.33,NA,NA,NA
+"429","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2013,"Belg","01122","Maize","Maize","2012/2013",172.8,NA,NA,NA
+"430","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2014,"Belg","01122","Maize","Maize","2013/2014",561.24,403.286,4032.86,0.718562468819044
+"431","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A113","Harari",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",NA,410.641,4106.41,NA
+"432","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A115","Dire Dawa",NA,NA,2009,"Belg","01122","Maize","Maize","2008/2009",207.19,141.547,1415.47,0.683174863651721
+"433","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A115","Dire Dawa",NA,NA,2010,"Belg","01122","Maize","Maize","2009/2010",647.88,588.238,5882.38,0.907942828918936
+"434","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A115","Dire Dawa",NA,NA,2015,"Belg","01122","Maize","Maize","2014/2015",174.54,NA,NA,NA
+"435","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2008,"Meher","01122","Maize","Maize","2007/2008",20280.73,29697.683,296976.83,1.46433008082056
+"436","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2009,"Meher","01122","Maize","Maize","2008/2009",21535.85,32230.49,322304.9,1.49659706953754
+"437","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2011,"Meher","01122","Maize","Maize","2010/2011",21672.95,49336.842,493368.42,2.27642485217748
+"438","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2012,"Meher","01122","Maize","Maize","2011/2012",22277.11,42720.233,427202.33,1.91767392628577
+"439","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2013,"Meher","01122","Maize","Maize","2012/2013",22767.17,43002.095,430020.95,1.88877647068125
+"440","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2015,"Meher","01122","Maize","Maize","2014/2015",19923.47,41211.61,412116.1,2.06849559840731
+"441","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2008,"Meher","01122","Maize","Maize","2007/2008",2356.95,3316.94,33169.4,1.40730180954199
+"442","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2009,"Meher","01122","Maize","Maize","2008/2009",3472.09,5099.417,50994.17,1.46868802363994
+"443","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2011,"Meher","01122","Maize","Maize","2010/2011",3783.43,7797.661,77976.61,2.06100311093373
+"444","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2012,"Meher","01122","Maize","Maize","2011/2012",3638.58,7219.387,72193.87,1.98412210257848
+"445","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2013,"Meher","01122","Maize","Maize","2012/2013",3713.01,7087.089,70870.89,1.90871799429573
+"446","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2015,"Meher","01122","Maize","Maize","2014/2015",3031.84,6087.718,60877.18,2.00792851865534
+"447","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2008,"Meher","01122","Maize","Maize","2007/2008",10563.24,15483.225,154832.25,1.46576476535608
+"448","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2009,"Meher","01122","Maize","Maize","2008/2009",10060.08,15773.17,157731.7,1.56789707437714
+"449","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2011,"Meher","01122","Maize","Maize","2010/2011",8600.89,18613.644,186136.44,2.16415324460608
+"450","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2012,"Meher","01122","Maize","Maize","2011/2012",7468.44,11487.431,114874.31,1.53812991735891
+"451","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2013,"Meher","01122","Maize","Maize","2012/2013",7330.77,8997.833,89978.33,1.22740626155233
+"452","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2015,"Meher","01122","Maize","Maize","2014/2015",7633.58,11077.909,110779.09,1.45120755923171
+"453","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2008,"Meher","01122","Maize","Maize","2007/2008",11650.49,35181.497,351814.97,3.01974397643361
+"454","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2009,"Meher","01122","Maize","Maize","2008/2009",11848.55,34073.633,340736.33,2.87576395423913
+"455","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2012,"Meher","01122","Maize","Maize","2011/2012",NA,14049.806,140498.06,NA
+"456","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2013,"Meher","01122","Maize","Maize","2012/2013",3332.55,18848.263,188482.63,5.6558080148835
+"457","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2015,"Meher","01122","Maize","Maize","2014/2015",2861.77,10292.076,102920.76,3.59640222659403
+"458","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2008,"Meher","01122","Maize","Maize","2007/2008",884.67,878.04,8780.4,0.992505680084099
+"459","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2009,"Meher","01122","Maize","Maize","2008/2009",1318.26,3277.793,32777.93,2.48645411375601
+"460","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2015,"Meher","01122","Maize","Maize","2014/2015",1480.92,NA,NA,NA
+"461","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2008,"Meher","01122","Maize","Maize","2007/2008",52146.81,92707.958,927079.58,1.7778260645282
+"462","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2009,"Meher","01122","Maize","Maize","2008/2009",43965.59,99135.147,991351.47,2.25483490611635
+"463","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2011,"Meher","01122","Maize","Maize","2010/2011",59778,141408.508,1414085.08,2.36556104252401
+"464","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2012,"Meher","01122","Maize","Maize","2011/2012",63938.92,173897.549,1738975.49,2.71974485962541
+"465","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2013,"Meher","01122","Maize","Maize","2012/2013",74966.89,206072.949,2060729.49,2.74885284690348
+"466","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2015,"Meher","01122","Maize","Maize","2014/2015",81371.9,237214.67,2372146.7,2.91519148502124
+"467","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2008,"Meher","01122","Maize","Maize","2007/2008",39907.93,64141.342,641413.42,1.60723299855442
+"468","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2009,"Meher","01122","Maize","Maize","2008/2009",42294.44,71613.13,716131.3,1.69320435499323
+"469","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2011,"Meher","01122","Maize","Maize","2010/2011",44519.52,98447.813,984478.13,2.21134039630257
+"470","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2012,"Meher","01122","Maize","Maize","2011/2012",39655.97,94828.58,948285.8,2.39128131275064
+"471","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2013,"Meher","01122","Maize","Maize","2012/2013",36417.32,86065.698,860656.98,2.36331772903662
+"472","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2015,"Meher","01122","Maize","Maize","2014/2015",43032.91,114839.586,1148395.86,2.66864560170344
+"473","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2008,"Meher","01122","Maize","Maize","2007/2008",6049.54,11413.675,114136.75,1.88670130290898
+"474","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2009,"Meher","01122","Maize","Maize","2008/2009",5722.49,10091.418,100914.18,1.76346625332679
+"475","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2011,"Meher","01122","Maize","Maize","2010/2011",7387.22,9490.377,94903.77,1.28470209361573
+"476","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2012,"Meher","01122","Maize","Maize","2011/2012",6090.31,8146.795,81467.95,1.33766507780392
+"477","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2013,"Meher","01122","Maize","Maize","2012/2013",5931.62,9425.684,94256.84,1.58905728957688
+"478","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2015,"Meher","01122","Maize","Maize","2014/2015",7337.32,14735.21,147352.1,2.00825505770499
+"479","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2008,"Meher","01122","Maize","Maize","2007/2008",8765.65,14237.679,142376.79,1.6242582124543
+"480","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2009,"Meher","01122","Maize","Maize","2008/2009",10026.19,18600.604,186006.04,1.85520162693905
+"481","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2011,"Meher","01122","Maize","Maize","2010/2011",11283.4,23956.194,239561.94,2.12313611145577
+"482","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2012,"Meher","01122","Maize","Maize","2011/2012",NA,44092.25,440922.5,NA
+"483","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2013,"Meher","01122","Maize","Maize","2012/2013",8867.15,21095.124,210951.24,2.37901963990685
+"484","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2015,"Meher","01122","Maize","Maize","2014/2015",7461.36,21989.324,219893.24,2.94709329130346
+"485","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2008,"Meher","01122","Maize","Maize","2007/2008",54482.7,119172.939,1191729.39,2.18735376550722
+"486","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2009,"Meher","01122","Maize","Maize","2008/2009",55373.18,155291.69,1552916.9,2.8044567785343
+"487","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2011,"Meher","01122","Maize","Maize","2010/2011",64470.16,167034.696,1670346.96,2.59088384455692
+"488","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2012,"Meher","01122","Maize","Maize","2011/2012",82055.7,223978.484,2239784.84,2.72959080234524
+"489","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2013,"Meher","01122","Maize","Maize","2012/2013",45100.71,124863.43,1248634.3,2.76854688096928
+"490","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2015,"Meher","01122","Maize","Maize","2014/2015",76223.28,272838.731,2728387.31,3.57946720476999
+"491","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2008,"Meher","01122","Maize","Maize","2007/2008",158270.91,437473.833,4374738.33,2.76408237622441
+"492","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2009,"Meher","01122","Maize","Maize","2008/2009",164606.2,428572.6,4285726,2.60362367881647
+"493","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2011,"Meher","01122","Maize","Maize","2010/2011",202664.31,559926.383,5599263.83,2.76282677991009
+"494","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2012,"Meher","01122","Maize","Maize","2011/2012",187792.81,558206.874,5582068.74,2.97246137378742
+"495","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2013,"Meher","01122","Maize","Maize","2012/2013",173343.73,558530.129,5585301.29,3.2220959419761
+"496","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2015,"Meher","01122","Maize","Maize","2014/2015",212990.07,870716.961,8707169.61,4.08806364071339
+"497","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2008,"Meher","01122","Maize","Maize","2007/2008",1719.65,2182.436,21824.36,1.26911638996307
+"498","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2009,"Meher","01122","Maize","Maize","2008/2009",2362.87,3073.805,30738.05,1.30087774613076
+"499","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2011,"Meher","01122","Maize","Maize","2010/2011",3379.3,4949.876,49498.76,1.46476370846033
+"500","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2012,"Meher","01122","Maize","Maize","2011/2012",3339.62,4700.027,47000.27,1.40735383067535
+"501","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2013,"Meher","01122","Maize","Maize","2012/2013",2973.86,4353.642,43536.42,1.46397005911509
+"502","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2015,"Meher","01122","Maize","Maize","2014/2015",2613.21,4127.562,41275.62,1.57949877736577
+"503","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2008,"Meher","01122","Maize","Maize","2007/2008",53004.88,135461.1,1354611,2.55563450006867
+"504","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2009,"Meher","01122","Maize","Maize","2008/2009",51373.52,106868.72,1068687.2,2.08022965917072
+"505","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2011,"Meher","01122","Maize","Maize","2010/2011",57526.66,164891.489,1648914.89,2.86634908058281
+"506","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2012,"Meher","01122","Maize","Maize","2011/2012",59263.42,178900.413,1789004.13,3.01873251661818
+"507","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2013,"Meher","01122","Maize","Maize","2012/2013",66671.95,206984.136,2069841.36,3.10451600710644
+"508","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2015,"Meher","01122","Maize","Maize","2014/2015",68282.45,266420.594,2664205.94,3.90174333229109
+"509","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2008,"Meher","01122","Maize","Maize","2007/2008",5845.44,9917.832,99178.32,1.69667843652488
+"510","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2009,"Meher","01122","Maize","Maize","2008/2009",6143.66,10453.774,104537.74,1.7015547735389
+"511","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2011,"Meher","01122","Maize","Maize","2010/2011",5919.15,10623.019,106230.19,1.7946865681728
+"512","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2012,"Meher","01122","Maize","Maize","2011/2012",4484.22,7756.023,77560.23,1.72962588811432
+"513","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2013,"Meher","01122","Maize","Maize","2012/2013",4281.7,7611.367,76113.67,1.77765069948852
+"514","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2015,"Meher","01122","Maize","Maize","2014/2015",2630.37,6661.539,66615.39,2.53254827267647
+"515","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2008,"Meher","01122","Maize","Maize","2007/2008",73945.92,140966.678,1409666.78,1.90634828804618
+"516","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2009,"Meher","01122","Maize","Maize","2008/2009",77179.78,175251.21,1752512.1,2.27068812582778
+"517","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2011,"Meher","01122","Maize","Maize","2010/2011",88034.65,236198.234,2361982.34,2.68301440398752
+"518","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2012,"Meher","01122","Maize","Maize","2011/2012",85929.75,270774.184,2707741.84,3.15111104128663
+"519","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2013,"Meher","01122","Maize","Maize","2012/2013",97252.6,307340.722,3073407.22,3.16023141797751
+"520","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2015,"Meher","01122","Maize","Maize","2014/2015",92857.13,335104.534,3351045.34,3.60881855814411
+"521","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2008,"Meher","01122","Maize","Maize","2007/2008",122181.36,255284.972,2552849.72,2.08939376677424
+"522","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2009,"Meher","01122","Maize","Maize","2008/2009",116626.28,289474.004,2894740.04,2.4820649685474
+"523","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2011,"Meher","01122","Maize","Maize","2010/2011",161042.98,420240.437,4202404.37,2.60949242866718
+"524","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2012,"Meher","01122","Maize","Maize","2011/2012",135710.98,382409.776,3824097.76,2.81782488049235
+"525","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2013,"Meher","01122","Maize","Maize","2012/2013",144362.82,454755.428,4547554.28,3.15008689910602
+"526","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2015,"Meher","01122","Maize","Maize","2014/2015",165021.75,579712.851,5797128.51,3.51294814774416
+"527","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2008,"Meher","01122","Maize","Maize","2007/2008",5627.06,8895.29,88952.9,1.58080596261636
+"528","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2009,"Meher","01122","Maize","Maize","2008/2009",4935.28,8696.111,86961.11,1.76202991522264
+"529","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2011,"Meher","01122","Maize","Maize","2010/2011",7305.61,16879.099,168790.99,2.3104297929947
+"530","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2012,"Meher","01122","Maize","Maize","2011/2012",6984.07,11001.693,110016.93,1.57525525946905
+"531","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2013,"Meher","01122","Maize","Maize","2012/2013",7635.34,11472.745,114727.45,1.50258469170986
+"532","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2015,"Meher","01122","Maize","Maize","2014/2015",5791.15,14464.408,144644.08,2.49767455514017
+"533","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2008,"Meher","01122","Maize","Maize","2007/2008",68512.21,133437.617,1334376.17,1.94764724419195
+"534","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2009,"Meher","01122","Maize","Maize","2008/2009",63508.93,111069.811,1110698.11,1.74888493633887
+"535","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2011,"Meher","01122","Maize","Maize","2010/2011",54389.22,102967.355,1029673.55,1.89315741244313
+"536","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2012,"Meher","01122","Maize","Maize","2011/2012",67695.96,211505.75,2115057.5,3.12434818857728
+"537","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2013,"Meher","01122","Maize","Maize","2012/2013",66803.05,179583.171,1795831.71,2.6882480814873
+"538","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2015,"Meher","01122","Maize","Maize","2014/2015",52199.73,129848.225,1298482.25,2.48752675540659
+"539","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2008,"Meher","01122","Maize","Maize","2007/2008",68082.32,167255.33,1672553.3,2.45666319831639
+"540","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2009,"Meher","01122","Maize","Maize","2008/2009",63696.17,139022.8,1390228,2.18259276813661
+"541","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2011,"Meher","01122","Maize","Maize","2010/2011",53677.61,119022.622,1190226.22,2.21736068353267
+"542","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2012,"Meher","01122","Maize","Maize","2011/2012",64774.59,187055.521,1870555.21,2.88779166336676
+"543","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2013,"Meher","01122","Maize","Maize","2012/2013",47516.94,132408.044,1324080.44,2.78654399883494
+"544","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2015,"Meher","01122","Maize","Maize","2014/2015",55062.55,147342.399,1473423.99,2.67590947022977
+"545","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2008,"Meher","01122","Maize","Maize","2007/2008",433.25,NA,NA,NA
+"546","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2009,"Meher","01122","Maize","Maize","2008/2009",NA,420.768,4207.68,NA
+"547","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2011,"Meher","01122","Maize","Maize","2010/2011",NA,652.265,6522.65,NA
+"548","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2012,"Meher","01122","Maize","Maize","2011/2012",394.2,486.646,4866.46,1.23451547437849
+"549","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2013,"Meher","01122","Maize","Maize","2012/2013",277.46,327.252,3272.52,1.17945649823398
+"550","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2015,"Meher","01122","Maize","Maize","2014/2015",335.69,NA,NA,NA
+"551","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2008,"Meher","01122","Maize","Maize","2007/2008",31493.66,22951.875,229518.75,0.728777633339536
+"552","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2009,"Meher","01122","Maize","Maize","2008/2009",34635.96,55170.603,551706.03,1.59287061770484
+"553","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2011,"Meher","01122","Maize","Maize","2010/2011",23500.26,39250.131,392501.31,1.67019986161855
+"554","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2012,"Meher","01122","Maize","Maize","2011/2012",24912.41,67056.152,670561.52,2.69167663826984
+"555","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2013,"Meher","01122","Maize","Maize","2012/2013",22966.59,79686.002,796860.02,3.46964882466226
+"556","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2015,"Meher","01122","Maize","Maize","2014/2015",30430.4,94701.888,947018.88,3.11208160260792
+"557","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2008,"Meher","01122","Maize","Maize","2007/2008",17622.35,27655.934,276559.34,1.56936696865061
+"558","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2009,"Meher","01122","Maize","Maize","2008/2009",23931.34,45183.593,451835.93,1.88805110787779
+"559","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2011,"Meher","01122","Maize","Maize","2010/2011",14636.27,26801.181,268011.81,1.83114830486183
+"560","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2012,"Meher","01122","Maize","Maize","2011/2012",21111.4,55251.222,552512.22,2.61712733404701
+"561","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2013,"Meher","01122","Maize","Maize","2012/2013",24125.09,64264.248,642642.48,2.66379308844029
+"562","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2015,"Meher","01122","Maize","Maize","2014/2015",22733.54,78291.573,782915.73,3.44387952778142
+"563","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2008,"Meher","01122","Maize","Maize","2007/2008",46996.19,103609.731,1036097.31,2.20464107835125
+"564","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2009,"Meher","01122","Maize","Maize","2008/2009",44770.67,95819.974,958199.74,2.14023989366253
+"565","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2011,"Meher","01122","Maize","Maize","2010/2011",19515.2,53722.876,537228.76,2.75287345248832
+"566","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2012,"Meher","01122","Maize","Maize","2011/2012",38401.35,131373.569,1313735.69,3.42106642084198
+"567","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2013,"Meher","01122","Maize","Maize","2012/2013",30559.37,100895.298,1008952.98,3.30161577283825
+"568","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2015,"Meher","01122","Maize","Maize","2014/2015",27895.21,92313.777,923137.77,3.30930568366397
+"569","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2008,"Meher","01122","Maize","Maize","2007/2008",3346.32,5839.9,58399,1.74517081450668
+"570","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2009,"Meher","01122","Maize","Maize","2008/2009",2379.14,4301,43010,1.80779609438705
+"571","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2011,"Meher","01122","Maize","Maize","2010/2011",8103.25,NA,NA,NA
+"572","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2012,"Meher","01122","Maize","Maize","2011/2012",4879.72,13548.451,135484.51,2.77648123252974
+"573","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2013,"Meher","01122","Maize","Maize","2012/2013",4874.46,12876.798,128767.98,2.64168707918416
+"574","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2015,"Meher","01122","Maize","Maize","2014/2015",5136.46,13990.204,139902.04,2.72370543136713
+"575","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2008,"Meher","01122","Maize","Maize","2007/2008",15404.71,17571.99,175719.9,1.14068943848992
+"576","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2009,"Meher","01122","Maize","Maize","2008/2009",16530.64,27260.327,272603.27,1.64907874105298
+"577","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2011,"Meher","01122","Maize","Maize","2010/2011",18719.34,42003.545,420035.45,2.24385822363395
+"578","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2012,"Meher","01122","Maize","Maize","2011/2012",17154.94,28325.627,283256.27,1.65116444592636
+"579","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2013,"Meher","01122","Maize","Maize","2012/2013",19896.48,48578.071,485780.71,2.44154096604022
+"580","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2015,"Meher","01122","Maize","Maize","2014/2015",22833.27,63350.449,633504.49,2.77447991461582
+"581","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2008,"Meher","01122","Maize","Maize","2007/2008",12237.94,20216.495,202164.95,1.65195245278209
+"582","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2009,"Meher","01122","Maize","Maize","2008/2009",10514.56,19270.932,192709.32,1.83278539472883
+"583","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2011,"Meher","01122","Maize","Maize","2010/2011",6405.65,17292.234,172922.34,2.69952838509753
+"584","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2012,"Meher","01122","Maize","Maize","2011/2012",9207.98,20444.448,204444.48,2.22029674260804
+"585","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2013,"Meher","01122","Maize","Maize","2012/2013",12044.67,27786.132,277861.32,2.30692347735554
+"586","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2015,"Meher","01122","Maize","Maize","2014/2015",11797.35,28951.675,289516.75,2.45408290844978
+"587","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2008,"Meher","01122","Maize","Maize","2007/2008",2332.65,3334.411,33344.11,1.42945191091677
+"588","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2009,"Meher","01122","Maize","Maize","2008/2009",1658.6,2354.791,23547.91,1.41974617146991
+"589","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2011,"Meher","01122","Maize","Maize","2010/2011",3648.61,6824.248,68242.48,1.87036926391146
+"590","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2012,"Meher","01122","Maize","Maize","2011/2012",2323.29,3896.502,38965.02,1.67714835427347
+"591","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2013,"Meher","01122","Maize","Maize","2012/2013",2460.66,4065.832,40658.32,1.65233392667008
+"592","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2015,"Meher","01122","Maize","Maize","2014/2015",2984.15,6703.063,67030.63,2.24622187222492
+"593","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2008,"Meher","01122","Maize","Maize","2007/2008",18162.42,26006.209,260062.09,1.43186915620275
+"594","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2009,"Meher","01122","Maize","Maize","2008/2009",17234.63,30008.187,300081.87,1.74115643909965
+"595","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2011,"Meher","01122","Maize","Maize","2010/2011",20793.27,33775.521,337755.21,1.62434869551542
+"596","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2012,"Meher","01122","Maize","Maize","2011/2012",19944.91,38550.998,385509.98,1.93287400143696
+"597","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2013,"Meher","01122","Maize","Maize","2012/2013",19306.86,45251.161,452511.61,2.34378666442912
+"598","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2015,"Meher","01122","Maize","Maize","2014/2015",22255.85,48639.931,486399.31,2.18548970270738
+"599","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2008,"Meher","01122","Maize","Maize","2007/2008",1272.88,2111.165,21111.65,1.65857347118346
+"600","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2009,"Meher","01122","Maize","Maize","2008/2009",1785.67,3613.908,36139.08,2.02383867119905
+"601","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2010,"Meher","01122","Maize","Maize","2009/2010",1425.18,1814.219,18142.19,1.27297534346539
+"602","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2011,"Meher","01122","Maize","Maize","2010/2011",808.72,1620.428,16204.28,2.00369472747057
+"603","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2012,"Meher","01122","Maize","Maize","2011/2012",2068.62,5337.816,53378.16,2.58037532267889
+"604","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2013,"Meher","01122","Maize","Maize","2012/2013",1242.35,2741.443,27414.43,2.20665915402262
+"605","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2015,"Meher","01122","Maize","Maize","2014/2015",1300.31,2747.185,27471.85,2.11271542939761
+"606","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2008,"Meher","01122","Maize","Maize","2007/2008",284,559.681,5596.81,1.97070774647887
+"607","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2009,"Meher","01122","Maize","Maize","2008/2009",257.2,317.406,3174.06,1.23408242612753
+"608","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2010,"Meher","01122","Maize","Maize","2009/2010",443.76,623.245,6232.45,1.40446412475212
+"609","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2011,"Meher","01122","Maize","Maize","2010/2011",320.34,505.268,5052.68,1.57728663295249
+"610","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2012,"Meher","01122","Maize","Maize","2011/2012",219.02,374.131,3741.31,1.70820473016163
+"611","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2013,"Meher","01122","Maize","Maize","2012/2013",270.55,403.26,4032.6,1.49051931251155
+"612","CSA, Ethiopia","CSA, 2015, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2015,"Meher","01122","Maize","Maize","2014/2015",371.07,747.454,7474.54,2.01432074810683
+"613","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET1994A20730","SNNPR","North Omo",NA,2016,"Meher","01122","Maize","Maize","2016",75091.56,234046.83,2340468.3,3.11681938689248
+"614","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET1994A20731","SNNPR","Keficho Shekicho",NA,2016,"Meher","01122","Maize","Maize","2016",30232.27,NA,NA,NA
+"615","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2001A20106","Tigray","West Tigray",NA,2016,"Meher","01122","Maize","Maize","2016",28773.41,79188.191,791881.91,2.75213090836296
+"616","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2001A20426","Oromia","Borena",NA,2016,"Meher","01122","Maize","Maize","2016",51714.32,145857.623,1458576.23,2.82044940356946
+"617","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2001A20427","Oromia","West Shewa",NA,2016,"Meher","01122","Maize","Maize","2016",130751.88,438259.423,4382594.23,3.3518403177071
+"618","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2001A20509","Somali","Liben",NA,2016,"Meher","01122","Maize","Maize","2016",3680.28,6890.019,68900.19,1.87214532589912
+"619","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2001A20727","SNNPR","Gurage",NA,2016,"Meher","01122","Maize","Maize","2016",73597.15,265509.956,2655099.56,3.60761192519004
+"620","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2001A20729","SNNPR","Kembata Alaba Tembaro
+",NA,2016,"Meher","01122","Maize","Maize","2016",23863.16,73674.458,736744.58,3.08737225078322
+"621","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2001A212r","Gambela","Gambela Regroup",NA,2016,"Meher","01122","Maize","Maize","2016",4080.03,7969.537,79695.37,1.95330352963091
+"622","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2003A20423","Oromia","East Wellega",NA,2016,"Meher","01122","Maize","Maize","2016",183728.49,796928.695,7969286.95,4.33753466868421
+"623","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2003A20424","Oromia","West Wellega",NA,2016,"Meher","01122","Maize","Maize","2016",139085.81,568073.215,5680732.15,4.08433624537255
+"624","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2003A204r","Oromia","Oromia Regroup",NA,2016,"Meher","01122","Maize","Maize","2016",270200.45,856395.881,8563958.81,3.16948354823243
+"625","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2003A206r","Benshangul Gumuz","Benshangul Gumuz Regroup",NA,2016,"Meher","01122","Maize","Maize","2016",22922.03,75951.341,759513.41,3.31346486327782
+"626","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2007A20313","Amhara","South Wollo",NA,2016,"Meher","01122","Maize","Maize","2016",11076.2,23953.279,239532.79,2.16258996767845
+"627","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2007A20608","Benshangul Gumuz","Metekel",NA,2016,"Meher","01122","Maize","Maize","2016",24076.84,91424.675,914246.75,3.79720407661471
+"628","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A102","Afar",NA,NA,2016,"Belg","01122","Maize","Maize","2016",23607.33,37964.271,379642.71,1.60815606847534
+"629","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A103","Amhara",NA,NA,2016,"Belg","01122","Maize","Maize","2016",17996.12,26077.542,260775.42,1.44906468727704
+"630","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A104","Oromia",NA,NA,2016,"Belg","01122","Maize","Maize","2016",368453.46,477659.708,4776597.08,1.29639088746785
+"631","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A105","Somali",NA,NA,2016,"Belg","01122","Maize","Maize","2016",4515.51,5224.87,52248.7,1.1570941045419
+"632","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A106","Benshangul Gumuz",NA,NA,2016,"Belg","01122","Maize","Maize","2016",4012.69,3415.553,34155.53,0.851187856525174
+"633","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A107","SNNPR",NA,NA,2016,"Belg","01122","Maize","Maize","2016",420475.63,500162.765,5001627.65,1.18951665522209
+"634","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A112","Gambela",NA,NA,2016,"Belg","01122","Maize","Maize","2016",6783.29,9887.743,98877.43,1.45766184255722
+"635","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A113","Harari",NA,NA,2016,"Belg","01122","Maize","Maize","2016",123.17,159.747,1597.47,1.2969635463181
+"636","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A115","Dire Dawa",NA,NA,2016,"Belg","01122","Maize","Maize","2016",24.32,36.771,367.71,1.51196546052632
+"637","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20102","Tigray","Central Tigray",NA,2016,"Meher","01122","Maize","Maize","2016",22295.37,42414.473,424144.73,1.90238928530901
+"638","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20103","Tigray","East Tigray",NA,2016,"Meher","01122","Maize","Maize","2016",2927.01,5191.116,51911.16,1.77352178502977
+"639","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20104","Tigray","South Tigray",NA,2016,"Meher","01122","Maize","Maize","2016",8644.2,11115.171,111151.71,1.28585305754147
+"640","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20201","Afar","Zone 1",NA,2016,"Meher","01122","Maize","Maize","2016",282.37,712.661,7126.61,2.52385522541346
+"641","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20203","Afar","Zone 3",NA,2016,"Meher","01122","Maize","Maize","2016",2048.49,4927.018,49270.18,2.40519504610713
+"642","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20301","Amhara","North Gondar",NA,2016,"Meher","01122","Maize","Maize","2016",75990.44,213974.227,2139742.27,2.81580455383598
+"643","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20302","Amhara","South Gondar",NA,2016,"Meher","01122","Maize","Maize","2016",52817.5,141559.919,1415599.19,2.68017075779808
+"644","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20303","Amhara","North Wollo",NA,2016,"Meher","01122","Maize","Maize","2016",7202.54,11507.435,115074.35,1.59769123114901
+"645","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20305","Amhara","North Shewa",NA,2016,"Meher","01122","Maize","Maize","2016",6490.05,16663.004,166630.04,2.56746927989769
+"646","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20306","Amhara","East Gojam",NA,2016,"Meher","01122","Maize","Maize","2016",76214.78,266601.17,2666011.7,3.49802453015019
+"647","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20307","Amhara","West Gojam",NA,2016,"Meher","01122","Maize","Maize","2016",209837.83,858406.146,8584061.46,4.09080739159378
+"648","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20308","Amhara","Wag Himra",NA,2016,"Meher","01122","Maize","Maize","2016",3387.26,4529.271,45292.71,1.33714890501467
+"649","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20309","Amhara","Awi",NA,2016,"Meher","01122","Maize","Maize","2016",71123.56,270269.865,2702698.65,3.80000473823301
+"650","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20310","Amhara","Oromia",NA,2016,"Meher","01122","Maize","Maize","2016",3070.08,6862.525,68625.25,2.23529191421722
+"651","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20403","Oromia","Ilubabor",NA,2016,"Meher","01122","Maize","Maize","2016",99625.89,363354.106,3633541.06,3.64718554584556
+"652","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20404","Oromia","Jimma",NA,2016,"Meher","01122","Maize","Maize","2016",152697.09,546668.33,5466683.3,3.58008348423667
+"653","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20406","Oromia","North Shewa",NA,2016,"Meher","01122","Maize","Maize","2016",5920.23,6642.61,66426.1,1.12201890804918
+"654","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20409","Oromia","West Hararge",NA,2016,"Meher","01122","Maize","Maize","2016",42043.88,98393.709,983937.09,2.34026234020266
+"655","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20410","Oromia","East Hararge",NA,2016,"Meher","01122","Maize","Maize","2016",49979.8,133285.781,1332857.81,2.66679300437377
+"656","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20501","Somali","Shinile",NA,2016,"Meher","01122","Maize","Maize","2016",334.38,346.107,3461.07,1.03507087744482
+"657","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20502","Somali","Jijiga",NA,2016,"Meher","01122","Maize","Maize","2016",21819.08,54266.9,542669,2.48713052979319
+"658","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20702","SNNPR","Hadiya",NA,2016,"Meher","01122","Maize","Maize","2016",20792.19,68408.357,684083.57,3.29009868609319
+"659","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20704","SNNPR","Sidama",NA,2016,"Meher","01122","Maize","Maize","2016",30444.83,98327.004,983270.04,3.22967820808985
+"660","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20705","SNNPR","Gedeo",NA,2016,"Meher","01122","Maize","Maize","2016",NA,11130.697,111306.97,NA
+"661","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20707","SNNPR","South Omo",NA,2016,"Meher","01122","Maize","Maize","2016",26948.13,69167.328,691673.28,2.56668377360507
+"662","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20711","SNNPR","Bench Maji",NA,2016,"Meher","01122","Maize","Maize","2016",14098.09,34255.032,342550.32,2.42976403186531
+"663","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20712","SNNPR","Yem",NA,2016,"Meher","01122","Maize","Maize","2016",3301.39,7625.938,76259.38,2.3099173378486
+"664","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A20722","SNNPR","Segen",NA,2016,"Meher","01122","Maize","Maize","2016",21945.07,48066.663,480666.63,2.19031714184553
+"665","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A21301","Harari","Harari",NA,2016,"Meher","01122","Maize","Maize","2016",1265.83,2100.281,21002.81,1.65921253248856
+"666","CSA, Ethiopia","CSA, 2016, Ethiopia","ET","ET2014A21501","Dire Dawa","Dire Dawa",NA,2016,"Meher","01122","Maize","Maize","2016",294.22,416.183,4161.83,1.41452994357963
