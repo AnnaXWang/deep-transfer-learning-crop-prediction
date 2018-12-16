@@ -16,7 +16,7 @@ Contributers:
 For any of these scripts, `python <script>.py -h` will provide a CLI usage string with explanations of each parameter.
 
 ## Instructions for creating a dataset
-Steps marked with (`#`) should be done if the country of interest is not the US, India, Brazil, or Argentina.
+Steps marked with (`#`) should be done if the country of interest is not the US, India, Brazil, Argentina, or Ethiopia. See commit [9f7f43](https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction/commit/9f7f4376972e9cefebbb19e7844301332c33d138) in this repository for an example of adding a new country (Ethiopia).
 
 1. (`#`) Create a Google Earth Engine table from a shapefile of your new country's level2 boundaries.
 1. (`#`) Add your country to `pull_modis.py` configuration - you will need the identifier of the shapefile table in GEE, and also need to add instructions on how to extract relevant metadata (e.g. a human-readable name) from a feature in the shapefile. More detail are in the comments in `pull_modis.py`.
