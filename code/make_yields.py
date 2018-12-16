@@ -4,7 +4,7 @@ import sys
 import os
 import pandas as pd
 
-CLEAN_NAME = lambda s: unidecode(s).lower().translate(None, "'()/&-")
+CLEAN_NAME = lambda s: unidecode(s).lower().translate(None, "'()/&-").strip()
 
 REGION_1 = 'Region1'
 REGION_2 = 'Region2'
