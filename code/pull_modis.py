@@ -24,7 +24,7 @@ USA_SOY_FIPS_CODES = {
 # Some lambda functions useful for the config options below
 # For each lambda, r is a dictionary corresponding to a single feature, and l is a key of interest in that dictionary
 # For example, Argentina features have keys "partido" and "provincia" for county and province, respectively.
-CLEAN_NAME = lambda r, l: unidecode(r.get('properties').get(l)).lower().translate(None, "'()/&-")
+CLEAN_NAME = lambda r, l: unidecode(r.get('properties').get(l)).lower().translate(None, "'()/&-").strip()
 GET_FIPS = lambda r, l: USA_SOY_FIPS_CODES[r.get('properties').get(l)].lower()
 
 ## CONFIG OPTIONS
@@ -32,25 +32,25 @@ GET_FIPS = lambda r, l: USA_SOY_FIPS_CODES[r.get('properties').get(l)].lower()
 
 # "Regions" list: An easy identifier for the country, for use when invoking the script from the command line.
 REGIONS = [
-    'argentina', 
-    'brazil', 
-    'india', 
+    'argentina',
+    'brazil',
+    'india',
     'usa',
 ]
 
 # "Boundary Filters": A rough bounding box for the entire country, to help GEE search for imagery faster
 BOUNDARY_FILTERS = [
-    [-74, -52, -54, -21], 
-    [-34, -34, -74, 6], 
-    [68, 6, 97.5, 37.2], 
+    [-74, -52, -54, -21],
+    [-34, -34, -74, 6],
+    [68, 6, 97.5, 37.2],
     [-80, 32, -104.5, 49],
 ]
 
 # "Feature Collections": The path in Google Earth Engine to a shapefile table specifying a set of subdivisions of the country
 FTR_COLLECTIONS = [
-    'users/nikhilarundesai/cultivos_maiz_sembrada_1314', 
+    'users/nikhilarundesai/cultivos_maiz_sembrada_1314',
     'users/nikhilarundesai/BRMEE250GC_SIR',
-    'users/nikhilarundesai/India_Districts', 
+    'users/nikhilarundesai/India_Districts',
     'users/nikhilarundesai/US_Counties',
 ]
 
@@ -62,13 +62,13 @@ FTR_KEY_FNS = [
     lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP'), # IN: "<district name>-<state name>"
 ]
 
-# "Feature Filter Functions": Lambda function that uses metadata to determine whether imagery is worth pulling for a particular region. 
+# "Feature Filter Functions": Lambda function that uses metadata to determine whether imagery is worth pulling for a particular region.
 # Only useful for US where we might otherwise pull imagery for thousands of irrelevant counties.
 FTR_FILTER_FNS = [
     lambda region: True,
     lambda region: True,
     lambda region: True,
-    lambda region: region.get('properties').get('STATEFP') in USA_SOY_FIPS_CODES, # 
+    lambda region: region.get('properties').get('STATEFP') in USA_SOY_FIPS_CODES, #
 ]
 
 
@@ -145,15 +145,15 @@ if __name__ == "__main__":
     if not ftr_filter_fn(region):
         count_filtered += 1
         continue
-    
+
     subunit_key = ftr_key_fn(region)
     file_name = sys.argv[2] + '_' + sys.argv[1] + '_' + subunit_key + "_" + start_date + "_" + end_date
     if args.target_folder is not None and \
-    os.path.isfile(os.path.join(BUCKET_VM_REL, args.target_folder, file_name + '.tif')): 
-        print subunit_key, 'already downloaded. Continuing...' 
+    os.path.isfile(os.path.join(BUCKET_VM_REL, args.target_folder, file_name + '.tif')):
+        print subunit_key, 'already downloaded. Continuing...'
         count_already_downloaded += 1
         continue
-    
+
     try:
         export_to_cloud(img, file_name, BUCKET, ee.Feature(region), scale=args.scale)
     except KeyboardInterrupt:
