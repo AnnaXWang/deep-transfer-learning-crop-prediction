@@ -58,8 +58,8 @@ FTR_COLLECTIONS = [
 FTR_KEY_FNS = [
     lambda region: CLEAN_NAME(region, 'partido') + "-" + CLEAN_NAME(region, 'provincia'), # ARG: "<county name>-<province name>"
     lambda region: CLEAN_NAME(region, 'NM_MESO') + "-brasil", # BR: "<mesoregion name>-brasil"
-    lambda region: CLEAN_NAME(region, 'DISTRICT') + "-" + CLEAN_NAME(region, 'ST_NM'), # US: "<county name>-<state name>"
-    lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP'), # IN: "<district name>-<state name>"
+    lambda region: CLEAN_NAME(region, 'DISTRICT') + "-" + CLEAN_NAME(region, 'ST_NM'), # IN: "<district name>-<state name>"
+    lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP'), # US: "<county name>-<state name>"
 ]
 
 # "Feature Filter Functions": Lambda function that uses metadata to determine whether imagery is worth pulling for a particular region.
@@ -68,7 +68,7 @@ FTR_FILTER_FNS = [
     lambda region: True,
     lambda region: True,
     lambda region: True,
-    lambda region: region.get('properties').get('STATEFP') in USA_SOY_FIPS_CODES, #
+    lambda region: region.get('properties').get('STATEFP') in USA_SOY_FIPS_CODES, # US: only pull imagery from states with soy production
 ]
 
 
