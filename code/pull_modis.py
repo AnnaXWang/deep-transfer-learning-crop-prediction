@@ -16,31 +16,62 @@ IMG_COLLECTION_CODES = ['sat', 'temp', 'cover']
 
 #IMPORTANT: USA MODIS code optimized for pulling from subset of US states
 #represented by the FIPS codes and postcodes below
-USA_FIPS_CODES = {
+USA_SOY_FIPS_CODES = {
     "29": "MO", "20": "KS", "31": "NE", "19": "IA", "38": "ND", "46": "SD",
     "27": "MN", "05": "AR", "17": "IL", "18": "IN", "39": "OH"
 }
 
-
-REGIONS = ['argentina', 'brazil', 'india', 'usa']
-BOUNDARY_FILTERS = [[-74, -52, -54, -21], [-34, -34, -74, 6], [68, 6, 97.5, 37.2], [-80, 32, -104.5, 49]]
-FTR_COLLECTIONS = ['users/nikhilarundesai/cultivos_maiz_sembrada_1314', 'users/nikhilarundesai/BRMEE250GC_SIR',
-                   'users/nikhilarundesai/India_Districts', 'users/nikhilarundesai/US_Counties']
-
+# Some lambda functions useful for the config options below
+# For each lambda, r is a dictionary corresponding to a single feature, and l is a key of interest in that dictionary
+# For example, Argentina features have keys "partido" and "provincia" for county and province, respectively.
 CLEAN_NAME = lambda r, l: unidecode(r.get('properties').get(l)).lower().translate(None, "'()/&-")
-GET_FIPS = lambda r, l: USA_FIPS_CODES[r.get('properties').get(l)].lower()
-FTR_KEY_FNS = [
-    lambda region: CLEAN_NAME(region, 'partido') + "-" + CLEAN_NAME(region, 'provincia'),
-    lambda region: CLEAN_NAME(region, 'NM_MESO') + "-brasil",
-    lambda region: CLEAN_NAME(region, 'DISTRICT') + "-" + CLEAN_NAME(region, 'ST_NM'),
-    lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP')
+GET_FIPS = lambda r, l: USA_SOY_FIPS_CODES[r.get('properties').get(l)].lower()
+
+## CONFIG OPTIONS
+# To teach this script about a new country, add a new element of each of these five lists.
+
+# "Regions" list: An easy identifier for the country, for use when invoking the script from the command line.
+REGIONS = [
+    'argentina', 
+    'brazil', 
+    'india', 
+    'usa',
 ]
+
+# "Boundary Filters": A rough bounding box for the entire country, to help GEE search for imagery faster
+BOUNDARY_FILTERS = [
+    [-74, -52, -54, -21], 
+    [-34, -34, -74, 6], 
+    [68, 6, 97.5, 37.2], 
+    [-80, 32, -104.5, 49],
+]
+
+# "Feature Collections": The path in Google Earth Engine to a shapefile table specifying a set of subdivisions of the country
+FTR_COLLECTIONS = [
+    'users/nikhilarundesai/cultivos_maiz_sembrada_1314', 
+    'users/nikhilarundesai/BRMEE250GC_SIR',
+    'users/nikhilarundesai/India_Districts', 
+    'users/nikhilarundesai/US_Counties',
+]
+
+# "Feature Key Functions": Lambda functions that extract a human-readable name from the metadata for a single feature in the shapefile
+FTR_KEY_FNS = [
+    lambda region: CLEAN_NAME(region, 'partido') + "-" + CLEAN_NAME(region, 'provincia'), # ARG: "<county name>-<province name>"
+    lambda region: CLEAN_NAME(region, 'NM_MESO') + "-brasil", # BR: "<mesoregion name>-brasil"
+    lambda region: CLEAN_NAME(region, 'DISTRICT') + "-" + CLEAN_NAME(region, 'ST_NM'), # US: "<county name>-<state name>"
+    lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP'), # IN: "<district name>-<state name>"
+]
+
+# "Feature Filter Functions": Lambda function that uses metadata to determine whether imagery is worth pulling for a particular region. 
+# Only useful for US where we might otherwise pull imagery for thousands of irrelevant counties.
 FTR_FILTER_FNS = [
     lambda region: True,
     lambda region: True,
     lambda region: True,
-    lambda region: region.get('properties').get('STATEFP') in USA_FIPS_CODES
+    lambda region: region.get('properties').get('STATEFP') in USA_SOY_FIPS_CODES, # 
 ]
+
+
 
 USAGE_MESSAGE = 'Usage: python pull_modis.py <' + ', '.join(IMG_COLLECTION_CODES) + '> <' + \
   ', '.join(REGIONS) + '>' # + '<folder in bucket/ (optional)>'

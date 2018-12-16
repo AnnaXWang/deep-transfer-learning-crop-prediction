@@ -8,12 +8,12 @@ from util import Progbar
 from sklearn.metrics import r2_score
 import getpass
 from oauth2client.service_account import ServiceAccountCredentials
-from GP import GaussianProcess
+#from GP import GaussianProcess
 from scipy.stats.stats import pearsonr  
 from constants import GBUCKET, DATASETS
 
-import gspread
-from spreadsheet_auth import get_credentials
+#import gspread
+#from spreadsheet_auth import get_credentials
 
 t = time.localtime()
 timeString  = time.strftime("%Y-%m-%d_%H-%M-%S", t)
@@ -105,8 +105,8 @@ def worksheet_append_wrapper(worksheet,row_to_append):
 def end_and_output_results(worksheet, train_RMSE_min, train_R2_max, dev_RMSE_min, dev_R2_max, test_RMSE_min, test_R2_max):
     test_RMSE_to_append = ['best test_RMSE_min', test_RMSE_min]
     test_R2_to_append = ['best test_R2_max',test_R2_max]
-    worksheet_append_wrapper(worksheet, test_RMSE_to_append)
-    worksheet_append_wrapper(worksheet, test_R2_to_append)
+    #worksheet_append_wrapper(worksheet, test_RMSE_to_append)
+    #worksheet_append_wrapper(worksheet, test_R2_to_append)
 
     return test_RMSE_min, test_R2_max
 
@@ -123,6 +123,7 @@ def run_NN(model, sess, directory, CNN_or_LSTM, config, output_google_doc, restr
 
     #google drive set-up
     dataset_name = directory[directory.find('/') + 1:]
+    """
     worksheet_name = CNN_or_LSTM + "_" + dataset_name + "_" + timeString
     worksheet = authorize_gspread(output_google_doc, worksheet_name, True)
     if rows_to_add_to_google_doc is not None:
@@ -136,6 +137,7 @@ def run_NN(model, sess, directory, CNN_or_LSTM, config, output_google_doc, restr
         worksheet.append_row([str(config.lr),str(config.drop_out),str(config.train_step), str(config.loss_lambda), sys.argv[1].replace('/','_'), CNN_or_LSTM, train_dir.split('nnet_data/')[-1], sys.argv[1]])
 
     worksheet.append_row(['Dataset','ME', 'RMSE', 'R2', 'min RMSE', 'R2 for best RMSE', 'correlation_coeff', 'correlation_coeff var' ,'training loss'])
+    """
 
     scores_file, sess_file, train_predictions_file, test_predictions_file, dev_predictions_file, model_w_file, model_b_file, train_feature_file, test_feature_file, dev_feature_file = create_save_files(train_dir, train_name)
 
@@ -214,17 +216,19 @@ def run_NN(model, sess, directory, CNN_or_LSTM, config, output_google_doc, restr
                 if RMSE < train_RMSE_min:
                     train_RMSE_min = RMSE
                     train_R2_max = sklearn_r2
+                """
                 try:
                     worksheet = authorize_gspread(output_google_doc, worksheet_name)
                 except:
                     time.sleep(3)
                     worksheet = authorize_gspread(output_google_doc, worksheet_name)
+                """
                  
                 print 'Train set','test ME',ME, 'train RMSE',RMSE,'train R2',sklearn_r2,'train RMSE_min', train_RMSE_min,'train R2 for min RMSE',train_R2_max
                 logging.info('Train set train ME %f train RMSE %f train R2 %f train RMSE min %f train_R2_for_min_RMSE %f',ME, RMSE, sklearn_r2, train_RMSE_min,train_R2_max)
                 
                 line_to_append = ['Train',str(ME), str(RMSE), str(sklearn_r2), str(train_RMSE_min), str(train_R2_max), str(correlation_coeff[0]), str(correlation_coeff[1]), str(train_loss)]
-                worksheet_append_wrapper(worksheet, line_to_append)
+                #worksheet_append_wrapper(worksheet, line_to_append)
                 
                 prev_train_loss = train_loss
                 #print scores on dev set
@@ -273,7 +277,7 @@ def run_NN(model, sess, directory, CNN_or_LSTM, config, output_google_doc, restr
                     line_to_append.append('')
                     line_to_append.append('new dev RMSE min')
 
-                worksheet_append_wrapper(worksheet, line_to_append)
+                #worksheet_append_wrapper(worksheet, line_to_append)
 
                 #print scores on test set
                 test_pred = []
@@ -307,7 +311,7 @@ def run_NN(model, sess, directory, CNN_or_LSTM, config, output_google_doc, restr
                 logging.info('Test set test ME %f test RMSE %f test R2 %f test RMSE min %f test_R2_for_min_RMSE %f',ME,RMSE,sklearn_r2,test_RMSE_min,test_R2_max)
                 
                 line_to_append = ['test',str(ME), str(RMSE), str(sklearn_r2), str(test_RMSE_min), str(test_R2_max), str(correlation_coeff[0]), str(correlation_coeff[1])]
-                worksheet_append_wrapper(worksheet, line_to_append)
+                #worksheet_append_wrapper(worksheet, line_to_append)
 
                 summary_train_loss.append(str(train_loss))
                 summary_RMSE.append(str(RMSE))
