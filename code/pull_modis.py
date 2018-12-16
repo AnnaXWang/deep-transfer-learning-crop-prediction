@@ -36,6 +36,7 @@ REGIONS = [
     'brazil',
     'india',
     'usa',
+    'ethiopia',
 ]
 
 # "Boundary Filters": A rough bounding box for the entire country, to help GEE search for imagery faster
@@ -44,6 +45,7 @@ BOUNDARY_FILTERS = [
     [-34, -34, -74, 6],
     [68, 6, 97.5, 37.2],
     [-80, 32, -104.5, 49],
+    [33, 3.5, 48, 15.4],
 ]
 
 # "Feature Collections": The path in Google Earth Engine to a shapefile table specifying a set of subdivisions of the country
@@ -52,6 +54,7 @@ FTR_COLLECTIONS = [
     'users/nikhilarundesai/BRMEE250GC_SIR',
     'users/nikhilarundesai/India_Districts',
     'users/nikhilarundesai/US_Counties',
+    'users/nikhilarundesai/ET_Admin2',
 ]
 
 # "Feature Key Functions": Lambda functions that extract a human-readable name from the metadata for a single feature in the shapefile
@@ -60,6 +63,7 @@ FTR_KEY_FNS = [
     lambda region: CLEAN_NAME(region, 'NM_MESO') + "-brasil", # BR: "<mesoregion name>-brasil"
     lambda region: CLEAN_NAME(region, 'DISTRICT') + "-" + CLEAN_NAME(region, 'ST_NM'), # IN: "<district name>-<state name>"
     lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP'), # US: "<county name>-<state name>"
+    lambda region: CLEAN_NAME(region, 'ADMIN2') + "-" +  CLEAN_NAME(region,'ADMIN1'), # ET: "<zone name>-<state name>"
 ]
 
 # "Feature Filter Functions": Lambda function that uses metadata to determine whether imagery is worth pulling for a particular region.
@@ -69,6 +73,7 @@ FTR_FILTER_FNS = [
     lambda region: True,
     lambda region: True,
     lambda region: region.get('properties').get('STATEFP') in USA_SOY_FIPS_CODES, # US: only pull imagery from states with soy production
+    lambda region: True,
 ]
 
 
