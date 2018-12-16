@@ -148,33 +148,6 @@ def process_india():
     india_kharif.to_csv('./static_data_files/india_kharif_yields_standardized.csv', index=False)
     india_rabi.to_csv('./static_data_files/india_rabi_yields_standardized.csv', index=False)
 
-def process_ethiopia():
-    HARVEST_YEARS = [2001+i for i in range(16) if i != 2]
-
-    CROP_TRANSLATIONS = {
-        1122: "corn"
-    }
-
-    ethiopia = pd.read_csv('./static_data_files/ethiopia_yields_raw.csv', encoding='utf-8')
-    ethiopia = ethiopia[['Admin 1', 'Admin2_mod', 'Year', 'Season', 'Crop',
-                           'AreaPlanted_ha', 'QuantityProduced_mt', 'Yield_mt_ha']].copy()
-    ethiopia["Admin 1"] = ethiopia["Admin 1"].map(CLEAN_NAME)
-    ethiopia = ethiopia[~ethiopia["Admin2_mod"].isna()].copy()
-    ethiopia["Admin2_mod"] = ethiopia["Admin2_mod"].map(CLEAN_NAME)
-    ethiopia['Crop'] = ethiopia['Crop'].map(lambda s: CROP_TRANSLATIONS[s])
-
-    ethiopia = ethiopia[ethiopia["Season"] == "Meher"].copy()
-    ethiopia = ethiopia.drop("Season", axis=1).copy()
-
-    ethiopia = ethiopia.rename({'QuantityProduced_mt': PRODUCTION,
-                                'AreaPlanted_ha': AREA_PLANTED,
-                                'Yield_mt_ha': YIELD,
-                                'Admin 1': REGION_1,
-                                'Admin2_mod': REGION_2,
-                                'Crop': CROP,
-                                'Year': YEAR}, axis=1)
-    ethiopia.to_csv('./static_data_files/ethiopia_yields_standardized.csv', index=False)
-
 
 if __name__ == '__main__':
     name = sys.argv[1]
@@ -186,5 +159,3 @@ if __name__ == '__main__':
         process_argentina()
     elif (name == 'india'):
         process_india()
-    elif (name == 'ethiopia'):
-        process_ethiopia()

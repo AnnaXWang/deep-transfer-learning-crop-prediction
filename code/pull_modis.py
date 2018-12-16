@@ -22,12 +22,10 @@ USA_FIPS_CODES = {
 }
 
 
-REGIONS = ['argentina', 'brazil', 'india', 'usa', 'ethiopia']
-BOUNDARY_FILTERS = [[-74, -52, -54, -21], [-34, -34, -74, 6], [68, 6, 97.5, 37.2], [-80, 32, -104.5, 49], [33, 3.5, 48, 15.4]]
-FTR_COLLECTIONS = ['users/nikhilarundesai/cultivos_maiz_sembrada_1314',
-                   'users/nikhilarundesai/BRMEE250GC_SIR',
-                   'users/nikhilarundesai/India_Districts', 'users/nikhilarundesai/US_Counties',
-                   'users/nikhilarundesai/ET_Admin2']
+REGIONS = ['argentina', 'brazil', 'india', 'usa']
+BOUNDARY_FILTERS = [[-74, -52, -54, -21], [-34, -34, -74, 6], [68, 6, 97.5, 37.2], [-80, 32, -104.5, 49]]
+FTR_COLLECTIONS = ['users/nikhilarundesai/cultivos_maiz_sembrada_1314', 'users/nikhilarundesai/BRMEE250GC_SIR',
+                   'users/nikhilarundesai/India_Districts', 'users/nikhilarundesai/US_Counties']
 
 CLEAN_NAME = lambda r, l: unidecode(r.get('properties').get(l)).lower().translate(None, "'()/&-")
 GET_FIPS = lambda r, l: USA_FIPS_CODES[r.get('properties').get(l)].lower()
@@ -35,15 +33,13 @@ FTR_KEY_FNS = [
     lambda region: CLEAN_NAME(region, 'partido') + "-" + CLEAN_NAME(region, 'provincia'),
     lambda region: CLEAN_NAME(region, 'NM_MESO') + "-brasil",
     lambda region: CLEAN_NAME(region, 'DISTRICT') + "-" + CLEAN_NAME(region, 'ST_NM'),
-    lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP'),
-    lambda region: CLEAN_NAME(region, 'ADMIN2') + "-" +  CLEAN_NAME(region,'ADMIN1'),
+    lambda region: CLEAN_NAME(region, 'NAME') + "-" + GET_FIPS(region, 'STATEFP')
 ]
 FTR_FILTER_FNS = [
     lambda region: True,
     lambda region: True,
     lambda region: True,
-    lambda region: region.get('properties').get('STATEFP') in USA_FIPS_CODES,
-    lambda region: True,
+    lambda region: region.get('properties').get('STATEFP') in USA_FIPS_CODES
 ]
 
 USAGE_MESSAGE = 'Usage: python pull_modis.py <' + ', '.join(IMG_COLLECTION_CODES) + '> <' + \
