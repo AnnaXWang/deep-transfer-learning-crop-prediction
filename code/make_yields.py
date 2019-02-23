@@ -176,6 +176,36 @@ def process_ethiopia():
     ethiopia.to_csv('./static_data_files/ethiopia_yields_standardized.csv', index=False)
 
 
+def process_southsudan():
+    HARVEST_YEARS = [2014+i for i in range(3)]
+
+    CROP_TRANSLATIONS = {
+        "Cereal" : "corn"
+    }
+
+    southsudan = pd.read_csv('./static_data_files/southsudan_yields_raw.csv', encoding='utf-8')
+    southsudan = southsudan[['State', 'County', 'Year', 'Season', 'Crop',
+                           'Cereal area (Hectares)', ' Net Cereal production (Tonnes)', 'Yield_mt_ha']].copy()
+
+    southsudan = southsudan.dropna(axis=0)
+    southsudan["Admin1_mod"] = southsudan["State"].map(CLEAN_NAME)
+    southsudan["Admin2_mod"] = southsudan["County"].map(CLEAN_NAME)
+    southsudan['Crop'] = southsudan['Crop'].map(lambda s: CROP_TRANSLATIONS[s])
+
+    southsudan = southsudan[southsudan["Season"] == "undefined"].copy()
+    southsudan = southsudan.drop("Season", axis=1).copy()
+
+    southsudan = southsudan.rename({' Net Cereal production (Tonnes)': PRODUCTION,
+                                'Cereal area (Hectares)': AREA_PLANTED,
+                                'Yield_mt_ha': YIELD,
+                                'Admin1_mod': REGION_1,
+                                'Admin2_mod': REGION_2,
+                                'Crop': CROP,
+                                'Year': YEAR}, axis=1)
+
+    southsudan.to_csv('./static_data_files/southsudan_yields_standardized.csv', index=False)
+
+
 if __name__ == '__main__':
     name = sys.argv[1]
     if (name == 'brazil'):
@@ -188,3 +218,5 @@ if __name__ == '__main__':
         process_india()
     elif (name == 'ethiopia'):
         process_ethiopia()
+    elif (name == 'southsudan'):
+        process_southsudan()

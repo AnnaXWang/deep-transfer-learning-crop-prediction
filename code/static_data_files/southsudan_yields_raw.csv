@@ -1,0 +1,633 @@
+State,County,Year,Cereal area (Hectares),Population , Net Cereal production (Tonnes),Cereal Requirements (Tonnes),Cereal Gap (Tonnes),Max NDVI 1,Max NDVI 2,Crop,Season,Yield_mt_ha
+Central Equatoria ,Juba ,2010,"37,373","490,626","32,888","68,688","-35,800",8,,Cereal,undefined,0.8799938993554187
+Central Equatoria ,Kajo Keji ,2010,"55,723","270,564","66,868","32,468","34,400",8,,Cereal,undefined,1.2000068194339508
+Central Equatoria ,Lainya ,2010,"21,508","145,120","25,810","17,414","8,396",6,,Cereal,undefined,1.200017667762378
+Central Equatoria ,Morobo ,2010,"25,099","193,749","32,126","23,250","8,876",6,,Cereal,undefined,1.2799701981345946
+Central Equatoria ,Terekeka ,2010,"18,409","189,427","16,200","22,732","-6,532",8,,Cereal,undefined,0.8800049975283963
+Central Equatoria ,Yei ,2010,"40,814","264,960","48,977","33,120","15,857",6,,Cereal,undefined,1.2000044102405785
+Central Equatoria ,Juba ,2011,"23,097","505,345","14,782","70,749","-55,967",8,,Cereal,undefined,0.6399980949989392
+Central Equatoria ,Kajo Keji ,2011,"47,082","278,681","52,732","33,442","19,290",8,,Cereal,undefined,1.1200031434451734
+Central Equatoria ,Lainya ,2011,"24,369","149,474","25,343","17,937","7,406",6,,Cereal,undefined,1.0399686488216635
+Central Equatoria ,Morobo ,2011,"37,603","199,561","51,140","23,947","27,193",6,,Cereal,undefined,1.3599969151479532
+Central Equatoria ,Terekeka ,2011,"18,961","195,110","10,618","23,414","-12,796",8,,Cereal,undefined,0.5599938822114752
+Central Equatoria ,Yei ,2011,"46,242","272,909","62,889","34,114","28,775",6,,Cereal,undefined,1.3599966264507886
+Central Equatoria ,Juba ,2012,"21,051","552,693","18,524","77,378","-58,854",8,,Cereal,undefined,0.8799587670002994
+Central Equatoria ,Kajo Keji ,2012,"38,765","277,566","46,518","33,308","13,210",8,,Cereal,undefined,1.1999994840720132
+Central Equatoria ,Lainya ,2012,"9,295","152,865","9,667","18,344","-8,677",6,,Cereal,undefined,1.0400210863788448
+Central Equatoria ,Morobo ,2012,"9,783","201,389","12,522","24,167","-11,645",6,,Cereal,undefined,1.2799726058202412
+Central Equatoria ,Terekeka ,2012,"18,224","187,530","13,122","22,504","-9,382",8,,Cereal,undefined,0.7200410445508969
+Central Equatoria ,Yei ,2012,"15,531","268,863","19,879","33,608","-13,729",6,,Cereal,undefined,1.2799544140466548
+Central Equatoria ,Juba ,2013,"14,950","392,525","14,352","54,954","-40,602",8,,Cereal,undefined,0.9600002675567388
+Central Equatoria ,Kajo Keji ,2013,"10,034","113,385","12,041","13,606","-1,565",8,,Cereal,undefined,1.2000179388285943
+Central Equatoria ,Lainya ,2013,"4,637","95,321","4,822","11,439","-6,617",6,,Cereal,undefined,1.0398956244204354
+Central Equatoria ,Morobo ,2013,"5,921","148,959","7,578","17,875","-10,297",6,,Cereal,undefined,1.279846650115688
+Central Equatoria ,Terekeka ,2013,"15,771","162,289","12,617","19,475","-6,858",8,,Cereal,undefined,0.8000139495659783
+Central Equatoria ,Yei ,2013,"8,550","161,463","10,943","20,183","-9,240",6,,Cereal,undefined,1.2798797674880995
+Central Equatoria ,Juba ,2014,"37,373","490,626","32,888","68,688","-35,800",8,,Cereal,undefined,0.8799938993554187
+Central Equatoria ,Kajo Keji ,2014,"55,723","270,564","66,868","32,468","34,400",8,,Cereal,undefined,1.2000068194339508
+Central Equatoria ,Lainya ,2014,"21,508","145,120","25,810","17,414","8,396",6,,Cereal,undefined,1.200017667762378
+Central Equatoria ,Morobo ,2014,"25,099","193,749","32,126","23,250","8,876",6,,Cereal,undefined,1.2799701981345946
+Central Equatoria ,Terekeka ,2014,"18,409","189,427","16,200","22,732","-6,532",8,,Cereal,undefined,0.8800049975283963
+Central Equatoria ,Yei ,2014,"40,814","264,960","48,977","33,120","15,857",6,,Cereal,undefined,1.2000044102405785
+Central Equatoria ,Juba ,2015,"23,097","505,345","14,782","70,749","-55,967",8,,Cereal,undefined,0.6399980949989392
+Central Equatoria ,Kajo Keji ,2015,"47,082","278,681","52,732","33,442","19,290",8,,Cereal,undefined,1.1200031434451734
+Central Equatoria ,Lainya ,2015,"24,369","149,474","25,343","17,937","7,406",6,,Cereal,undefined,1.0399686488216635
+Central Equatoria ,Morobo ,2015,"37,603","199,561","51,140","23,947","27,193",6,,Cereal,undefined,1.3599969151479532
+Central Equatoria ,Terekeka ,2015,"18,961","195,110","10,618","23,414","-12,796",8,,Cereal,undefined,0.5599938822114752
+Central Equatoria ,Yei ,2015,"46,242","272,909","62,889","34,114","28,775",6,,Cereal,undefined,1.3599966264507886
+Central Equatoria ,Juba ,2016,"21,051","552,693","18,524","77,378","-58,854",8,,Cereal,undefined,0.8799587670002994
+Central Equatoria ,Kajo Keji ,2016,"38,765","277,566","46,518","33,308","13,210",8,,Cereal,undefined,1.1999994840720132
+Central Equatoria ,Lainya ,2016,"9,295","152,865","9,667","18,344","-8,677",6,,Cereal,undefined,1.0400210863788448
+Central Equatoria ,Morobo ,2016,"9,783","201,389","12,522","24,167","-11,645",6,,Cereal,undefined,1.2799726058202412
+Central Equatoria ,Terekeka ,2016,"18,224","187,530","13,122","22,504","-9,382",8,,Cereal,undefined,0.7200410445508969
+Central Equatoria ,Yei ,2016,"15,531","268,863","19,879","33,608","-13,729",6,,Cereal,undefined,1.2799544140466548
+Central Equatoria ,Juba ,2017,"14,950","392,525","14,352","54,954","-40,602",8,,Cereal,undefined,0.9600002675567388
+Central Equatoria ,Kajo Keji ,2017,"10,034","113,385","12,041","13,606","-1,565",8,,Cereal,undefined,1.2000179388285943
+Central Equatoria ,Lainya ,2017,"4,637","95,321","4,822","11,439","-6,617",6,,Cereal,undefined,1.0398956244204354
+Central Equatoria ,Morobo ,2017,"5,921","148,959","7,578","17,875","-10,297",6,,Cereal,undefined,1.279846650115688
+Central Equatoria ,Terekeka ,2017,"15,771","162,289","12,617","19,475","-6,858",8,,Cereal,undefined,0.8000139495659783
+Central Equatoria ,Yei ,2017,"8,550","161,463","10,943","20,183","-9,240",6,,Cereal,undefined,1.2798797674880995
+Eastern Equatoria ,Budi ,2010,"22,066","112,392","21,184","13,487","7,697",8,,Cereal,undefined,0.9600291850394952
+Eastern Equatoria ,Ikotos ,2010,"23,295","131,479","22,363","16,435","5,928",9,6.0,Cereal,undefined,0.9599915862134096
+Eastern Equatoria ,Kapoeta East ,2010,"17,431","185,205","11,156","23,151","-11,995",9,5.0,Cereal,undefined,0.6400112442702984
+Eastern Equatoria ,Kapoeta North ,2010,"9,630","114,304","6,163","14,288","-8,125",9,,Cereal,undefined,0.6399829700626162
+Eastern Equatoria ,Kapoeta South ,2010,"7,419","91,520","4,748","11,897","-7,149",8,6.0,Cereal,undefined,0.6399832863824454
+Eastern Equatoria ,Lafon ,2010,"14,717","122,321","11,774","14,679","-2,905",8,,Cereal,undefined,0.8000285382310373
+Eastern Equatoria ,Magwi ,2010,"38,119","201,413","45,742","24,169","21,573",6,8.0,Cereal,undefined,1.199978488474282
+Eastern Equatoria ,Torit ,2010,"18,285","136,157","19,016","17,701","1,315",8,6.0,Cereal,undefined,1.0399779055077631
+Eastern Equatoria ,Budi ,2011,"20,524","115,764","16,419","13,892","2,527",8,,Cereal,undefined,0.7999912298225014
+Eastern Equatoria ,Ikotos ,2011,"23,993","135,423","21,114","16,928","4,186",9,6.0,Cereal,undefined,0.8800071687276759
+Eastern Equatoria ,Kapoeta East ,2011,"11,670","190,761","5,602","23,845","-18,243",9,5.0,Cereal,undefined,0.4800387314590278
+Eastern Equatoria ,Kapoeta North ,2011,"8,927","117,733","4,999","14,717","-9,718",9,,Cereal,undefined,0.5599914865969912
+Eastern Equatoria ,Kapoeta South ,2011,"6,419","94,266","3,081","12,254","-9,173",8,6.0,Cereal,undefined,0.4799894066146345
+Eastern Equatoria ,Lafon ,2011,"15,159","125,990","10,914","15,119","-4,205",8,,Cereal,undefined,0.719970182926427
+Eastern Equatoria ,Magwi ,2011,"33,653","207,455","40,384","24,894","15,490",6,8.0,Cereal,undefined,1.200011291678924
+Eastern Equatoria ,Torit ,2011,"18,833","140,242","15,067","18,232","-3,165",8,6.0,Cereal,undefined,0.8000329207618502
+Eastern Equatoria ,Budi ,2012,"19,072","113,906","15,258","13,669","1,589",8,,Cereal,undefined,0.8000220216966144
+Eastern Equatoria ,Ikotos ,2012,"22,651","135,838","19,933","16,980","2,953",9,6.0,Cereal,undefined,0.8800058275315548
+Eastern Equatoria ,Kapoeta East ,2012,"12,033","196,697","8,664","24,587","-15,923",9,5.0,Cereal,undefined,0.7200222719000091
+Eastern Equatoria ,Kapoeta North ,2012,"7,300","123,776","5,840","15,472","-9,632",9,,Cereal,undefined,0.8000027396884974
+Eastern Equatoria ,Kapoeta South ,2012,"5,128","97,324","2,462","12,652","-10,190",8,6.0,Cereal,undefined,0.4801193424465202
+Eastern Equatoria ,Lafon ,2012,"16,822","139,817","14,804","16,778","-1,974",8,,Cereal,undefined,0.8800387585378758
+Eastern Equatoria ,Magwi ,2012,"15,846","175,829","17,748","21,099","-3,351",6,8.0,Cereal,undefined,1.1200295340809412
+Eastern Equatoria ,Torit ,2012,"17,280","131,703","13,824","17,122","-3,298",8,6.0,Cereal,undefined,0.8000011574007094
+Eastern Equatoria ,Budi ,2013,"15,660","93,524","13,781","11,223","2,558",8,,Cereal,undefined,0.8800135375891598
+Eastern Equatoria ,Ikotos ,2013,"20,602","123,547","19,778","15,443","4,335",9,6.0,Cereal,undefined,0.9600040772542604
+Eastern Equatoria ,Kapoeta East ,2013,"10,764","163,386","6,028","20,423","-14,395",9,5.0,Cereal,undefined,0.5600189518863629
+Eastern Equatoria ,Kapoeta North ,2013,"6,540","103,508","4,186","12,939","-8,753",9,,Cereal,undefined,0.6400666656473142
+Eastern Equatoria ,Kapoeta South ,2013,"3,842","67,706","1,844","8,802","-6,958",8,6.0,Cereal,undefined,0.4799718903724525
+Eastern Equatoria ,Lafon ,2013,"12,334","102,514","10,854","12,302","-1,448",8,,Cereal,undefined,0.8800074589957921
+Eastern Equatoria ,Magwi ,2013,"20,844","185,027","25,013","22,203","2,810",6,8.0,Cereal,undefined,1.2000086355371544
+Eastern Equatoria ,Torit ,2013,"16,820","154,976","12,110","20,147","-8,037",8,6.0,Cereal,undefined,0.7199778836035458
+Eastern Equatoria ,Budi ,2014,"22,066","112,392","21,184","13,487","7,697",8,,Cereal,undefined,0.9600291850394952
+Eastern Equatoria ,Ikotos ,2014,"23,295","131,479","22,363","16,435","5,928",9,6.0,Cereal,undefined,0.9599915862134096
+Eastern Equatoria ,Kapoeta East ,2014,"17,431","185,205","11,156","23,151","-11,995",9,5.0,Cereal,undefined,0.6400112442702984
+Eastern Equatoria ,Kapoeta North ,2014,"9,630","114,304","6,163","14,288","-8,125",9,,Cereal,undefined,0.6399829700626162
+Eastern Equatoria ,Kapoeta South ,2014,"7,419","91,520","4,748","11,897","-7,149",8,6.0,Cereal,undefined,0.6399832863824454
+Eastern Equatoria ,Lafon ,2014,"14,717","122,321","11,774","14,679","-2,905",8,,Cereal,undefined,0.8000285382310373
+Eastern Equatoria ,Magwi ,2014,"38,119","201,413","45,742","24,169","21,573",6,8.0,Cereal,undefined,1.199978488474282
+Eastern Equatoria ,Torit ,2014,"18,285","136,157","19,016","17,701","1,315",8,6.0,Cereal,undefined,1.0399779055077631
+Eastern Equatoria ,Budi ,2015,"20,524","115,764","16,419","13,892","2,527",8,,Cereal,undefined,0.7999912298225014
+Eastern Equatoria ,Ikotos ,2015,"23,993","135,423","21,114","16,928","4,186",9,6.0,Cereal,undefined,0.8800071687276759
+Eastern Equatoria ,Kapoeta East ,2015,"11,670","190,761","5,602","23,845","-18,243",9,5.0,Cereal,undefined,0.4800387314590278
+Eastern Equatoria ,Kapoeta North ,2015,"8,927","117,733","4,999","14,717","-9,718",9,,Cereal,undefined,0.5599914865969912
+Eastern Equatoria ,Kapoeta South ,2015,"6,419","94,266","3,081","12,254","-9,173",8,6.0,Cereal,undefined,0.4799894066146345
+Eastern Equatoria ,Lafon ,2015,"15,159","125,990","10,914","15,119","-4,205",8,,Cereal,undefined,0.719970182926427
+Eastern Equatoria ,Magwi ,2015,"33,653","207,455","40,384","24,894","15,490",6,8.0,Cereal,undefined,1.200011291678924
+Eastern Equatoria ,Torit ,2015,"18,833","140,242","15,067","18,232","-3,165",8,6.0,Cereal,undefined,0.8000329207618502
+Eastern Equatoria ,Budi ,2016,"19,072","113,906","15,258","13,669","1,589",8,,Cereal,undefined,0.8000220216966144
+Eastern Equatoria ,Ikotos ,2016,"22,651","135,838","19,933","16,980","2,953",9,6.0,Cereal,undefined,0.8800058275315548
+Eastern Equatoria ,Kapoeta East ,2016,"12,033","196,697","8,664","24,587","-15,923",9,5.0,Cereal,undefined,0.7200222719000091
+Eastern Equatoria ,Kapoeta North ,2016,"7,300","123,776","5,840","15,472","-9,632",9,,Cereal,undefined,0.8000027396884974
+Eastern Equatoria ,Kapoeta South ,2016,"5,128","97,324","2,462","12,652","-10,190",8,6.0,Cereal,undefined,0.4801193424465202
+Eastern Equatoria ,Lafon ,2016,"16,822","139,817","14,804","16,778","-1,974",8,,Cereal,undefined,0.8800387585378758
+Eastern Equatoria ,Magwi ,2016,"15,846","175,829","17,748","21,099","-3,351",6,8.0,Cereal,undefined,1.1200295340809412
+Eastern Equatoria ,Torit ,2016,"17,280","131,703","13,824","17,122","-3,298",8,6.0,Cereal,undefined,0.8000011574007094
+Eastern Equatoria ,Budi ,2017,"15,660","93,524","13,781","11,223","2,558",8,,Cereal,undefined,0.8800135375891598
+Eastern Equatoria ,Ikotos ,2017,"20,602","123,547","19,778","15,443","4,335",9,6.0,Cereal,undefined,0.9600040772542604
+Eastern Equatoria ,Kapoeta East ,2017,"10,764","163,386","6,028","20,423","-14,395",9,5.0,Cereal,undefined,0.5600189518863629
+Eastern Equatoria ,Kapoeta North ,2017,"6,540","103,508","4,186","12,939","-8,753",9,,Cereal,undefined,0.6400666656473142
+Eastern Equatoria ,Kapoeta South ,2017,"3,842","67,706","1,844","8,802","-6,958",8,6.0,Cereal,undefined,0.4799718903724525
+Eastern Equatoria ,Lafon ,2017,"12,334","102,514","10,854","12,302","-1,448",8,,Cereal,undefined,0.8800074589957921
+Eastern Equatoria ,Magwi ,2017,"20,844","185,027","25,013","22,203","2,810",6,8.0,Cereal,undefined,1.2000086355371544
+Eastern Equatoria ,Torit ,2017,"16,820","154,976","12,110","20,147","-8,037",8,6.0,Cereal,undefined,0.7199778836035458
+Jonglei ,Akobo ,2010,"3,949","156,413","2,212","17,206","-14,994",9,,Cereal,undefined,0.5601529462409157
+Jonglei ,Ayod ,2010,938,"159,348",525,"17,528","-17,003",10,,Cereal,undefined,0.5597015394774478
+Jonglei ,Bor South ,2010,"2,208","200,429","1,589","23,049","-21,460",9,,Cereal,undefined,0.719668493274761
+Jonglei ,Canal/Pigi ,2010,"2,157","175,235","1,208","19,276","-18,068",9,,Cereal,undefined,0.5600574845857864
+Jonglei ,Duk ,2010,0,"108,086",0,"11,889","-11,889",10,,Cereal,undefined,1.0
+Jonglei ,Fangak ,2010,"2,586","95,877","1,448","10,546","-9,098",10,,Cereal,undefined,0.5599551448126522
+Jonglei ,Nyirol ,2010,"3,795","139,106","2,429","15,302","-12,873",9,,Cereal,undefined,0.6400621854496588
+Jonglei ,Pibor ,2010,"6,050","116,253","6,292","13,950","-7,658",9,,Cereal,undefined,1.0399993388539033
+Jonglei ,Pochalla ,2010,"5,007","65,765","5,207","7,892","-2,685",8,,Cereal,undefined,1.0399432805416309
+Jonglei ,Twic East ,2010,"1,389","121,319",667,"13,345","-12,678",10,,Cereal,undefined,480.1670866028364
+Jonglei ,Uror ,2010,"3,188","207,834","1,530","22,862","-21,332",9,,Cereal,undefined,0.4799410307079451
+Jonglei ,Akobo ,2011,"6,834","161,105","5,467","17,722","-12,255",9,,Cereal,undefined,0.7999736614916375
+Jonglei ,Ayod ,2011,966,"164,128",541,"18,054","-17,513",10,,Cereal,undefined,0.5600414534118578
+Jonglei ,Bor South ,2011,"4,263","206,442","2,729","23,741","-21,012",9,,Cereal,undefined,0.6401679528981259
+Jonglei ,Canal/Pigi ,2011,"2,222","180,492","1,120","19,854","-18,734",9,,Cereal,undefined,0.50407272399982
+Jonglei ,Duk ,2011,0,"111,329",0,"12,246","-12,246",10,,Cereal,undefined,1.0
+Jonglei ,Fangak ,2011,0,"98,754",0,"10,863","-10,863",10,,Cereal,undefined,1.0
+Jonglei ,Nyirol ,2011,"3,909","143,279","2,502","15,761","-13,259",9,,Cereal,undefined,0.6400706044869663
+Jonglei ,Pibor ,2011,"8,226","119,740","7,239","14,369","-7,130",9,,Cereal,undefined,0.8800160464861841
+Jonglei ,Pochalla ,2011,"5,894","67,738","4,715","8,129","-3,414",8,,Cereal,undefined,0.7999694609864101
+Jonglei ,Twic East ,2011,"6,523","124,958","2,609","13,746","-11,137",10,,Cereal,undefined,0.3999785378117767
+Jonglei ,Uror ,2011,"7,662","214,069","4,904","23,548","-18,644",9,,Cereal,undefined,0.6400464624580728
+Jonglei ,Akobo ,2012,"5,247","142,092","4,198","15,630","-11,432",9,,Cereal,undefined,0.8000800442148998
+Jonglei ,Ayod ,2012,"1,029","174,873",576,"19,236","-18,660",10,,Cereal,undefined,559.7124672043534
+Jonglei ,Bor South ,2012,"6,534","158,200","4,182","18,193","-14,011",9,,Cereal,undefined,0.6400422399412314
+Jonglei ,Canal/Pigi ,2012,"1,506","122,354",759,"13,459","-12,700",9,,Cereal,undefined,503.9506672863688
+Jonglei ,Duk ,2012,"2,444","153,542","1,369","16,890","-15,521",10,,Cereal,undefined,0.5601652960189845
+Jonglei ,Fangak ,2012,"1,321","163,265",740,"17,959","-17,219",10,,Cereal,undefined,560.1393535689955
+Jonglei ,Nyirol ,2012,"3,688","135,181","2,360","14,870","-12,510",9,,Cereal,undefined,0.6399229955803801
+Jonglei ,Pibor ,2012,"7,849","167,574","5,652","20,109","-14,457",9,,Cereal,undefined,0.7200952975500375
+Jonglei ,Pochalla ,2012,"6,625","98,297","5,300","11,796","-6,496",8,,Cereal,undefined,0.8000030188223574
+Jonglei ,Twic East ,2012,"6,835","130,942","3,828","14,404","-10,576",10,,Cereal,undefined,0.5600649588155258
+Jonglei ,Uror ,2012,"10,548","206,294","5,485","22,692","-17,207",9,,Cereal,undefined,0.5200083427347105
+Jonglei ,Akobo ,2013,"5,615","171,042","4,492","18,815","-14,323",9,,Cereal,undefined,0.8000035618243664
+Jonglei ,Ayod ,2013,"1,008","171,324",565,"18,846","-18,281",10,,Cereal,undefined,560.4603709949411
+Jonglei ,Bor South ,2013,"8,567","239,321","5,825","27,522","-21,697",9,,Cereal,undefined,0.6799383688762826
+Jonglei ,Canal/Pigi ,2013,"1,214","98,636",612,"10,850","-10,238",9,,Cereal,undefined,504.07717650934853
+Jonglei ,Duk ,2013,"2,212","115,794","1,239","12,737","-11,498",10,,Cereal,undefined,0.5601464671579042
+Jonglei ,Fangak ,2013,"2,336","216,488","1,308","23,814","-22,506",10,,Cereal,undefined,0.559950344591413
+Jonglei ,Nyirol ,2013,"4,168","174,578","2,667","19,204","-16,537",9,,Cereal,undefined,0.6398838799452988
+Jonglei ,Pibor ,2013,"7,964","191,272","6,371","22,953","-16,582",9,,Cereal,undefined,0.7999773985761103
+Jonglei ,Pochalla ,2013,"5,994","81,519","5,275","9,782","-4,507",8,,Cereal,undefined,0.8800487145693265
+Jonglei ,Twic East ,2013,"6,287","120,140","3,521","13,216","-9,695",10,,Cereal,undefined,0.5600515340936203
+Jonglei ,Uror ,2013,"9,034","196,318","4,698","21,595","-16,897",9,,Cereal,undefined,0.5200407345502042
+Jonglei ,Akobo ,2014,"3,949","156,413","2,212","17,206","-14,994",9,,Cereal,undefined,0.5601529462409157
+Jonglei ,Ayod ,2014,938,"159,348",525,"17,528","-17,003",10,,Cereal,undefined,0.5597015394774478
+Jonglei ,Bor South ,2014,"2,208","200,429","1,589","23,049","-21,460",9,,Cereal,undefined,0.719668493274761
+Jonglei ,Canal/Pigi ,2014,"2,157","175,235","1,208","19,276","-18,068",9,,Cereal,undefined,0.5600574845857864
+Jonglei ,Duk ,2014,0,"108,086",0,"11,889","-11,889",10,,Cereal,undefined,1.0
+Jonglei ,Fangak ,2014,"2,586","95,877","1,448","10,546","-9,098",10,,Cereal,undefined,0.5599551448126522
+Jonglei ,Nyirol ,2014,"3,795","139,106","2,429","15,302","-12,873",9,,Cereal,undefined,0.6400621854496588
+Jonglei ,Pibor ,2014,"6,050","116,253","6,292","13,950","-7,658",9,,Cereal,undefined,1.0399993388539033
+Jonglei ,Pochalla ,2014,"5,007","65,765","5,207","7,892","-2,685",8,,Cereal,undefined,1.0399432805416309
+Jonglei ,Twic East ,2014,"1,389","121,319",667,"13,345","-12,678",10,,Cereal,undefined,480.1670866028364
+Jonglei ,Uror ,2014,"3,188","207,834","1,530","22,862","-21,332",9,,Cereal,undefined,0.4799410307079451
+Jonglei ,Akobo ,2015,"6,834","161,105","5,467","17,722","-12,255",9,,Cereal,undefined,0.7999736614916375
+Jonglei ,Ayod ,2015,966,"164,128",541,"18,054","-17,513",10,,Cereal,undefined,0.5600414534118578
+Jonglei ,Bor South ,2015,"4,263","206,442","2,729","23,741","-21,012",9,,Cereal,undefined,0.6401679528981259
+Jonglei ,Canal/Pigi ,2015,"2,222","180,492","1,120","19,854","-18,734",9,,Cereal,undefined,0.50407272399982
+Jonglei ,Duk ,2015,0,"111,329",0,"12,246","-12,246",10,,Cereal,undefined,1.0
+Jonglei ,Fangak ,2015,0,"98,754",0,"10,863","-10,863",10,,Cereal,undefined,1.0
+Jonglei ,Nyirol ,2015,"3,909","143,279","2,502","15,761","-13,259",9,,Cereal,undefined,0.6400706044869663
+Jonglei ,Pibor ,2015,"8,226","119,740","7,239","14,369","-7,130",9,,Cereal,undefined,0.8800160464861841
+Jonglei ,Pochalla ,2015,"5,894","67,738","4,715","8,129","-3,414",8,,Cereal,undefined,0.7999694609864101
+Jonglei ,Twic East ,2015,"6,523","124,958","2,609","13,746","-11,137",10,,Cereal,undefined,0.3999785378117767
+Jonglei ,Uror ,2015,"7,662","214,069","4,904","23,548","-18,644",9,,Cereal,undefined,0.6400464624580728
+Jonglei ,Akobo ,2016,"5,247","142,092","4,198","15,630","-11,432",9,,Cereal,undefined,0.8000800442148998
+Jonglei ,Ayod ,2016,"1,029","174,873",576,"19,236","-18,660",10,,Cereal,undefined,559.7124672043534
+Jonglei ,Bor South ,2016,"6,534","158,200","4,182","18,193","-14,011",9,,Cereal,undefined,0.6400422399412314
+Jonglei ,Canal/Pigi ,2016,"1,506","122,354",759,"13,459","-12,700",9,,Cereal,undefined,503.9506672863688
+Jonglei ,Duk ,2016,"2,444","153,542","1,369","16,890","-15,521",10,,Cereal,undefined,0.5601652960189845
+Jonglei ,Fangak ,2016,"1,321","163,265",740,"17,959","-17,219",10,,Cereal,undefined,560.1393535689955
+Jonglei ,Nyirol ,2016,"3,688","135,181","2,360","14,870","-12,510",9,,Cereal,undefined,0.6399229955803801
+Jonglei ,Pibor ,2016,"7,849","167,574","5,652","20,109","-14,457",9,,Cereal,undefined,0.7200952975500375
+Jonglei ,Pochalla ,2016,"6,625","98,297","5,300","11,796","-6,496",8,,Cereal,undefined,0.8000030188223574
+Jonglei ,Twic East ,2016,"6,835","130,942","3,828","14,404","-10,576",10,,Cereal,undefined,0.5600649588155258
+Jonglei ,Uror ,2016,"10,548","206,294","5,485","22,692","-17,207",9,,Cereal,undefined,0.5200083427347105
+Jonglei ,Akobo ,2017,"5,615","171,042","4,492","18,815","-14,323",9,,Cereal,undefined,0.8000035618243664
+Jonglei ,Ayod ,2017,"1,008","171,324",565,"18,846","-18,281",10,,Cereal,undefined,560.4603709949411
+Jonglei ,Bor South ,2017,"8,567","239,321","5,825","27,522","-21,697",9,,Cereal,undefined,0.6799383688762826
+Jonglei ,Canal/Pigi ,2017,"1,214","98,636",612,"10,850","-10,238",9,,Cereal,undefined,504.07717650934853
+Jonglei ,Duk ,2017,"2,212","115,794","1,239","12,737","-11,498",10,,Cereal,undefined,0.5601464671579042
+Jonglei ,Fangak ,2017,"2,336","216,488","1,308","23,814","-22,506",10,,Cereal,undefined,0.559950344591413
+Jonglei ,Nyirol ,2017,"4,168","174,578","2,667","19,204","-16,537",9,,Cereal,undefined,0.6398838799452988
+Jonglei ,Pibor ,2017,"7,964","191,272","6,371","22,953","-16,582",9,,Cereal,undefined,0.7999773985761103
+Jonglei ,Pochalla ,2017,"5,994","81,519","5,275","9,782","-4,507",8,,Cereal,undefined,0.8800487145693265
+Jonglei ,Twic East ,2017,"6,287","120,140","3,521","13,216","-9,695",10,,Cereal,undefined,0.5600515340936203
+Jonglei ,Uror ,2017,"9,034","196,318","4,698","21,595","-16,897",9,,Cereal,undefined,0.5200407345502042
+Lakes,Awerial ,2010,"5,846","108,193","4,209","11,901","-7,692",8,,Cereal,undefined,0.7199842630129487
+Lakes,Cueibet ,2010,"17,883","178,266","17,168","19,609","-2,441",8,,Cereal,undefined,0.9600181176641632
+Lakes,Rumbek Centre ,2010,"14,925","237,099","16,716","26,082","-9,366",8,,Cereal,undefined,1.1199991959852866
+Lakes,Rumbek East ,2010,"14,008","187,887","15,689","20,668","-4,979",8,,Cereal,undefined,1.1200019988435264
+Lakes,Rumbek North ,2010,"4,002","50,177","4,482","5,519","-1,037",8,,Cereal,undefined,1.1199370330576448
+Lakes,Wulu ,2010,"8,230","70,331","7,901","7,736",165,8,,Cereal,undefined,0.9600247870621256
+Lakes,Yirol East ,2010,"10,567","125,793","8,454","13,838","-5,384",8,,Cereal,undefined,0.8000397460041071
+Lakes,Yirol West ,2010,"18,016","157,932","17,296","17,373",-77,8,,Cereal,undefined,0.9600357458051412
+Lakes,Awerial ,2011,"10,323","111,438","8,258","12,258","-4,000",8,,Cereal,undefined,0.7999631893520356
+Lakes,Cueibet ,2011,"23,025","183,613","22,104","20,197","1,907",8,,Cereal,undefined,0.9600001737234584
+Lakes,Rumbek Centre ,2011,"10,387","244,212","9,971","26,864","-16,893",8,,Cereal,undefined,0.9599503229967942
+Lakes,Rumbek East ,2011,"14,997","193,523","14,397","21,288","-6,891",8,,Cereal,undefined,0.9599922651712663
+Lakes,Rumbek North ,2011,"2,748","51,682","2,198","5,685","-3,487",8,,Cereal,undefined,0.7998617226447363
+Lakes,Wulu ,2011,"10,173","72,441","9,766","7,969","1,797",8,,Cereal,undefined,0.959992529317514
+Lakes,Yirol East ,2011,"10,884","129,567","10,449","14,253","-3,804",8,,Cereal,undefined,0.9600334432796463
+Lakes,Yirol West ,2011,"14,710","162,670","14,121","17,894","-3,773",8,,Cereal,undefined,0.9599594836200978
+Lakes,Awerial ,2012,"7,291","60,545","5,833","6,660",-827,8,,Cereal,undefined,0.8000301737735047
+Lakes,Cueibet ,2012,"25,521","185,014","24,500","20,352","4,148",8,,Cereal,undefined,0.9599938874108092
+Lakes,Rumbek Centre ,2012,"14,409","250,953","12,680","27,605","-14,925",8,,Cereal,undefined,0.8800063848540158
+Lakes,Rumbek East ,2012,"17,490","198,104","16,790","21,791","-5,001",8,,Cereal,undefined,0.9599773586200192
+Lakes,Rumbek North ,2012,"3,972","56,927","3,178","6,262","-3,084",8,,Cereal,undefined,0.8001057375191964
+Lakes,Wulu ,2012,"11,565","77,211","11,103","8,493","2,610",8,,Cereal,undefined,0.9600522260940244
+Lakes,Yirol East ,2012,"13,540","126,999","11,916","13,970","-2,054",8,,Cereal,undefined,0.8800599700149926
+Lakes,Yirol West ,2012,"22,965","169,307","20,209","18,624","1,585",8,,Cereal,undefined,0.8799918136650831
+Lakes,Awerial ,2013,"13,910","125,132","11,128","13,764","-2,636",8,,Cereal,undefined,0.8000014378041854
+Lakes,Cueibet ,2013,"25,843","187,348","24,809","20,608","4,201",8,,Cereal,undefined,0.9599893201666984
+Lakes,Rumbek Centre ,2013,"13,257","259,744","11,666","28,573","-16,907",8,,Cereal,undefined,0.8799888361708066
+Lakes,Rumbek East ,2013,"18,678","211,556","17,931","23,271","-5,340",8,,Cereal,undefined,0.9600066387908834
+Lakes,Rumbek North ,2013,"4,269","61,174","4,098","6,729","-2,631",8,,Cereal,undefined,0.9599447190274296
+Lakes,Wulu ,2013,"10,516","70,209","9,254","7,723","1,531",8,,Cereal,undefined,0.8799935337244795
+Lakes,Yirol East ,2013,"14,493","135,929","12,753","14,953","-2,200",8,,Cereal,undefined,0.8799428693654221
+Lakes,Yirol West ,2013,"23,566","173,739","20,738","19,112","1,626",8,,Cereal,undefined,0.8799971144992171
+Lakes,Awerial ,2014,"5,846","108,193","4,209","11,901","-7,692",8,,Cereal,undefined,0.7199842630129487
+Lakes,Cueibet ,2014,"17,883","178,266","17,168","19,609","-2,441",8,,Cereal,undefined,0.9600181176641632
+Lakes,Rumbek Centre ,2014,"14,925","237,099","16,716","26,082","-9,366",8,,Cereal,undefined,1.1199991959852866
+Lakes,Rumbek East ,2014,"14,008","187,887","15,689","20,668","-4,979",8,,Cereal,undefined,1.1200019988435264
+Lakes,Rumbek North ,2014,"4,002","50,177","4,482","5,519","-1,037",8,,Cereal,undefined,1.1199370330576448
+Lakes,Wulu ,2014,"8,230","70,331","7,901","7,736",165,8,,Cereal,undefined,0.9600247870621256
+Lakes,Yirol East ,2014,"10,567","125,793","8,454","13,838","-5,384",8,,Cereal,undefined,0.8000397460041071
+Lakes,Yirol West ,2014,"18,016","157,932","17,296","17,373",-77,8,,Cereal,undefined,0.9600357458051412
+Lakes,Awerial ,2015,"10,323","111,438","8,258","12,258","-4,000",8,,Cereal,undefined,0.7999631893520356
+Lakes,Cueibet ,2015,"23,025","183,613","22,104","20,197","1,907",8,,Cereal,undefined,0.9600001737234584
+Lakes,Rumbek Centre ,2015,"10,387","244,212","9,971","26,864","-16,893",8,,Cereal,undefined,0.9599503229967942
+Lakes,Rumbek East ,2015,"14,997","193,523","14,397","21,288","-6,891",8,,Cereal,undefined,0.9599922651712663
+Lakes,Rumbek North ,2015,"2,748","51,682","2,198","5,685","-3,487",8,,Cereal,undefined,0.7998617226447363
+Lakes,Wulu ,2015,"10,173","72,441","9,766","7,969","1,797",8,,Cereal,undefined,0.959992529317514
+Lakes,Yirol East ,2015,"10,884","129,567","10,449","14,253","-3,804",8,,Cereal,undefined,0.9600334432796463
+Lakes,Yirol West ,2015,"14,710","162,670","14,121","17,894","-3,773",8,,Cereal,undefined,0.9599594836200978
+Lakes,Awerial ,2016,"7,291","60,545","5,833","6,660",-827,8,,Cereal,undefined,0.8000301737735047
+Lakes,Cueibet ,2016,"25,521","185,014","24,500","20,352","4,148",8,,Cereal,undefined,0.9599938874108092
+Lakes,Rumbek Centre ,2016,"14,409","250,953","12,680","27,605","-14,925",8,,Cereal,undefined,0.8800063848540158
+Lakes,Rumbek East ,2016,"17,490","198,104","16,790","21,791","-5,001",8,,Cereal,undefined,0.9599773586200192
+Lakes,Rumbek North ,2016,"3,972","56,927","3,178","6,262","-3,084",8,,Cereal,undefined,0.8001057375191964
+Lakes,Wulu ,2016,"11,565","77,211","11,103","8,493","2,610",8,,Cereal,undefined,0.9600522260940244
+Lakes,Yirol East ,2016,"13,540","126,999","11,916","13,970","-2,054",8,,Cereal,undefined,0.8800599700149926
+Lakes,Yirol West ,2016,"22,965","169,307","20,209","18,624","1,585",8,,Cereal,undefined,0.8799918136650831
+Lakes,Awerial ,2017,"13,910","125,132","11,128","13,764","-2,636",8,,Cereal,undefined,0.8000014378041854
+Lakes,Cueibet ,2017,"25,843","187,348","24,809","20,608","4,201",8,,Cereal,undefined,0.9599893201666984
+Lakes,Rumbek Centre ,2017,"13,257","259,744","11,666","28,573","-16,907",8,,Cereal,undefined,0.8799888361708066
+Lakes,Rumbek East ,2017,"18,678","211,556","17,931","23,271","-5,340",8,,Cereal,undefined,0.9600066387908834
+Lakes,Rumbek North ,2017,"4,269","61,174","4,098","6,729","-2,631",8,,Cereal,undefined,0.9599447190274296
+Lakes,Wulu ,2017,"10,516","70,209","9,254","7,723","1,531",8,,Cereal,undefined,0.8799935337244795
+Lakes,Yirol East ,2017,"14,493","135,929","12,753","14,953","-2,200",8,,Cereal,undefined,0.8799428693654221
+Lakes,Yirol West ,2017,"23,566","173,739","20,738","19,112","1,626",8,,Cereal,undefined,0.8799971144992171
+Northern Bahr El Ghazal ,Aweil Centre ,2010,"5,958","107,073","5,720","11,778","-6,058",8,,Cereal,undefined,0.9600543797519344
+Northern Bahr El Ghazal ,Aweil East ,2010,"55,093","536,825","44,075","59,050","-14,975",8,,Cereal,undefined,0.8000112536778653
+Northern Bahr El Ghazal ,Aweil North ,2010,"25,346","273,593","22,305","30,095","-7,790",8,,Cereal,undefined,0.8800209894224358
+Northern Bahr El Ghazal ,Aweil South ,2010,"11,836","147,535","11,362","16,229","-4,867",8,,Cereal,undefined,0.9599530250673786
+Northern Bahr El Ghazal ,Aweil West ,2010,"29,497","305,895","29,025","33,648","-4,623",8,,Cereal,undefined,0.9839984269640066
+Northern Bahr El Ghazal ,Aweil Centre ,2011,"11,716","110,285","11,248","12,131",-883,8,,Cereal,undefined,0.9600549670965596
+Northern Bahr El Ghazal ,Aweil East ,2011,"55,170","552,929","39,722","60,822","-21,100",8,,Cereal,undefined,0.7199932572172245
+Northern Bahr El Ghazal ,Aweil North ,2011,"31,645","281,801","22,784","30,998","-8,214",8,,Cereal,undefined,0.7199882446255502
+Northern Bahr El Ghazal ,Aweil South ,2011,"14,629","151,961","14,044","16,716","-2,672",8,,Cereal,undefined,0.960011210532432
+Northern Bahr El Ghazal ,Aweil West ,2011,"33,757","315,071","32,407","34,658","-2,251",8,,Cereal,undefined,0.9600084130449594
+Northern Bahr El Ghazal ,Aweil Centre ,2012,"12,294","115,727","11,311","12,730","-1,419",8,,Cereal,undefined,0.920042947430068
+Northern Bahr El Ghazal ,Aweil East ,2012,"59,321","559,559","37,965","61,551","-23,586",8,,Cereal,undefined,0.6399931896070707
+Northern Bahr El Ghazal ,Aweil North ,2013,"34,160","255,630","28,694","28,119",575,8,,Cereal,undefined,0.8399887588151088
+Northern Bahr El Ghazal ,Aweil South ,2012,"14,702","135,268","12,938","14,879","-1,941",8,,Cereal,undefined,0.8800171404085131
+Northern Bahr El Ghazal ,Aweil West ,2012,"36,181","321,608","33,286","35,377","-2,091",8,,Cereal,undefined,0.9199858489653441
+Northern Bahr El Ghazal ,Aweil Centre ,2013,"11,681","109,954","10,279","12,095","-1,816",8,,Cereal,undefined,0.8799770569552525
+Northern Bahr El Ghazal ,Aweil East ,2013,"56,544","550,956","40,711","60,605","-19,894",8,,Cereal,undefined,0.7199884691771555
+Northern Bahr El Ghazal ,Aweil North ,2013,"35,251","280,284","29,611","30,831","-1,220",8,,Cereal,undefined,0.8400049927519992
+Northern Bahr El Ghazal ,Aweil South ,2013,"16,287","149,849","16,195","16,483",-288,8,,Cereal,undefined,0.9943513578230624
+Northern Bahr El Ghazal ,Aweil West ,2013,"32,792","310,919","32,320","34,201","-1,881",8,,Cereal,undefined,0.9856062893196836
+Northern Bahr El Ghazal ,Aweil Centre ,2014,"5,958","107,073","5,720","11,778","-6,058",8,,Cereal,undefined,0.9600543797519344
+Northern Bahr El Ghazal ,Aweil East ,2014,"55,093","536,825","44,075","59,050","-14,975",8,,Cereal,undefined,0.8000112536778653
+Northern Bahr El Ghazal ,Aweil North ,2014,"25,346","273,593","22,305","30,095","-7,790",8,,Cereal,undefined,0.8800209894224358
+Northern Bahr El Ghazal ,Aweil South ,2014,"11,836","147,535","11,362","16,229","-4,867",8,,Cereal,undefined,0.9599530250673786
+Northern Bahr El Ghazal ,Aweil West ,2014,"29,497","305,895","29,025","33,648","-4,623",8,,Cereal,undefined,0.9839984269640066
+Northern Bahr El Ghazal ,Aweil Centre ,2015,"11,716","110,285","11,248","12,131",-883,8,,Cereal,undefined,0.9600549670965596
+Northern Bahr El Ghazal ,Aweil East ,2015,"55,170","552,929","39,722","60,822","-21,100",8,,Cereal,undefined,0.7199932572172245
+Northern Bahr El Ghazal ,Aweil North ,2015,"31,645","281,801","22,784","30,998","-8,214",8,,Cereal,undefined,0.7199882446255502
+Northern Bahr El Ghazal ,Aweil South ,2015,"14,629","151,961","14,044","16,716","-2,672",8,,Cereal,undefined,0.960011210532432
+Northern Bahr El Ghazal ,Aweil West ,2015,"33,757","315,071","32,407","34,658","-2,251",8,,Cereal,undefined,0.9600084130449594
+Northern Bahr El Ghazal ,Aweil Centre ,2016,"12,294","115,727","11,311","12,730","-1,419",8,,Cereal,undefined,0.920042947430068
+Northern Bahr El Ghazal ,Aweil East ,2016,"59,321","559,559","37,965","61,551","-23,586",8,,Cereal,undefined,0.6399931896070707
+Northern Bahr El Ghazal ,Aweil North ,2017,"34,160","255,630","28,694","28,119",575,8,,Cereal,undefined,0.8399887588151088
+Northern Bahr El Ghazal ,Aweil South ,2016,"14,702","135,268","12,938","14,879","-1,941",8,,Cereal,undefined,0.8800171404085131
+Northern Bahr El Ghazal ,Aweil West ,2016,"36,181","321,608","33,286","35,377","-2,091",8,,Cereal,undefined,0.9199858489653441
+Northern Bahr El Ghazal ,Aweil Centre ,2017,"11,681","109,954","10,279","12,095","-1,816",8,,Cereal,undefined,0.8799770569552525
+Northern Bahr El Ghazal ,Aweil East ,2017,"56,544","550,956","40,711","60,605","-19,894",8,,Cereal,undefined,0.7199884691771555
+Northern Bahr El Ghazal ,Aweil North ,2017,"35,251","280,284","29,611","30,831","-1,220",8,,Cereal,undefined,0.8400049927519992
+Northern Bahr El Ghazal ,Aweil South ,2017,"16,287","149,849","16,195","16,483",-288,8,,Cereal,undefined,0.9943513578230624
+Northern Bahr El Ghazal ,Aweil West ,2017,"32,792","310,919","32,320","34,201","-1,881",8,,Cereal,undefined,0.9856062893196836
+Unity,Abiemnhom ,2010,470,"18,085",150,"1,537","-1,387",8,,Cereal,undefined,0.3191490810321104
+Unity,Guit ,2010,0,"31,877",0,"2,709","-2,709",8,,Cereal,undefined,1.0
+Unity,Koch ,2010,"2,675","137,178","2,140","11,660","-9,520",8,,Cereal,undefined,0.8000074763560242
+Unity,Leer ,2010,"2,328","143,255","1,117","12,178","-11,061",9,,Cereal,undefined,0.4798333404922469
+Unity,Mayendit ,2010,"2,644","87,962","1,269","7,477","-6,208",8,,Cereal,undefined,0.4799742823645096
+Unity,Mayom ,2010,0,"161,099",0,"13,693","-13,693",8,,Cereal,undefined,1.0
+Unity,Panyijiar ,2010,"3,058","97,422",978,"8,281","-7,303",10,,Cereal,undefined,319.806448448383
+Unity,Pariang ,2010,"3,612","139,626","2,601","11,868","-9,267",8,,Cereal,undefined,0.7201074167381856
+Unity,Rubkona ,2010,0,"201,576",0,"19,150","-19,150",8,,Cereal,undefined,1.0
+Unity,Abiemnhom ,2011,484,"18,627",194,"1,583","-1,389",8,,Cereal,undefined,0.400826570077155
+Unity,Guit ,2011,66,"32,833",31,"2,790","-2,759",8,,Cereal,undefined,0.4696977731851921
+Unity,Koch ,2011,"2,755","141,293","1,763","12,010","-10,247",8,,Cereal,undefined,0.6399404740299807
+Unity,Leer ,2011,400,"147,553",224,"12,543","-12,319",9,,Cereal,undefined,0.5600001099999725
+Unity,Mayendit ,2011,"1,362","90,601",763,"7,702","-6,939",8,,Cereal,undefined,560.1645253652448
+Unity,Mayom ,2011,"3,412","165,932","1,719","14,104","-12,385",8,,Cereal,undefined,0.5038246241317663
+Unity,Panyijiar ,2011,"2,799","100,345","1,120","8,529","-7,409",10,,Cereal,undefined,0.40016433853738703
+Unity,Pariang ,2011,"3,720","143,815","2,381","12,225","-9,844",8,,Cereal,undefined,0.6400634391548613
+Unity,Rubkona ,2011,850,"207,623",408,"19,724","-19,316",8,,Cereal,undefined,0.4800000611764634
+Unity,Abiemnhom ,2012,648,"24,949",259,"2,120","-1,861",8,,Cereal,undefined,0.3996914506648996
+Unity,Guit ,2012,488,"48,848",234,"4,152","-3,918",8,,Cereal,undefined,0.4795083033794461
+Unity,Koch ,2012,"2,435","140,515","1,559","11,944","-10,385",8,,Cereal,undefined,0.6402611802390045
+Unity,Leer ,2012,639,"117,947",358,"10,027","-9,669",9,,Cereal,undefined,0.560250460054701
+Unity,Mayendit ,2012,"1,265","84,189",709,"7,157","-6,448",8,,Cereal,undefined,560.4300845782942
+Unity,Mayom ,2012,"3,770","183,351","1,900","15,585","-13,685",8,,Cereal,undefined,0.503991936553407
+Unity,Panyijiar ,2012,"2,148","77,008",859,"6,546","-5,687",10,,Cereal,undefined,399.8883199106186
+Unity,Pariang ,2012,"3,826","147,896","2,449","12,571","-10,122",8,,Cereal,undefined,0.6401034996471603
+Unity,Rubkona ,2012,870,"212,332",417,"20,172","-19,755",8,,Cereal,undefined,0.479310404676965
+Unity,Abiemnhom ,2013,615,"23,659",246,"2,010","-1,764",8,,Cereal,undefined,0.4000000975609598
+Unity,Guit ,2013,486,"48,722",233,"4,141","-3,908",8,,Cereal,undefined,0.4794239754271656
+Unity,Koch ,2013,"2,403","138,628","1,538","11,783","-10,245",8,,Cereal,undefined,0.6400482709833132
+Unity,Leer ,2013,752,"138,755",421,"11,795","-11,374",9,,Cereal,undefined,0.5598404840637654
+Unity,Mayendit ,2013,"1,343","107,228",752,"9,115","-8,363",8,,Cereal,undefined,559.8988161715433
+Unity,Mayom ,2013,"3,979","193,524","2,005","16,449","-14,444",8,,Cereal,undefined,0.5039079188761277
+Unity,Panyijiar ,2013,"2,892","92,132","1,157","7,831","-6,674",10,,Cereal,undefined,0.4000899000726116
+Unity,Pariang ,2013,"4,519","249,534","2,892","21,211","-18,319",8,,Cereal,undefined,0.6399725609081455
+Unity,Rubkona ,2013,613,"74,860",294,"7,112","-6,818",8,,Cereal,undefined,0.479608567763692
+Unity,Abiemnhom ,2014,470,"18,085",150,"1,537","-1,387",8,,Cereal,undefined,0.3191490810321104
+Unity,Guit ,2014,0,"31,877",0,"2,709","-2,709",8,,Cereal,undefined,1.0
+Unity,Koch ,2014,"2,675","137,178","2,140","11,660","-9,520",8,,Cereal,undefined,0.8000074763560242
+Unity,Leer ,2014,"2,328","143,255","1,117","12,178","-11,061",9,,Cereal,undefined,0.4798333404922469
+Unity,Mayendit ,2014,"2,644","87,962","1,269","7,477","-6,208",8,,Cereal,undefined,0.4799742823645096
+Unity,Mayom ,2014,0,"161,099",0,"13,693","-13,693",8,,Cereal,undefined,1.0
+Unity,Panyijiar ,2014,"3,058","97,422",978,"8,281","-7,303",10,,Cereal,undefined,319.806448448383
+Unity,Pariang ,2014,"3,612","139,626","2,601","11,868","-9,267",8,,Cereal,undefined,0.7201074167381856
+Unity,Rubkona ,2014,0,"201,576",0,"19,150","-19,150",8,,Cereal,undefined,1.0
+Unity,Abiemnhom ,2015,484,"18,627",194,"1,583","-1,389",8,,Cereal,undefined,0.400826570077155
+Unity,Guit ,2015,66,"32,833",31,"2,790","-2,759",8,,Cereal,undefined,0.4696977731851921
+Unity,Koch ,2015,"2,755","141,293","1,763","12,010","-10,247",8,,Cereal,undefined,0.6399404740299807
+Unity,Leer ,2015,400,"147,553",224,"12,543","-12,319",9,,Cereal,undefined,0.5600001099999725
+Unity,Mayendit ,2015,"1,362","90,601",763,"7,702","-6,939",8,,Cereal,undefined,560.1645253652448
+Unity,Mayom ,2015,"3,412","165,932","1,719","14,104","-12,385",8,,Cereal,undefined,0.5038246241317663
+Unity,Panyijiar ,2015,"2,799","100,345","1,120","8,529","-7,409",10,,Cereal,undefined,0.40016433853738703
+Unity,Pariang ,2015,"3,720","143,815","2,381","12,225","-9,844",8,,Cereal,undefined,0.6400634391548613
+Unity,Rubkona ,2015,850,"207,623",408,"19,724","-19,316",8,,Cereal,undefined,0.4800000611764634
+Unity,Abiemnhom ,2016,648,"24,949",259,"2,120","-1,861",8,,Cereal,undefined,0.3996914506648996
+Unity,Guit ,2016,488,"48,848",234,"4,152","-3,918",8,,Cereal,undefined,0.4795083033794461
+Unity,Koch ,2016,"2,435","140,515","1,559","11,944","-10,385",8,,Cereal,undefined,0.6402611802390045
+Unity,Leer ,2016,639,"117,947",358,"10,027","-9,669",9,,Cereal,undefined,0.560250460054701
+Unity,Mayendit ,2016,"1,265","84,189",709,"7,157","-6,448",8,,Cereal,undefined,560.4300845782942
+Unity,Mayom ,2016,"3,770","183,351","1,900","15,585","-13,685",8,,Cereal,undefined,0.503991936553407
+Unity,Panyijiar ,2016,"2,148","77,008",859,"6,546","-5,687",10,,Cereal,undefined,399.8883199106186
+Unity,Pariang ,2016,"3,826","147,896","2,449","12,571","-10,122",8,,Cereal,undefined,0.6401034996471603
+Unity,Rubkona ,2016,870,"212,332",417,"20,172","-19,755",8,,Cereal,undefined,0.479310404676965
+Unity,Abiemnhom ,2017,615,"23,659",246,"2,010","-1,764",8,,Cereal,undefined,0.4000000975609598
+Unity,Guit ,2017,486,"48,722",233,"4,141","-3,908",8,,Cereal,undefined,0.4794239754271656
+Unity,Koch ,2017,"2,403","138,628","1,538","11,783","-10,245",8,,Cereal,undefined,0.6400482709833132
+Unity,Leer ,2017,752,"138,755",421,"11,795","-11,374",9,,Cereal,undefined,0.5598404840637654
+Unity,Mayendit ,2017,"1,343","107,228",752,"9,115","-8,363",8,,Cereal,undefined,559.8988161715433
+Unity,Mayom ,2017,"3,979","193,524","2,005","16,449","-14,444",8,,Cereal,undefined,0.5039079188761277
+Unity,Panyijiar ,2017,"2,892","92,132","1,157","7,831","-6,674",10,,Cereal,undefined,0.4000899000726116
+Unity,Pariang ,2017,"4,519","249,534","2,892","21,211","-18,319",8,,Cereal,undefined,0.6399725609081455
+Unity,Rubkona ,2017,613,"74,860",294,"7,112","-6,818",8,,Cereal,undefined,0.479608567763692
+Upper Nile,Baliet ,2010,300,"22,717",192,"1,931","-1,739",9,,Cereal,undefined,0.6400001199999601
+Upper Nile,Fashoda ,2010,991,"39,499",634,"3,357","-2,723",9,,Cereal,undefined,0.6397578567348278
+Upper Nile,Longochuk ,2010,675,"70,781",324,"6,016","-5,692",8,,Cereal,undefined,0.4800000770370256
+Upper Nile,Luakpiny/Nasir ,2010,"3,031","250,943","1,455","2,133",-678,8,,Cereal,undefined,0.48005674507604496
+Upper Nile,Maban ,2010,"3,461","54,687","1,661","4,648","-2,987",9,,Cereal,undefined,0.4799341249891653
+Upper Nile,Maiwut ,2010,982,"102,324",472,"8,698","-8,226",8,,Cereal,undefined,0.4806517840476798
+Upper Nile,Malakal ,2010,0,"148,329",0,"14,091","-14,091",9,,Cereal,undefined,1.0
+Upper Nile,Manyo ,2010,0,"46,818",0,"3,980","-3,980",9,,Cereal,undefined,1.0
+Upper Nile,Melut ,2010,"5,522","77,265","4,418","6,568","-2,150",9,,Cereal,undefined,0.8000760580214049
+Upper Nile,Panyikang ,2010,0,"24,180",0,"2,055","-2,055",9,,Cereal,undefined,1.0
+Upper Nile,Renk ,2010,"19,751","177,995","9,480","16,020","-6,540",9,,Cereal,undefined,0.4799783303208429
+Upper Nile,Ulang ,2010,"1,326","112,014",636,"9,521","-8,885",8,,Cereal,undefined,479.6019153909961
+Upper Nile,Baliet ,2011,618,"23,399",297,"1,989","-1,692",9,,Cereal,undefined,0.4805826083199663
+Upper Nile,Fashoda ,2011,319,"40,684",153,"3,458","-3,305",9,,Cereal,undefined,0.4796239875786874
+Upper Nile,Longochuk ,2011,"2,783","72,904","1,336","6,197","-4,861",8,,Cereal,undefined,0.4800761740505192
+Upper Nile,Luakpiny/Nasir ,2011,"12,488","258,471","7,993","21,970","-13,977",8,,Cereal,undefined,0.6400573345825226
+Upper Nile,Maban ,2011,"4,990","56,327","3,194","4,788","-1,594",9,,Cereal,undefined,0.6400873729985371
+Upper Nile,Maiwut ,2011,"4,047","105,394","1,943","8,958","-7,015",8,,Cereal,undefined,0.4801215685305528
+Upper Nile,Malakal ,2011,416,"152,778",233,"14,513","-14,280",9,,Cereal,undefined,0.5600962595922453
+Upper Nile,Manyo ,2011,"1,574","48,222","1,007","4,099","-3,092",9,,Cereal,undefined,0.6397941680960548
+Upper Nile,Melut ,2011,"1,673","79,583","1,338","6,765","-5,427",9,,Cereal,undefined,0.7997728766959536
+Upper Nile,Panyikang ,2011,162,"24,906",104,"2,117","-2,013",9,,Cereal,undefined,0.6419755296447348
+Upper Nile,Renk ,2011,"11,044","183,335","7,068","16,500","-9,432",9,,Cereal,undefined,0.6399887722856548
+Upper Nile,Ulang ,2011,"4,552","115,375","2,185","9,807","-7,622",8,,Cereal,undefined,0.4800202104523189
+Upper Nile,Baliet ,2012,960,"72,689",461,"6,179","-5,718",9,,Cereal,undefined,0.480208387478293
+Upper Nile,Fashoda ,2012,260,"33,151",125,"2,818","-2,693",9,,Cereal,undefined,0.4807694304732961
+Upper Nile,Longochuk ,2012,699,"14,653",336,"1,245",-909,8,,Cereal,undefined,0.4806867695727082
+Upper Nile,Luakpiny/Nasir ,2012,"14,306","323,013","9,156","27,456","-18,300",8,,Cereal,undefined,0.6400137004494587
+Upper Nile,Maban ,2012,"5,370","66,126","3,437","5,621","-2,184",9,,Cereal,undefined,0.6400439470400924
+Upper Nile,Maiwut ,2012,"4,088","106,449","1,962","9,048","-7,086",8,,Cereal,undefined,0.4799540128666129
+Upper Nile,Malakal ,2012,742,"136,240",415,"12,942","-12,527",9,,Cereal,undefined,0.5592992507682951
+Upper Nile,Manyo ,2012,"1,447","44,326",926,"3,768","-2,842",9,,Cereal,undefined,639.9005597401699
+Upper Nile,Melut ,2012,"4,162","59,395","3,329","5,049","-1,720",9,,Cereal,undefined,0.7998606472694074
+Upper Nile,Panyikang ,2012,680,"29,795",435,"2,533","-2,098",9,,Cereal,undefined,0.6397059353373624
+Upper Nile,Renk ,2012,"10,277","162,079","6,577","14,587","-8,010",9,,Cereal,undefined,0.6399762578937639
+Upper Nile,Ulang ,2012,"5,112","129,554","2,454","11,012","-8,558",8,,Cereal,undefined,0.4800571193834237
+Upper Nile,Baliet ,2013,105,"7,924",50,674,-624,9,,Cereal,undefined,0.4761909750562143
+Upper Nile,Fashoda ,2013,110,"13,979",53,"1,188","-1,135",9,,Cereal,undefined,0.4818186528921338
+Upper Nile,Longochuk ,2013,"3,316","74,473","1,592","6,330","-4,738",8,,Cereal,undefined,0.4801121799704473
+Upper Nile,Luakpiny/Nasir ,2013,"9,977","297,365","6,785","25,276","-18,491",8,,Cereal,undefined,0.6800673542412123
+Upper Nile,Maban ,2013,"15,047","203,803","9,630","17,323","-7,693",9,,Cereal,undefined,0.6399970758485024
+Upper Nile,Maiwut ,2013,"1,859","41,501",967,"3,528","-2,561",8,,Cereal,undefined,520.1442095637674
+Upper Nile,Malakal ,2013,484,"74,113",271,"7,040","-6,769",9,,Cereal,undefined,0.5599174462980483
+Upper Nile,Manyo ,2013,701,"17,190",477,"1,461",-984,9,,Cereal,undefined,0.6804565363114784
+Upper Nile,Melut ,2013,"5,065","75,298","4,052","6,400","-2,348",9,,Cereal,undefined,0.8000039485893663
+Upper Nile,Panyikang ,2013,665,"24,473",426,"2,080","-1,654",9,,Cereal,undefined,0.640601557804277
+Upper Nile,Renk ,2013,"12,086","127,069","8,702","11,436","-2,734",9,,Cereal,undefined,0.7200089358850249
+Upper Nile,Ulang ,2013,"3,897","98,756","1,870","8,394","-6,524",8,,Cereal,undefined,0.4798696466603372
+Upper Nile,Baliet ,2014,300,"22,717",192,"1,931","-1,739",9,,Cereal,undefined,0.6400001199999601
+Upper Nile,Fashoda ,2014,991,"39,499",634,"3,357","-2,723",9,,Cereal,undefined,0.6397578567348278
+Upper Nile,Longochuk ,2014,675,"70,781",324,"6,016","-5,692",8,,Cereal,undefined,0.4800000770370256
+Upper Nile,Luakpiny/Nasir ,2014,"3,031","250,943","1,455","2,133",-678,8,,Cereal,undefined,0.48005674507604496
+Upper Nile,Maban ,2014,"3,461","54,687","1,661","4,648","-2,987",9,,Cereal,undefined,0.4799341249891653
+Upper Nile,Maiwut ,2014,982,"102,324",472,"8,698","-8,226",8,,Cereal,undefined,0.4806517840476798
+Upper Nile,Malakal ,2014,0,"148,329",0,"14,091","-14,091",9,,Cereal,undefined,1.0
+Upper Nile,Manyo ,2014,0,"46,818",0,"3,980","-3,980",9,,Cereal,undefined,1.0
+Upper Nile,Melut ,2014,"5,522","77,265","4,418","6,568","-2,150",9,,Cereal,undefined,0.8000760580214049
+Upper Nile,Panyikang ,2014,0,"24,180",0,"2,055","-2,055",9,,Cereal,undefined,1.0
+Upper Nile,Renk ,2014,"19,751","177,995","9,480","16,020","-6,540",9,,Cereal,undefined,0.4799783303208429
+Upper Nile,Ulang ,2014,"1,326","112,014",636,"9,521","-8,885",8,,Cereal,undefined,479.6019153909961
+Upper Nile,Baliet ,2015,618,"23,399",297,"1,989","-1,692",9,,Cereal,undefined,0.4805826083199663
+Upper Nile,Fashoda ,2015,319,"40,684",153,"3,458","-3,305",9,,Cereal,undefined,0.4796239875786874
+Upper Nile,Longochuk ,2015,"2,783","72,904","1,336","6,197","-4,861",8,,Cereal,undefined,0.4800761740505192
+Upper Nile,Luakpiny/Nasir ,2015,"12,488","258,471","7,993","21,970","-13,977",8,,Cereal,undefined,0.6400573345825226
+Upper Nile,Maban ,2015,"4,990","56,327","3,194","4,788","-1,594",9,,Cereal,undefined,0.6400873729985371
+Upper Nile,Maiwut ,2015,"4,047","105,394","1,943","8,958","-7,015",8,,Cereal,undefined,0.4801215685305528
+Upper Nile,Malakal ,2015,416,"152,778",233,"14,513","-14,280",9,,Cereal,undefined,0.5600962595922453
+Upper Nile,Manyo ,2015,"1,574","48,222","1,007","4,099","-3,092",9,,Cereal,undefined,0.6397941680960548
+Upper Nile,Melut ,2015,"1,673","79,583","1,338","6,765","-5,427",9,,Cereal,undefined,0.7997728766959536
+Upper Nile,Panyikang ,2015,162,"24,906",104,"2,117","-2,013",9,,Cereal,undefined,0.6419755296447348
+Upper Nile,Renk ,2015,"11,044","183,335","7,068","16,500","-9,432",9,,Cereal,undefined,0.6399887722856548
+Upper Nile,Ulang ,2015,"4,552","115,375","2,185","9,807","-7,622",8,,Cereal,undefined,0.4800202104523189
+Upper Nile,Baliet ,2016,960,"72,689",461,"6,179","-5,718",9,,Cereal,undefined,0.480208387478293
+Upper Nile,Fashoda ,2016,260,"33,151",125,"2,818","-2,693",9,,Cereal,undefined,0.4807694304732961
+Upper Nile,Longochuk ,2016,699,"14,653",336,"1,245",-909,8,,Cereal,undefined,0.4806867695727082
+Upper Nile,Luakpiny/Nasir ,2016,"14,306","323,013","9,156","27,456","-18,300",8,,Cereal,undefined,0.6400137004494587
+Upper Nile,Maban ,2016,"5,370","66,126","3,437","5,621","-2,184",9,,Cereal,undefined,0.6400439470400924
+Upper Nile,Maiwut ,2016,"4,088","106,449","1,962","9,048","-7,086",8,,Cereal,undefined,0.4799540128666129
+Upper Nile,Malakal ,2016,742,"136,240",415,"12,942","-12,527",9,,Cereal,undefined,0.5592992507682951
+Upper Nile,Manyo ,2016,"1,447","44,326",926,"3,768","-2,842",9,,Cereal,undefined,639.9005597401699
+Upper Nile,Melut ,2016,"4,162","59,395","3,329","5,049","-1,720",9,,Cereal,undefined,0.7998606472694074
+Upper Nile,Panyikang ,2016,680,"29,795",435,"2,533","-2,098",9,,Cereal,undefined,0.6397059353373624
+Upper Nile,Renk ,2016,"10,277","162,079","6,577","14,587","-8,010",9,,Cereal,undefined,0.6399762578937639
+Upper Nile,Ulang ,2016,"5,112","129,554","2,454","11,012","-8,558",8,,Cereal,undefined,0.4800571193834237
+Upper Nile,Baliet ,2017,105,"7,924",50,674,-624,9,,Cereal,undefined,0.4761909750562143
+Upper Nile,Fashoda ,2017,110,"13,979",53,"1,188","-1,135",9,,Cereal,undefined,0.4818186528921338
+Upper Nile,Longochuk ,2017,"3,316","74,473","1,592","6,330","-4,738",8,,Cereal,undefined,0.4801121799704473
+Upper Nile,Luakpiny/Nasir ,2017,"9,977","297,365","6,785","25,276","-18,491",8,,Cereal,undefined,0.6800673542412123
+Upper Nile,Maban ,2017,"15,047","203,803","9,630","17,323","-7,693",9,,Cereal,undefined,0.6399970758485024
+Upper Nile,Maiwut ,2017,"1,859","41,501",967,"3,528","-2,561",8,,Cereal,undefined,520.1442095637674
+Upper Nile,Malakal ,2017,484,"74,113",271,"7,040","-6,769",9,,Cereal,undefined,0.5599174462980483
+Upper Nile,Manyo ,2017,701,"17,190",477,"1,461",-984,9,,Cereal,undefined,0.6804565363114784
+Upper Nile,Melut ,2017,"5,065","75,298","4,052","6,400","-2,348",9,,Cereal,undefined,0.8000039485893663
+Upper Nile,Panyikang ,2017,665,"24,473",426,"2,080","-1,654",9,,Cereal,undefined,0.640601557804277
+Upper Nile,Renk ,2017,"12,086","127,069","8,702","11,436","-2,734",9,,Cereal,undefined,0.7200089358850249
+Upper Nile,Ulang ,2017,"3,897","98,756","1,870","8,394","-6,524",8,,Cereal,undefined,0.4798696466603372
+Warrap ,Abyei ,2010,"2,256","64,829","2,346","5,834","-3,488",8,,Cereal,undefined,1.039891848765569
+Warrap ,Gogrial East ,2010,"10,758","135,823","8,606","12,903","-4,297",8,,Cereal,undefined,0.7999646777776745
+Warrap ,Gogrial West ,2010,"41,781","324,070","46,794","34,028","12,766",8,,Cereal,undefined,1.1199824801166076
+Warrap ,Tonj East ,2010,"10,784","125,586","8,627","12,558","-3,931",8,,Cereal,undefined,0.799983308760119
+Warrap ,Tonj North ,2010,"18,736","206,539","14,989","20,653","-5,664",8,,Cereal,undefined,0.8000117420380976
+Warrap ,Tonj South ,2010,"13,654","103,395","14,200","9,305","4,895",8,,Cereal,undefined,1.0399879889556982
+Warrap ,Twic ,2010,"26,333","361,925","34,233","32,574","1,659",8,,Cereal,undefined,1.3000026582514024
+Warrap ,Abyei ,2011,"4,840","66,774","5,034","6,009",-975,8,,Cereal,undefined,1.0400818164913948
+Warrap ,Gogrial East ,2011,"12,663","139,897","10,131","13,290","-3,159",8,,Cereal,undefined,0.8000489611548515
+Warrap ,Gogrial West ,2011,"45,425","333,792","36,340","35,049","1,291",8,,Cereal,undefined,0.8000004402852169
+Warrap ,Tonj East ,2011,"9,719","129,353","6,220","12,935","-6,715",8,,Cereal,undefined,0.6399872416170221
+Warrap ,Tonj North ,2011,"20,505","212,735","16,404","21,273","-4,869",8,,Cereal,undefined,0.8000009753671038
+Warrap ,Tonj South ,2011,"12,370","106,497","12,865","9,584","3,281",8,,Cereal,undefined,1.0400158446576828
+Warrap ,Twic ,2011,"25,315","372,783","26,327","33,551","-7,224",8,,Cereal,undefined,1.0399761407223358
+Warrap ,Abyei ,2012,"8,004","76,684","8,324","6,901","1,423",8,,Cereal,undefined,1.0399795105008685
+Warrap ,Gogrial East ,2012,"13,634","150,625","10,908","14,309","-3,401",8,,Cereal,undefined,0.8000601433171239
+Warrap ,Gogrial West ,2012,"54,426","345,398","52,249","36,267","15,982",8,,Cereal,undefined,0.9600008084356586
+Warrap ,Tonj East ,2012,"10,606","141,149","6,788","14,115","-7,327",8,,Cereal,undefined,0.6400184799313603
+Warrap ,Tonj North ,2012,"22,809","219,739","18,247","21,973","-3,726",8,,Cereal,undefined,0.7999921084128703
+Warrap ,Tonj South ,2012,"15,751","115,018","16,381","10,351","6,030",8,,Cereal,undefined,1.0399972065443048
+Warrap ,Twic ,2012,"29,740","364,951","28,550","32,846","-4,296",8,,Cereal,undefined,0.959986684644638
+Warrap ,Abyei ,2013,"7,557","78,984","6,650","7,108",-458,8,,Cereal,undefined,0.8799804157679533
+Warrap ,Gogrial East ,2013,"10,916","120,591","7,859","11,456","-3,597",8,,Cereal,undefined,0.7199549289581444
+Warrap ,Gogrial West ,2013,"51,623","360,369","51,623","37,839","13,784",8,,Cereal,undefined,1.0
+Warrap ,Tonj East ,2013,"9,829","130,816","6,291","13,082","-6,791",8,,Cereal,undefined,0.6400484276281654
+Warrap ,Tonj North ,2013,"24,985","240,704","19,988","24,070","-4,082",8,,Cereal,undefined,0.8000008004770843
+Warrap ,Tonj South ,2013,"18,979","129,348","19,738","11,641","8,097",8,,Cereal,undefined,1.03999135891586
+Warrap ,Twic ,2013,"31,787","425,538","30,516","38,299","-7,783",8,,Cereal,undefined,0.9600152263024938
+Warrap ,Abyei ,2014,"2,256","64,829","2,346","5,834","-3,488",8,,Cereal,undefined,1.039891848765569
+Warrap ,Gogrial East ,2014,"10,758","135,823","8,606","12,903","-4,297",8,,Cereal,undefined,0.7999646777776745
+Warrap ,Gogrial West ,2014,"41,781","324,070","46,794","34,028","12,766",8,,Cereal,undefined,1.1199824801166076
+Warrap ,Tonj East ,2014,"10,784","125,586","8,627","12,558","-3,931",8,,Cereal,undefined,0.799983308760119
+Warrap ,Tonj North ,2014,"18,736","206,539","14,989","20,653","-5,664",8,,Cereal,undefined,0.8000117420380976
+Warrap ,Tonj South ,2014,"13,654","103,395","14,200","9,305","4,895",8,,Cereal,undefined,1.0399879889556982
+Warrap ,Twic ,2014,"26,333","361,925","34,233","32,574","1,659",8,,Cereal,undefined,1.3000026582514024
+Warrap ,Abyei ,2015,"4,840","66,774","5,034","6,009",-975,8,,Cereal,undefined,1.0400818164913948
+Warrap ,Gogrial East ,2015,"12,663","139,897","10,131","13,290","-3,159",8,,Cereal,undefined,0.8000489611548515
+Warrap ,Gogrial West ,2015,"45,425","333,792","36,340","35,049","1,291",8,,Cereal,undefined,0.8000004402852169
+Warrap ,Tonj East ,2015,"9,719","129,353","6,220","12,935","-6,715",8,,Cereal,undefined,0.6399872416170221
+Warrap ,Tonj North ,2015,"20,505","212,735","16,404","21,273","-4,869",8,,Cereal,undefined,0.8000009753671038
+Warrap ,Tonj South ,2015,"12,370","106,497","12,865","9,584","3,281",8,,Cereal,undefined,1.0400158446576828
+Warrap ,Twic ,2015,"25,315","372,783","26,327","33,551","-7,224",8,,Cereal,undefined,1.0399761407223358
+Warrap ,Abyei ,2016,"8,004","76,684","8,324","6,901","1,423",8,,Cereal,undefined,1.0399795105008685
+Warrap ,Gogrial East ,2016,"13,634","150,625","10,908","14,309","-3,401",8,,Cereal,undefined,0.8000601433171239
+Warrap ,Gogrial West ,2016,"54,426","345,398","52,249","36,267","15,982",8,,Cereal,undefined,0.9600008084356586
+Warrap ,Tonj East ,2016,"10,606","141,149","6,788","14,115","-7,327",8,,Cereal,undefined,0.6400184799313603
+Warrap ,Tonj North ,2016,"22,809","219,739","18,247","21,973","-3,726",8,,Cereal,undefined,0.7999921084128703
+Warrap ,Tonj South ,2016,"15,751","115,018","16,381","10,351","6,030",8,,Cereal,undefined,1.0399972065443048
+Warrap ,Twic ,2016,"29,740","364,951","28,550","32,846","-4,296",8,,Cereal,undefined,0.959986684644638
+Warrap ,Abyei ,2017,"7,557","78,984","6,650","7,108",-458,8,,Cereal,undefined,0.8799804157679533
+Warrap ,Gogrial East ,2017,"10,916","120,591","7,859","11,456","-3,597",8,,Cereal,undefined,0.7199549289581444
+Warrap ,Gogrial West ,2017,"51,623","360,369","51,623","37,839","13,784",8,,Cereal,undefined,1.0
+Warrap ,Tonj East ,2017,"9,829","130,816","6,291","13,082","-6,791",8,,Cereal,undefined,0.6400484276281654
+Warrap ,Tonj North ,2017,"24,985","240,704","19,988","24,070","-4,082",8,,Cereal,undefined,0.8000008004770843
+Warrap ,Tonj South ,2017,"18,979","129,348","19,738","11,641","8,097",8,,Cereal,undefined,1.03999135891586
+Warrap ,Twic ,2017,"31,787","425,538","30,516","38,299","-7,783",8,,Cereal,undefined,0.9600152263024938
+Western Bahr El Ghazal ,Jur River ,2010,"23,775","200,864","24,726","22,096","2,630",8,,Cereal,undefined,1.039999831756754
+Western Bahr El Ghazal ,Raga ,2010,"11,056","84,272","12,383","8,427","3,956",8,,Cereal,undefined,1.1200242400123008
+Western Bahr El Ghazal ,Wau ,2010,"34,183","240,236","38,285","28,828","9,457",8,,Cereal,undefined,1.1200008191182191
+Western Bahr El Ghazal ,Jur River ,2011,"22,040","206,890","19,395","22,759","-3,364",8,,Cereal,undefined,0.8799914700931484
+Western Bahr El Ghazal ,Raga ,2011,"11,388","86,800","10,932","8,680","2,252",8,,Cereal,undefined,0.9599582019827716
+Western Bahr El Ghazal ,Wau ,2011,"31,688","247,444","27,885","29,693","-1,808",8,,Cereal,undefined,0.8799864933523942
+Western Bahr El Ghazal ,Jur River ,2012,"21,053","211,738","18,526","23,292","-4,766",8,,Cereal,undefined,0.8799701706637026
+Western Bahr El Ghazal ,Raga ,2012,"6,260","114,522","6,010","11,452","-5,442",8,,Cereal,undefined,0.9600645357102922
+Western Bahr El Ghazal ,Wau ,2012,"23,768","247,468","20,916","29,696","-8,780",8,,Cereal,undefined,0.8800072365902196
+Western Bahr El Ghazal ,Jur River ,2013,"14,985","158,252","13,187","17,408","-4,221",8,,Cereal,undefined,0.8800141473864038
+Western Bahr El Ghazal ,Raga ,2013,"4,025","98,181","3,864","9,818","-5,954",8,,Cereal,undefined,0.9600009937641301
+Western Bahr El Ghazal ,Wau ,2013,"17,780","285,616","15,647","34,273","-18,626",8,,Cereal,undefined,0.8800344205038216
+Western Bahr El Ghazal ,Jur River ,2014,"23,775","200,864","24,726","22,096","2,630",8,,Cereal,undefined,1.039999831756754
+Western Bahr El Ghazal ,Raga ,2014,"11,056","84,272","12,383","8,427","3,956",8,,Cereal,undefined,1.1200242400123008
+Western Bahr El Ghazal ,Wau ,2014,"34,183","240,236","38,285","28,828","9,457",8,,Cereal,undefined,1.1200008191182191
+Western Bahr El Ghazal ,Jur River ,2015,"22,040","206,890","19,395","22,759","-3,364",8,,Cereal,undefined,0.8799914700931484
+Western Bahr El Ghazal ,Raga ,2015,"11,388","86,800","10,932","8,680","2,252",8,,Cereal,undefined,0.9599582019827716
+Western Bahr El Ghazal ,Wau ,2015,"31,688","247,444","27,885","29,693","-1,808",8,,Cereal,undefined,0.8799864933523942
+Western Bahr El Ghazal ,Jur River ,2016,"21,053","211,738","18,526","23,292","-4,766",8,,Cereal,undefined,0.8799701706637026
+Western Bahr El Ghazal ,Raga ,2016,"6,260","114,522","6,010","11,452","-5,442",8,,Cereal,undefined,0.9600645357102922
+Western Bahr El Ghazal ,Wau ,2016,"23,768","247,468","20,916","29,696","-8,780",8,,Cereal,undefined,0.8800072365902196
+Western Bahr El Ghazal ,Jur River ,2017,"14,985","158,252","13,187","17,408","-4,221",8,,Cereal,undefined,0.8800141473864038
+Western Bahr El Ghazal ,Raga ,2017,"4,025","98,181","3,864","9,818","-5,954",8,,Cereal,undefined,0.9600009937641301
+Western Bahr El Ghazal ,Wau ,2017,"17,780","285,616","15,647","34,273","-18,626",8,,Cereal,undefined,0.8800344205038216
+Western Equatoria ,Ezo ,2010,"28,332","102,892","36,265","14,919","21,346",8,,Cereal,undefined,1.2800004235478486
+Western Equatoria ,Ibba ,2010,"14,264","46,594","15,975","6,756","9,219",8,,Cereal,undefined,1.1199514865992246
+Western Equatoria ,Maridi ,2010,"20,852","100,006","25,022","14,501","10,521",6,,Cereal,undefined,1.1999798581437842
+Western Equatoria ,Mundri East ,2010,"6,891","55,864","6,891","8,100","-1,209",8,,Cereal,undefined,1.0
+Western Equatoria ,Mundri West ,2010,"7,050","51,060","9,588","7,404","2,184",8,,Cereal,undefined,1.3599948936894508
+Western Equatoria ,Mvolo ,2010,"5,846","57,384","4,676","8,321","-3,645",8,,Cereal,undefined,0.799866577718479
+Western Equatoria ,Nagero ,2010,"2,311","11,304","1,849","1,639",210,8,,Cereal,undefined,0.8000951927653498
+Western Equatoria ,Nzara ,2010,"23,329","73,522","27,994","10,661","17,333",8,,Cereal,undefined,1.199964850765782
+Western Equatoria ,Tambura ,2010,"20,696","70,344","23,180","10,200","12,980",8,,Cereal,undefined,1.1200226129560642
+Western Equatoria ,Yambio ,2010,"37,770","189,635","45,324","27,497","17,827",8,,Cereal,undefined,1.1999994704806178
+Western Equatoria ,Ezo ,2011,"11,580","105,979","12,970","15,367","-2,397",8,,Cereal,undefined,1.1200335057555637
+Western Equatoria ,Ibba ,2011,"14,692","47,992","15,279","6,959","8,320",8,,Cereal,undefined,1.0399534443680618
+Western Equatoria ,Maridi ,2011,"15,511","103,006","16,132","14,936","1,196",6,,Cereal,undefined,1.0400358452978835
+Western Equatoria ,Mundri East ,2011,"3,154","57,540","2,524","8,343","-5,819",8,,Cereal,undefined,0.800259979074855
+Western Equatoria ,Mundri West ,2011,"2,905","52,592","2,556","7,626","-5,070",8,,Cereal,undefined,0.8798664417748099
+Western Equatoria ,Mvolo ,2011,"4,379","59,106","3,153","8,570","-5,417",8,,Cereal,undefined,0.7200337968989063
+Western Equatoria ,Nagero ,2011,"1,731","11,643","1,524","1,688",-164,8,,Cereal,undefined,0.8804228525215181
+Western Equatoria ,Nzara ,2011,"23,006","75,728","25,767","10,981","14,786",8,,Cereal,undefined,1.1200116490843732
+Western Equatoria ,Tambura ,2011,"21,317","72,455","22,170","10,506","11,664",8,,Cereal,undefined,1.0400148237799702
+Western Equatoria ,Yambio ,2011,"33,156","195,324","34,483","28,322","6,161",8,,Cereal,undefined,1.040022801234162
+Western Equatoria ,Ezo ,2012,"7,348","112,079","8,230","16,252","-8,022",8,,Cereal,undefined,1.1200310284291175
+Western Equatoria ,Ibba ,2012,"13,021","51,041","13,542","7,401","6,141",8,,Cereal,undefined,1.0400119805546382
+Western Equatoria ,Maridi ,2012,"14,787","105,210","15,379","15,256",123,6,,Cereal,undefined,1.0400348952803455
+Western Equatoria ,Mundri East ,2012,"3,101","62,849","2,481","9,113","-6,632",8,,Cereal,undefined,0.8000709425687659
+Western Equatoria ,Mundri West ,2012,"3,158","57,182","2,779","8,291","-5,512",8,,Cereal,undefined,0.8799911339096292
+Western Equatoria ,Mvolo ,2012,"4,705","63,507","3,388","9,209","-5,821",8,,Cereal,undefined,0.7200909651229518
+Western Equatoria ,Nagero ,2012,"1,914","16,548","1,684","2,399",-715,8,,Cereal,undefined,0.8798390888668304
+Western Equatoria ,Nzara ,2012,"19,758","78,794","22,129","11,425","10,704",8,,Cereal,undefined,1.120001417140312
+Western Equatoria ,Tambura ,2012,"23,202","78,860","24,130","11,435","12,695",8,,Cereal,undefined,1.0399963796380498
+Western Equatoria ,Yambio ,2012,"22,302","212,235","23,194","30,774","-7,580",8,,Cereal,undefined,1.0399962335385458
+Western Equatoria ,Ezo ,2013,"9,215","105,422","11,058","15,286","-4,228",8,,Cereal,undefined,1.1999978296491631
+Western Equatoria ,Ibba ,2013,"7,825","30,675","8,138","4,448","3,690",8,,Cereal,undefined,1.039999488824424
+Western Equatoria ,Maridi ,2013,"11,530","76,568","11,991","11,102",889,6,,Cereal,undefined,1.039982307178602
+Western Equatoria ,Mundri East ,2013,"3,339",67,"2,938","9,813","-6,875",8,,Cereal,undefined,0.8799077595759337
+Western Equatoria ,Mundri West ,2013,"3,000","54,321","2,880","7,877","-4,997",8,,Cereal,undefined,0.9600013332888904
+Western Equatoria ,Mvolo ,2013,"4,517","85,353","2,891","12,376","-9,485",8,,Cereal,undefined,0.640034535432025
+Western Equatoria ,Nagero ,2013,"1,273","11,010","1,121","1,596",-475,8,,Cereal,undefined,0.8806063938418035
+Western Equatoria ,Nzara ,2013,"16,097","56,101","20,604","8,135","12,469",8,,Cereal,undefined,1.2799883208776734
+Western Equatoria ,Tambura ,2013,"21,868","74,326","24,492","10,777","13,715",8,,Cereal,undefined,1.1199921346619048
+Western Equatoria ,Yambio ,2013,"22,412","193,889","24,205","28,114","-3,909",8,,Cereal,undefined,1.0800014278001615
+Western Equatoria ,Ezo ,2014,"28,332","102,892","36,265","14,919","21,346",8,,Cereal,undefined,1.2800004235478486
+Western Equatoria ,Ibba ,2014,"14,264","46,594","15,975","6,756","9,219",8,,Cereal,undefined,1.1199514865992246
+Western Equatoria ,Maridi ,2014,"20,852","100,006","25,022","14,501","10,521",6,,Cereal,undefined,1.1999798581437842
+Western Equatoria ,Mundri East ,2014,"6,891","55,864","6,891","8,100","-1,209",8,,Cereal,undefined,1.0
+Western Equatoria ,Mundri West ,2014,"7,050","51,060","9,588","7,404","2,184",8,,Cereal,undefined,1.3599948936894508
+Western Equatoria ,Mvolo ,2014,"5,846","57,384","4,676","8,321","-3,645",8,,Cereal,undefined,0.799866577718479
+Western Equatoria ,Nagero ,2014,"2,311","11,304","1,849","1,639",210,8,,Cereal,undefined,0.8000951927653498
+Western Equatoria ,Nzara ,2014,"23,329","73,522","27,994","10,661","17,333",8,,Cereal,undefined,1.199964850765782
+Western Equatoria ,Tambura ,2014,"20,696","70,344","23,180","10,200","12,980",8,,Cereal,undefined,1.1200226129560642
+Western Equatoria ,Yambio ,2014,"37,770","189,635","45,324","27,497","17,827",8,,Cereal,undefined,1.1999994704806178
+Western Equatoria ,Ezo ,2015,"11,580","105,979","12,970","15,367","-2,397",8,,Cereal,undefined,1.1200335057555637
+Western Equatoria ,Ibba ,2015,"14,692","47,992","15,279","6,959","8,320",8,,Cereal,undefined,1.0399534443680618
+Western Equatoria ,Maridi ,2015,"15,511","103,006","16,132","14,936","1,196",6,,Cereal,undefined,1.0400358452978835
+Western Equatoria ,Mundri East ,2015,"3,154","57,540","2,524","8,343","-5,819",8,,Cereal,undefined,0.800259979074855
+Western Equatoria ,Mundri West ,2015,"2,905","52,592","2,556","7,626","-5,070",8,,Cereal,undefined,0.8798664417748099
+Western Equatoria ,Mvolo ,2015,"4,379","59,106","3,153","8,570","-5,417",8,,Cereal,undefined,0.7200337968989063
+Western Equatoria ,Nagero ,2015,"1,731","11,643","1,524","1,688",-164,8,,Cereal,undefined,0.8804228525215181
+Western Equatoria ,Nzara ,2015,"23,006","75,728","25,767","10,981","14,786",8,,Cereal,undefined,1.1200116490843732
+Western Equatoria ,Tambura ,2015,"21,317","72,455","22,170","10,506","11,664",8,,Cereal,undefined,1.0400148237799702
+Western Equatoria ,Yambio ,2015,"33,156","195,324","34,483","28,322","6,161",8,,Cereal,undefined,1.040022801234162
+Western Equatoria ,Ezo ,2016,"7,348","112,079","8,230","16,252","-8,022",8,,Cereal,undefined,1.1200310284291175
+Western Equatoria ,Ibba ,2016,"13,021","51,041","13,542","7,401","6,141",8,,Cereal,undefined,1.0400119805546382
+Western Equatoria ,Maridi ,2016,"14,787","105,210","15,379","15,256",123,6,,Cereal,undefined,1.0400348952803455
+Western Equatoria ,Mundri East ,2016,"3,101","62,849","2,481","9,113","-6,632",8,,Cereal,undefined,0.8000709425687659
+Western Equatoria ,Mundri West ,2016,"3,158","57,182","2,779","8,291","-5,512",8,,Cereal,undefined,0.8799911339096292
+Western Equatoria ,Mvolo ,2016,"4,705","63,507","3,388","9,209","-5,821",8,,Cereal,undefined,0.7200909651229518
+Western Equatoria ,Nagero ,2016,"1,914","16,548","1,684","2,399",-715,8,,Cereal,undefined,0.8798390888668304
+Western Equatoria ,Nzara ,2016,"19,758","78,794","22,129","11,425","10,704",8,,Cereal,undefined,1.120001417140312
+Western Equatoria ,Tambura ,2016,"23,202","78,860","24,130","11,435","12,695",8,,Cereal,undefined,1.0399963796380498
+Western Equatoria ,Yambio ,2016,"22,302","212,235","23,194","30,774","-7,580",8,,Cereal,undefined,1.0399962335385458
+Western Equatoria ,Ezo ,2017,"9,215","105,422","11,058","15,286","-4,228",8,,Cereal,undefined,1.1999978296491631
+Western Equatoria ,Ibba ,2017,"7,825","30,675","8,138","4,448","3,690",8,,Cereal,undefined,1.039999488824424
+Western Equatoria ,Maridi ,2017,"11,530","76,568","11,991","11,102",889,6,,Cereal,undefined,1.039982307178602
+Western Equatoria ,Mundri East ,2017,"3,339",67,"2,938","9,813","-6,875",8,,Cereal,undefined,0.8799077595759337
+Western Equatoria ,Mundri West ,2017,"3,000","54,321","2,880","7,877","-4,997",8,,Cereal,undefined,0.9600013332888904
+Western Equatoria ,Mvolo ,2017,"4,517","85,353","2,891","12,376","-9,485",8,,Cereal,undefined,0.640034535432025
+Western Equatoria ,Nagero ,2017,"1,273","11,010","1,121","1,596",-475,8,,Cereal,undefined,0.8806063938418035
+Western Equatoria ,Nzara ,2017,"16,097","56,101","20,604","8,135","12,469",8,,Cereal,undefined,1.2799883208776734
+Western Equatoria ,Tambura ,2017,"21,868","74,326","24,492","10,777","13,715",8,,Cereal,undefined,1.1199921346619048
+Western Equatoria ,Yambio ,2017,"22,412","193,889","24,205","28,114","-3,909",8,,Cereal,undefined,1.0800014278001615
